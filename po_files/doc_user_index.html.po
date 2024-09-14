@@ -1,0 +1,959 @@
+#
+msgid ""
+msgstr ""
+
+msgid "html"
+msgstr ""
+
+msgid "algolia docsearch https://docsearch.algolia.com/docs/docsearch-v3/"
+msgstr ""
+
+msgid "hljs.highlightAll();"
+msgstr ""
+
+msgid "Help - Neovim docs"
+msgstr ""
+
+msgid ""
+"TODO: use <img src=\"….svg\"> here instead. Need one that has green "
+"lettering instead of gray."
+msgstr ""
+
+msgid "Neovim"
+msgstr ""
+
+msgid ""
+"<img src=\"https://neovim.io/logos/neovim-logo.svg\" width=\"173\" "
+"height=\"50\" alt=\"Neovim\" />"
+msgstr ""
+
+msgid "algolia docsearch https://docsearch.algolia.com/docs/docsearch-v3/"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "Nvim"
+msgstr ""
+
+msgid ":help"
+msgstr ""
+
+msgid "pages,"
+msgstr ""
+
+msgid "generated"
+msgstr ""
+
+msgid "from"
+msgstr ""
+
+msgid "source"
+msgstr ""
+
+msgid "using the"
+msgstr ""
+
+msgid "tree-sitter-vimdoc"
+msgstr ""
+
+msgid "parser."
+msgstr ""
+
+msgid ""
+"NVIM - help\n"
+"\t\t\t\t\t\t\t\t\t k\n"
+"      Move around:  Use the cursor keys, or \"h\" to go left,\t       h   l\n"
+"\t\t    \"j\" to go down, \"k\" to go up, \"l\" to go right.\t j\n"
+"Close this window:  Use \":q<Enter>\".\n"
+"   Get out of Vim:  Use \":qa!<Enter>\" (careful, all changes are lost!)."
+msgstr ""
+
+msgid "Jump to a subject:  Position the cursor on a tag (e.g."
+msgstr ""
+
+msgid "bars"
+msgstr ""
+
+msgid ") and hit"
+msgstr ""
+
+msgid "CTRL-]"
+msgstr ""
+
+msgid ""
+".\n"
+"   With the mouse:  Double-click the left mouse button on a tag, e.g."
+msgstr ""
+
+msgid "bars"
+msgstr ""
+
+msgid ""
+".\n"
+"\tJump back:  Type"
+msgstr ""
+
+msgid "CTRL-O"
+msgstr ""
+
+msgid ".  Repeat to go further back."
+msgstr ""
+
+msgid ""
+"Get specific help:  It is possible to go directly to whatever you want help\n"
+"\t\t    on, by giving an argument to the"
+msgstr ""
+
+msgid ":help"
+msgstr ""
+
+msgid ""
+"command.\n"
+"\t\t    Prepend something to specify the context:"
+msgstr ""
+
+msgid "WHAT\t\t\tPREPEND    EXAMPLE"
+msgstr ""
+
+msgid ""
+"Normal mode command\t\t   :help x\n"
+"\t\t      Visual mode command\t  v_\t   :help v_u\n"
+"\t\t      Insert mode command\t  i_\t   :help i_<Esc>\n"
+"\t\t      Command-line command\t  :\t   :help :quit\n"
+"\t\t      Command-line editing\t  c_\t   :help c_<Del>\n"
+"\t\t      Vim command argument\t  -\t   :help -r\n"
+"\t\t      Option\t\t\t  '\t   :help"
+msgstr ""
+
+msgid "'textwidth'"
+msgstr ""
+
+msgid ""
+"Regular expression\t  /\t   :help /[\n"
+"\t\t    See"
+msgstr ""
+
+msgid "help-summary"
+msgstr ""
+
+msgid ""
+"for more contexts and an explanation.\n"
+"\t\t    See"
+msgstr ""
+
+msgid "notation"
+msgstr ""
+
+msgid "for an explanation of the help syntax."
+msgstr ""
+
+msgid "Search for help:  Type \":help word\", then hit"
+msgstr ""
+
+msgid "CTRL-D"
+msgstr ""
+
+msgid ""
+"to see matching\n"
+"\t\t    help entries for \"word\".\n"
+"\t\t    Or use \":helpgrep word\"."
+msgstr ""
+
+msgid ":helpgrep"
+msgstr ""
+
+msgid ""
+"Getting started:  Do the Vim tutor, a 30-minute interactive course for the\n"
+"\t\t    basic commands, see"
+msgstr ""
+
+msgid "vimtutor"
+msgstr ""
+
+msgid ""
+".\n"
+"\t\t    Read the user manual from start to end:"
+msgstr ""
+
+msgid "usr_01.txt"
+msgstr ""
+
+msgid ""
+"Vim stands for Vi IMproved.  Most of Vim was made by Bram Moolenaar, but only\n"
+"through the help of many others.  See"
+msgstr ""
+
+msgid "credits"
+msgstr ""
+
+msgid "."
+msgstr ""
+
+msgid "NVIM DOCUMENTATION"
+msgstr ""
+
+msgid "ABOUT NVIM"
+msgstr ""
+
+msgid "reference_toc"
+msgstr ""
+
+msgid "doc-file-list"
+msgstr ""
+
+msgid "Q_ct"
+msgstr ""
+
+msgid "news"
+msgstr ""
+
+msgid "News since the previous release"
+msgstr ""
+
+msgid "nvim"
+msgstr ""
+
+msgid "Transitioning from Vim"
+msgstr ""
+
+msgid "vim-differences"
+msgstr ""
+
+msgid "Nvim compared to Vim"
+msgstr ""
+
+msgid "faq"
+msgstr ""
+
+msgid "Frequently Asked Questions"
+msgstr ""
+
+msgid "user-manual"
+msgstr ""
+
+msgid "User manual: How to accomplish editing tasks."
+msgstr ""
+
+msgid "quickref"
+msgstr ""
+
+msgid "Overview of common commands"
+msgstr ""
+
+msgid "tutor"
+msgstr ""
+
+msgid "30-minute interactive course for beginners"
+msgstr ""
+
+msgid "copying"
+msgstr ""
+
+msgid "About copyrights"
+msgstr ""
+
+msgid "iccf"
+msgstr ""
+
+msgid "Helping poor children in Uganda"
+msgstr ""
+
+msgid "sponsor"
+msgstr ""
+
+msgid "Sponsor Vim development, become a registered Vim user"
+msgstr ""
+
+msgid "www"
+msgstr ""
+
+msgid "Vim on the World Wide Web"
+msgstr ""
+
+msgid "bugs"
+msgstr ""
+
+msgid "Where to send bug reports"
+msgstr ""
+
+msgid "support"
+msgstr ""
+
+msgid "Supported platforms"
+msgstr ""
+
+msgid "GENERAL"
+msgstr ""
+
+msgid "intro"
+msgstr ""
+
+msgid "Introduction to Vim; notation used in help files"
+msgstr ""
+
+msgid "helphelp"
+msgstr ""
+
+msgid "Using the :help files"
+msgstr ""
+
+msgid "index"
+msgstr ""
+
+msgid "Index of all commands"
+msgstr ""
+
+msgid "tips"
+msgstr ""
+
+msgid "Various tips on using Vim"
+msgstr ""
+
+msgid "message.txt"
+msgstr ""
+
+msgid "(Error) messages and explanations"
+msgstr ""
+
+msgid "uganda.txt"
+msgstr ""
+
+msgid "Vim distribution and what to do with your money"
+msgstr ""
+
+msgid "BASIC EDITING"
+msgstr ""
+
+msgid "starting"
+msgstr ""
+
+msgid "Starting Vim, Vim command arguments, initialisation"
+msgstr ""
+
+msgid "edit-files"
+msgstr ""
+
+msgid "Editing and writing files"
+msgstr ""
+
+msgid "motion.txt"
+msgstr ""
+
+msgid "Commands for moving around"
+msgstr ""
+
+msgid "scrolling"
+msgstr ""
+
+msgid "Scrolling the text in the window"
+msgstr ""
+
+msgid "insert.txt"
+msgstr ""
+
+msgid "Insert and Replace mode"
+msgstr ""
+
+msgid "change.txt"
+msgstr ""
+
+msgid "Deleting and replacing text"
+msgstr ""
+
+msgid "undo-redo"
+msgstr ""
+
+msgid "Undo and Redo"
+msgstr ""
+
+msgid "repeat.txt"
+msgstr ""
+
+msgid "Repeating commands, Vim scripts and debugging"
+msgstr ""
+
+msgid "visual-mode"
+msgstr ""
+
+msgid "Using Visual mode (selecting text)"
+msgstr ""
+
+msgid "various"
+msgstr ""
+
+msgid "Various other commands"
+msgstr ""
+
+msgid "crash-recovery"
+msgstr ""
+
+msgid "Recovering from a crash"
+msgstr ""
+
+msgid "ADVANCED EDITING"
+msgstr ""
+
+msgid "cmdline"
+msgstr ""
+
+msgid "Command-line editing"
+msgstr ""
+
+msgid "options"
+msgstr ""
+
+msgid "Description of all options"
+msgstr ""
+
+msgid "pattern-searches"
+msgstr ""
+
+msgid "Vim regexp patterns and search commands"
+msgstr ""
+
+msgid "key-mapping"
+msgstr ""
+
+msgid "Key mapping (shortcuts), abbreviations"
+msgstr ""
+
+msgid "tags"
+msgstr ""
+
+msgid "Tags and special searches"
+msgstr ""
+
+msgid "windows"
+msgstr ""
+
+msgid "Commands for using windows and buffers"
+msgstr ""
+
+msgid "tabpage"
+msgstr ""
+
+msgid "Commands for using tabpages"
+msgstr ""
+
+msgid "spell"
+msgstr ""
+
+msgid "Spell checking"
+msgstr ""
+
+msgid "diff"
+msgstr ""
+
+msgid "Comparing files"
+msgstr ""
+
+msgid "folding"
+msgstr ""
+
+msgid "Hide (fold) ranges of lines"
+msgstr ""
+
+msgid "terminal"
+msgstr ""
+
+msgid "Embedded terminal emulator"
+msgstr ""
+
+msgid "API (EXTENSIBILITY/SCRIPTING/PLUGINS)"
+msgstr ""
+
+msgid "api"
+msgstr ""
+
+msgid "Nvim API via RPC, Lua and Vimscript"
+msgstr ""
+
+msgid "ui"
+msgstr ""
+
+msgid "Nvim UI protocol"
+msgstr ""
+
+msgid "lua-guide"
+msgstr ""
+
+msgid "Nvim Lua guide"
+msgstr ""
+
+msgid "lua"
+msgstr ""
+
+msgid "Lua API"
+msgstr ""
+
+msgid "luaref"
+msgstr ""
+
+msgid "Lua reference manual"
+msgstr ""
+
+msgid "luvref"
+msgstr ""
+
+msgid "Luv ("
+msgstr ""
+
+msgid "vim.uv"
+msgstr ""
+
+msgid ") reference manual"
+msgstr ""
+
+msgid "autocmd"
+msgstr ""
+
+msgid "Event handlers"
+msgstr ""
+
+msgid "job-control"
+msgstr ""
+
+msgid "Spawn and control multiple processes"
+msgstr ""
+
+msgid "channel"
+msgstr ""
+
+msgid "Nvim asynchronous IO"
+msgstr ""
+
+msgid "vimscript"
+msgstr ""
+
+msgid "Vimscript reference"
+msgstr ""
+
+msgid "vimscript-functions"
+msgstr ""
+
+msgid "Vimscript functions"
+msgstr ""
+
+msgid "testing.txt"
+msgstr ""
+
+msgid "Vimscript testing functions"
+msgstr ""
+
+msgid "remote-plugin"
+msgstr ""
+
+msgid "Nvim remote plugins"
+msgstr ""
+
+msgid "health"
+msgstr ""
+
+msgid "Health checking"
+msgstr ""
+
+msgid "PROGRAMMING LANGUAGE SUPPORT"
+msgstr ""
+
+msgid "lsp"
+msgstr ""
+
+msgid "Language Server Protocol (LSP)"
+msgstr ""
+
+msgid "diagnostic-api"
+msgstr ""
+
+msgid "Diagnostic framework"
+msgstr ""
+
+msgid "treesitter"
+msgstr ""
+
+msgid "Incremental syntax parsing"
+msgstr ""
+
+msgid "indent.txt"
+msgstr ""
+
+msgid "automatic indenting for C and other languages"
+msgstr ""
+
+msgid "syntax"
+msgstr ""
+
+msgid "syntax highlighting"
+msgstr ""
+
+msgid "filetype"
+msgstr ""
+
+msgid "Settings for specific types of files"
+msgstr ""
+
+msgid "quickfix"
+msgstr ""
+
+msgid "Commands for a quick edit-compile-fix cycle"
+msgstr ""
+
+msgid "ft_ada.txt"
+msgstr ""
+
+msgid "Ada filetype plugin"
+msgstr ""
+
+msgid "ft_hare.txt"
+msgstr ""
+
+msgid "Filetype plugin for Hare"
+msgstr ""
+
+msgid "ft_ps1.txt"
+msgstr ""
+
+msgid "PowerShell filetype plugin"
+msgstr ""
+
+msgid "ft_raku.txt"
+msgstr ""
+
+msgid "Raku filetype plugin"
+msgstr ""
+
+msgid "ft_rust.txt"
+msgstr ""
+
+msgid "Rust filetype plugin"
+msgstr ""
+
+msgid "ft_sql.txt"
+msgstr ""
+
+msgid "SQL filetype plugin"
+msgstr ""
+
+msgid "UI"
+msgstr ""
+
+msgid "tui"
+msgstr ""
+
+msgid "Builtin UI"
+msgstr ""
+
+msgid "gui"
+msgstr ""
+
+msgid "External (graphical) UIs"
+msgstr ""
+
+msgid "signs"
+msgstr ""
+
+msgid "Signs displayed as window decorations (the \"gutter\")"
+msgstr ""
+
+msgid "LANGUAGE SUPPORT"
+msgstr ""
+
+msgid "digraph"
+msgstr ""
+
+msgid "List of available digraphs"
+msgstr ""
+
+msgid "mbyte.txt"
+msgstr ""
+
+msgid "Multibyte text support"
+msgstr ""
+
+msgid "mlang.txt"
+msgstr ""
+
+msgid "Non-English language support"
+msgstr ""
+
+msgid "rileft.txt"
+msgstr ""
+
+msgid "Right-to-left editing mode"
+msgstr ""
+
+msgid "arabic.txt"
+msgstr ""
+
+msgid "Arabic language support and editing"
+msgstr ""
+
+msgid "hebrew.txt"
+msgstr ""
+
+msgid "Hebrew language support and editing"
+msgstr ""
+
+msgid "russian.txt"
+msgstr ""
+
+msgid "Russian language support and editing"
+msgstr ""
+
+msgid "INTEROP"
+msgstr ""
+
+msgid "provider"
+msgstr ""
+
+msgid "Builtin remote plugin hosts"
+msgstr ""
+
+msgid "if_perl"
+msgstr ""
+
+msgid "Perl interface"
+msgstr ""
+
+msgid "if_pyth"
+msgstr ""
+
+msgid "Python interface"
+msgstr ""
+
+msgid "if_ruby"
+msgstr ""
+
+msgid "Ruby interface"
+msgstr ""
+
+msgid "VERSIONS"
+msgstr ""
+
+msgid "deprecated"
+msgstr ""
+
+msgid "Deprecated"
+msgstr ""
+
+msgid "features that will be removed"
+msgstr ""
+
+msgid "vi-differences"
+msgstr ""
+
+msgid "Differences between Vim and Vi"
+msgstr ""
+
+msgid "DEVELOPING NVIM"
+msgstr ""
+
+msgid "dev"
+msgstr ""
+
+msgid "Development of Nvim"
+msgstr ""
+
+msgid "dev-style"
+msgstr ""
+
+msgid "Development style guidelines"
+msgstr ""
+
+msgid "dev-theme"
+msgstr ""
+
+msgid "Design guidelines (colorschemes etc.)"
+msgstr ""
+
+msgid "dev-tools"
+msgstr ""
+
+msgid "Tools and techniques for developing Nvim"
+msgstr ""
+
+msgid "dev-vimpatch"
+msgstr ""
+
+msgid "Merging patches from Vim"
+msgstr ""
+
+msgid "Standard plugins"
+msgstr ""
+
+msgid "standard-plugin-list"
+msgstr ""
+
+msgid "pi_gzip.txt"
+msgstr ""
+
+msgid "Reading and writing compressed files"
+msgstr ""
+
+msgid "pi_msgpack.txt"
+msgstr ""
+
+msgid "msgpack utilities"
+msgstr ""
+
+msgid "pi_netrw.txt"
+msgstr ""
+
+msgid "Reading and writing files over a network"
+msgstr ""
+
+msgid "pi_paren.txt"
+msgstr ""
+
+msgid "Highlight matching parens"
+msgstr ""
+
+msgid "pi_spec.txt"
+msgstr ""
+
+msgid "Filetype plugin to work with rpm spec files"
+msgstr ""
+
+msgid "pi_tar.txt"
+msgstr ""
+
+msgid "Tar file explorer"
+msgstr ""
+
+msgid "pi_zip.txt"
+msgstr ""
+
+msgid "Zip archive explorer"
+msgstr ""
+
+msgid "Local additions"
+msgstr ""
+
+msgid "Bars example"
+msgstr ""
+
+msgid "bars"
+msgstr ""
+
+msgid "Now that you've jumped here with"
+msgstr ""
+
+msgid "CTRL-]"
+msgstr ""
+
+msgid ""
+"or a double mouse click, you can use\n"
+"CTRL-T,"
+msgstr ""
+
+msgid "CTRL-O"
+msgstr ""
+
+msgid ", g<RightMouse>, or"
+msgstr ""
+
+msgid "<C-RightMouse>"
+msgstr ""
+
+msgid "to go back to where you were."
+msgstr ""
+
+msgid ""
+"Note that tags are within | characters, but when highlighting is enabled these\n"
+"characters are hidden.  That makes it easier to read a command."
+msgstr ""
+
+msgid "You can use"
+msgstr ""
+
+msgid "CTRL-]"
+msgstr ""
+
+msgid ""
+"on any word (even if it is not within \"|\") and Nvim will\n"
+"try to find help for it.  Especially for options in single quotes, e.g."
+msgstr ""
+
+msgid "'hlsearch'"
+msgstr ""
+
+msgid "."
+msgstr ""
+
+msgid "Main"
+msgstr ""
+
+msgid "Commands index"
+msgstr ""
+
+msgid "Quick reference"
+msgstr ""
+
+msgid "NVIM DOCUMENTATION"
+msgstr ""
+
+msgid "ABOUT NVIM"
+msgstr ""
+
+msgid "GENERAL"
+msgstr ""
+
+msgid "BASIC EDITING"
+msgstr ""
+
+msgid "ADVANCED EDITING"
+msgstr ""
+
+msgid "API (EXTENSIBILITY/SCRIPTING/PLUGINS)"
+msgstr ""
+
+msgid "PROGRAMMING LANGUAGE SUPPORT"
+msgstr ""
+
+msgid "UI"
+msgstr ""
+
+msgid "LANGUAGE SUPPORT"
+msgstr ""
+
+msgid "INTEROP"
+msgstr ""
+
+msgid "VERSIONS"
+msgstr ""
+
+msgid "DEVELOPING NVIM"
+msgstr ""
+
+msgid "Bars example"
+msgstr ""
+
+msgid "Generated at 2024-09-13 05:19 from"
+msgstr ""
+
+msgid "deac7df"
+msgstr ""
+
+msgid "parse_errors: 0 ("
+msgstr ""
+
+msgid "report docs bug..."
+msgstr ""
+
+msgid ") |"
+msgstr ""
+
+msgid "noise_lines: 2"
+msgstr ""
+
+msgid "algolia docsearch https://docsearch.algolia.com/docs/docsearch-v3/"
+msgstr ""
+
+msgid ""
+"docsearch({\n"
+"        container: '#docsearch',\n"
+"        appId: 'X185E15FPG',\n"
+"        apiKey: 'b5e6b2f9c636b2b471303205e59832ed',\n"
+"        indexName: 'nvim',\n"
+"      });"
+msgstr ""

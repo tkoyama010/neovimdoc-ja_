@@ -1,0 +1,10994 @@
+#
+msgid ""
+msgstr ""
+
+msgid "html"
+msgstr ""
+
+msgid "algolia docsearch https://docsearch.algolia.com/docs/docsearch-v3/"
+msgstr ""
+
+msgid "hljs.highlightAll();"
+msgstr ""
+
+msgid "Index - Neovim docs"
+msgstr ""
+
+msgid ""
+"TODO: use <img src=\"….svg\"> here instead. Need one that has green "
+"lettering instead of gray."
+msgstr ""
+
+msgid "Neovim"
+msgstr ""
+
+msgid ""
+"<img src=\"https://neovim.io/logos/neovim-logo.svg\" width=\"173\" "
+"height=\"50\" alt=\"Neovim\" />"
+msgstr ""
+
+msgid "algolia docsearch https://docsearch.algolia.com/docs/docsearch-v3/"
+msgstr ""
+
+msgid "Index"
+msgstr ""
+
+msgid "Nvim"
+msgstr ""
+
+msgid ":help"
+msgstr ""
+
+msgid "pages,"
+msgstr ""
+
+msgid "generated"
+msgstr ""
+
+msgid "from"
+msgstr ""
+
+msgid "source"
+msgstr ""
+
+msgid "using the"
+msgstr ""
+
+msgid "tree-sitter-vimdoc"
+msgstr ""
+
+msgid "parser."
+msgstr ""
+
+msgid ""
+"This file contains a list of all commands for each mode, with a tag and a\n"
+"short description.  The lists are sorted on ASCII value."
+msgstr ""
+
+msgid ""
+"Tip: When looking for certain functionality, use a search command.  E.g.,\n"
+"to look for deleting something, use: \"/delete\"."
+msgstr ""
+
+msgid "For an overview of options see"
+msgstr ""
+
+msgid "option-list"
+msgstr ""
+
+msgid ""
+".\n"
+"For an overview of built-in functions see"
+msgstr ""
+
+msgid "functions"
+msgstr ""
+
+msgid ""
+".\n"
+"For a list of Vim variables see"
+msgstr ""
+
+msgid "vim-variable"
+msgstr ""
+
+msgid "."
+msgstr ""
+
+msgid "1. Insert mode"
+msgstr ""
+
+msgid "insert-index"
+msgstr ""
+
+msgid "tag\t\tchar\t\taction in Insert mode"
+msgstr ""
+
+msgid ""
+"------------------------------------------------------------------------------"
+msgstr ""
+
+msgid "i_CTRL-@"
+msgstr ""
+
+msgid "CTRL-@"
+msgstr ""
+
+msgid ""
+"insert previously inserted text and stop\n"
+"\t\t\t\tinsert"
+msgstr ""
+
+msgid "i_CTRL-A"
+msgstr ""
+
+msgid "CTRL-A"
+msgstr ""
+
+msgid "insert previously inserted text"
+msgstr ""
+
+msgid "i_CTRL-C"
+msgstr ""
+
+msgid "CTRL-C"
+msgstr ""
+
+msgid ""
+"quit insert mode, without checking for\n"
+"\t\t\t\tabbreviation"
+msgstr ""
+
+msgid "i_CTRL-D"
+msgstr ""
+
+msgid "CTRL-D"
+msgstr ""
+
+msgid ""
+"delete one shiftwidth of indent in the current\n"
+"\t\t\t\tline"
+msgstr ""
+
+msgid "i_CTRL-E"
+msgstr ""
+
+msgid "CTRL-E"
+msgstr ""
+
+msgid "insert the character which is below the cursor"
+msgstr ""
+
+msgid "CTRL-F"
+msgstr ""
+
+msgid "not used (but by default it's in"
+msgstr ""
+
+msgid "'cinkeys'"
+msgstr ""
+
+msgid ""
+"to\n"
+"\t\t\t\tre-indent the current line)"
+msgstr ""
+
+msgid "i_CTRL-G_j"
+msgstr ""
+
+msgid "CTRL-G"
+msgstr ""
+
+msgid "CTRL-J"
+msgstr ""
+
+msgid "line down, to column where inserting started"
+msgstr ""
+
+msgid "i_CTRL-G_j"
+msgstr ""
+
+msgid "CTRL-G"
+msgstr ""
+
+msgid "j\tline down, to column where inserting started"
+msgstr ""
+
+msgid "i_CTRL-G_j"
+msgstr ""
+
+msgid "CTRL-G"
+msgstr ""
+
+msgid "<Down>"
+msgstr ""
+
+msgid "line down, to column where inserting started"
+msgstr ""
+
+msgid "i_CTRL-G_k"
+msgstr ""
+
+msgid "CTRL-G"
+msgstr ""
+
+msgid "CTRL-K"
+msgstr ""
+
+msgid "line up, to column where inserting started"
+msgstr ""
+
+msgid "i_CTRL-G_k"
+msgstr ""
+
+msgid "CTRL-G"
+msgstr ""
+
+msgid "k\tline up, to column where inserting started"
+msgstr ""
+
+msgid "i_CTRL-G_k"
+msgstr ""
+
+msgid "CTRL-G"
+msgstr ""
+
+msgid "<Up>"
+msgstr ""
+
+msgid "line up, to column where inserting started"
+msgstr ""
+
+msgid "i_CTRL-G_u"
+msgstr ""
+
+msgid "CTRL-G"
+msgstr ""
+
+msgid "u\tstart new undoable edit"
+msgstr ""
+
+msgid "i_CTRL-G_U"
+msgstr ""
+
+msgid "CTRL-G"
+msgstr ""
+
+msgid "U\tdon't break undo with next cursor movement"
+msgstr ""
+
+msgid "i_<BS>"
+msgstr ""
+
+msgid "<BS>"
+msgstr ""
+
+msgid "delete character before the cursor"
+msgstr ""
+
+msgid "i_digraph"
+msgstr ""
+
+msgid "{char1}"
+msgstr ""
+
+msgid "<BS>"
+msgstr ""
+
+msgid "{char2}"
+msgstr ""
+
+msgid "enter digraph (only when"
+msgstr ""
+
+msgid "'digraph'"
+msgstr ""
+
+msgid "option set)"
+msgstr ""
+
+msgid "i_CTRL-H"
+msgstr ""
+
+msgid "CTRL-H"
+msgstr ""
+
+msgid "same as"
+msgstr ""
+
+msgid "<BS>"
+msgstr ""
+
+msgid "i_<Tab>"
+msgstr ""
+
+msgid "<Tab>"
+msgstr ""
+
+msgid "insert a"
+msgstr ""
+
+msgid "<Tab>"
+msgstr ""
+
+msgid "character"
+msgstr ""
+
+msgid "i_CTRL-I"
+msgstr ""
+
+msgid "CTRL-I"
+msgstr ""
+
+msgid "same as"
+msgstr ""
+
+msgid "<Tab>"
+msgstr ""
+
+msgid "i_<NL>"
+msgstr ""
+
+msgid "<NL>"
+msgstr ""
+
+msgid "same as"
+msgstr ""
+
+msgid "<CR>"
+msgstr ""
+
+msgid "i_CTRL-J"
+msgstr ""
+
+msgid "CTRL-J"
+msgstr ""
+
+msgid "same as"
+msgstr ""
+
+msgid "<CR>"
+msgstr ""
+
+msgid "i_CTRL-K"
+msgstr ""
+
+msgid "CTRL-K"
+msgstr ""
+
+msgid "{char1}"
+msgstr ""
+
+msgid "{char2}"
+msgstr ""
+
+msgid "enter digraph"
+msgstr ""
+
+msgid "i_<CR>"
+msgstr ""
+
+msgid "<CR>"
+msgstr ""
+
+msgid "begin new line"
+msgstr ""
+
+msgid "i_CTRL-M"
+msgstr ""
+
+msgid "CTRL-M"
+msgstr ""
+
+msgid "same as"
+msgstr ""
+
+msgid "<CR>"
+msgstr ""
+
+msgid "i_CTRL-N"
+msgstr ""
+
+msgid "CTRL-N"
+msgstr ""
+
+msgid ""
+"find next match for keyword in front of the\n"
+"\t\t\t\tcursor"
+msgstr ""
+
+msgid "i_CTRL-O"
+msgstr ""
+
+msgid "CTRL-O"
+msgstr ""
+
+msgid ""
+"execute a single command and return to insert\n"
+"\t\t\t\tmode"
+msgstr ""
+
+msgid "i_CTRL-P"
+msgstr ""
+
+msgid "CTRL-P"
+msgstr ""
+
+msgid ""
+"find previous match for keyword in front of\n"
+"\t\t\t\tthe cursor"
+msgstr ""
+
+msgid "i_CTRL-Q"
+msgstr ""
+
+msgid "CTRL-Q"
+msgstr ""
+
+msgid "same as"
+msgstr ""
+
+msgid "CTRL-V"
+msgstr ""
+
+msgid ""
+", unless used for terminal\n"
+"\t\t\t\tcontrol flow"
+msgstr ""
+
+msgid "i_CTRL-SHIFT-Q"
+msgstr ""
+
+msgid "CTRL-SHIFT-Q"
+msgstr ""
+
+msgid "{char}"
+msgstr ""
+
+msgid "like"
+msgstr ""
+
+msgid "CTRL-Q"
+msgstr ""
+
+msgid "unless"
+msgstr ""
+
+msgid "tui-modifyOtherKeys"
+msgstr ""
+
+msgid "is active"
+msgstr ""
+
+msgid "i_CTRL-R"
+msgstr ""
+
+msgid "CTRL-R"
+msgstr ""
+
+msgid "{register}"
+msgstr ""
+
+msgid "insert the contents of a register"
+msgstr ""
+
+msgid "i_CTRL-R_CTRL-R"
+msgstr ""
+
+msgid "CTRL-R"
+msgstr ""
+
+msgid "CTRL-R"
+msgstr ""
+
+msgid "{register}"
+msgstr ""
+
+msgid "insert the contents of a register literally"
+msgstr ""
+
+msgid "i_CTRL-R_CTRL-O"
+msgstr ""
+
+msgid "CTRL-R"
+msgstr ""
+
+msgid "CTRL-O"
+msgstr ""
+
+msgid "{register}"
+msgstr ""
+
+msgid ""
+"insert the contents of a register literally\n"
+"\t\t\t\tand don't auto-indent"
+msgstr ""
+
+msgid "i_CTRL-R_CTRL-P"
+msgstr ""
+
+msgid "CTRL-R"
+msgstr ""
+
+msgid "CTRL-P"
+msgstr ""
+
+msgid "{register}"
+msgstr ""
+
+msgid ""
+"insert the contents of a register literally\n"
+"\t\t\t\tand fix indent."
+msgstr ""
+
+msgid "CTRL-S"
+msgstr ""
+
+msgid "not used or used for terminal control flow"
+msgstr ""
+
+msgid "i_CTRL-T"
+msgstr ""
+
+msgid "CTRL-T"
+msgstr ""
+
+msgid ""
+"insert one shiftwidth of indent in current\n"
+"\t\t\t\tline"
+msgstr ""
+
+msgid "i_CTRL-U"
+msgstr ""
+
+msgid "CTRL-U"
+msgstr ""
+
+msgid ""
+"delete all entered characters in the current\n"
+"\t\t\t\tline"
+msgstr ""
+
+msgid "i_CTRL-V"
+msgstr ""
+
+msgid "CTRL-V"
+msgstr ""
+
+msgid "{char}"
+msgstr ""
+
+msgid "insert next non-digit literally"
+msgstr ""
+
+msgid "i_CTRL-SHIFT-V"
+msgstr ""
+
+msgid "CTRL-SHIFT-V"
+msgstr ""
+
+msgid "{char}"
+msgstr ""
+
+msgid "like"
+msgstr ""
+
+msgid "CTRL-V"
+msgstr ""
+
+msgid "unless"
+msgstr ""
+
+msgid "tui-modifyOtherKeys"
+msgstr ""
+
+msgid "is active"
+msgstr ""
+
+msgid "i_CTRL-V_digit"
+msgstr ""
+
+msgid "CTRL-V"
+msgstr ""
+
+msgid "{number}"
+msgstr ""
+
+msgid ""
+"insert three digit decimal number as a single\n"
+"\t\t\t\tbyte."
+msgstr ""
+
+msgid "i_CTRL-W"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "delete word before the cursor"
+msgstr ""
+
+msgid "i_CTRL-X"
+msgstr ""
+
+msgid "CTRL-X"
+msgstr ""
+
+msgid "{mode}"
+msgstr ""
+
+msgid "enter"
+msgstr ""
+
+msgid "CTRL-X"
+msgstr ""
+
+msgid "sub mode, see"
+msgstr ""
+
+msgid "i_CTRL-X_index"
+msgstr ""
+
+msgid "i_CTRL-Y"
+msgstr ""
+
+msgid "CTRL-Y"
+msgstr ""
+
+msgid "insert the character which is above the cursor"
+msgstr ""
+
+msgid "i_<Esc>"
+msgstr ""
+
+msgid "<Esc>"
+msgstr ""
+
+msgid "end insert mode"
+msgstr ""
+
+msgid "i_CTRL-["
+msgstr ""
+
+msgid "CTRL-["
+msgstr ""
+
+msgid "same as"
+msgstr ""
+
+msgid "<Esc>"
+msgstr ""
+
+msgid "i_CTRL-\\_CTRL-N"
+msgstr ""
+
+msgid "CTRL-\\"
+msgstr ""
+
+msgid "CTRL-N"
+msgstr ""
+
+msgid "go to Normal mode"
+msgstr ""
+
+msgid "i_CTRL-\\_CTRL-G"
+msgstr ""
+
+msgid "CTRL-\\"
+msgstr ""
+
+msgid "CTRL-G"
+msgstr ""
+
+msgid "go to Normal mode"
+msgstr ""
+
+msgid "CTRL-\\"
+msgstr ""
+
+msgid "a - z\treserved for extensions"
+msgstr ""
+
+msgid "CTRL-\\"
+msgstr ""
+
+msgid "others\tnot used"
+msgstr ""
+
+msgid "i_CTRL-]"
+msgstr ""
+
+msgid "CTRL-]"
+msgstr ""
+
+msgid "trigger abbreviation"
+msgstr ""
+
+msgid "i_CTRL-^"
+msgstr ""
+
+msgid "CTRL-^"
+msgstr ""
+
+msgid "toggle use of"
+msgstr ""
+
+msgid ":lmap"
+msgstr ""
+
+msgid "mappings"
+msgstr ""
+
+msgid "i_CTRL-_"
+msgstr ""
+
+msgid "CTRL-_"
+msgstr ""
+
+msgid "When"
+msgstr ""
+
+msgid "'allowrevins'"
+msgstr ""
+
+msgid "set: toggle"
+msgstr ""
+
+msgid "'revins'"
+msgstr ""
+
+msgid "<Space>"
+msgstr ""
+
+msgid "to '~'\tnot used, except '0' and '^' followed by"
+msgstr ""
+
+msgid "CTRL-D"
+msgstr ""
+
+msgid "i_0_CTRL-D"
+msgstr ""
+
+msgid "0"
+msgstr ""
+
+msgid "CTRL-D"
+msgstr ""
+
+msgid "delete all indent in the current line"
+msgstr ""
+
+msgid "i_^_CTRL-D"
+msgstr ""
+
+msgid "^"
+msgstr ""
+
+msgid "CTRL-D"
+msgstr ""
+
+msgid ""
+"delete all indent in the current line, restore\n"
+"\t\t\t\tit in the next line"
+msgstr ""
+
+msgid "i_<Del>"
+msgstr ""
+
+msgid "<Del>"
+msgstr ""
+
+msgid "delete character under the cursor"
+msgstr ""
+
+msgid ""
+"Meta characters (0x80 to 0xff, 128 to 255)\n"
+"\t\t\t\tnot used"
+msgstr ""
+
+msgid "i_<Left>"
+msgstr ""
+
+msgid "<Left>"
+msgstr ""
+
+msgid "cursor one character left"
+msgstr ""
+
+msgid "i_<S-Left>"
+msgstr ""
+
+msgid "<S-Left>"
+msgstr ""
+
+msgid "cursor one word left"
+msgstr ""
+
+msgid "i_<C-Left>"
+msgstr ""
+
+msgid "<C-Left>"
+msgstr ""
+
+msgid "cursor one word left"
+msgstr ""
+
+msgid "i_<Right>"
+msgstr ""
+
+msgid "<Right>"
+msgstr ""
+
+msgid "cursor one character right"
+msgstr ""
+
+msgid "i_<S-Right>"
+msgstr ""
+
+msgid "<S-Right>"
+msgstr ""
+
+msgid "cursor one word right"
+msgstr ""
+
+msgid "i_<C-Right>"
+msgstr ""
+
+msgid "<C-Right>"
+msgstr ""
+
+msgid "cursor one word right"
+msgstr ""
+
+msgid "i_<Up>"
+msgstr ""
+
+msgid "<Up>"
+msgstr ""
+
+msgid "cursor one line up"
+msgstr ""
+
+msgid "i_<S-Up>"
+msgstr ""
+
+msgid "<S-Up>"
+msgstr ""
+
+msgid "same as"
+msgstr ""
+
+msgid "<PageUp>"
+msgstr ""
+
+msgid "i_<Down>"
+msgstr ""
+
+msgid "<Down>"
+msgstr ""
+
+msgid "cursor one line down"
+msgstr ""
+
+msgid "i_<S-Down>"
+msgstr ""
+
+msgid "<S-Down>"
+msgstr ""
+
+msgid "same as"
+msgstr ""
+
+msgid "<PageDown>"
+msgstr ""
+
+msgid "i_<Home>"
+msgstr ""
+
+msgid "<Home>"
+msgstr ""
+
+msgid "cursor to start of line"
+msgstr ""
+
+msgid "i_<C-Home>"
+msgstr ""
+
+msgid "<C-Home>"
+msgstr ""
+
+msgid "cursor to start of file"
+msgstr ""
+
+msgid "i_<End>"
+msgstr ""
+
+msgid "<End>"
+msgstr ""
+
+msgid "cursor past end of line"
+msgstr ""
+
+msgid "i_<C-End>"
+msgstr ""
+
+msgid "<C-End>"
+msgstr ""
+
+msgid "cursor past end of file"
+msgstr ""
+
+msgid "i_<PageUp>"
+msgstr ""
+
+msgid "<PageUp>"
+msgstr ""
+
+msgid "one screenful backward"
+msgstr ""
+
+msgid "i_<PageDown>"
+msgstr ""
+
+msgid "<PageDown>"
+msgstr ""
+
+msgid "one screenful forward"
+msgstr ""
+
+msgid "i_<F1>"
+msgstr ""
+
+msgid "<F1>"
+msgstr ""
+
+msgid "same as"
+msgstr ""
+
+msgid "<Help>"
+msgstr ""
+
+msgid "i_<Help>"
+msgstr ""
+
+msgid "<Help>"
+msgstr ""
+
+msgid "stop insert mode and display help window"
+msgstr ""
+
+msgid "i_<Insert>"
+msgstr ""
+
+msgid "<Insert>"
+msgstr ""
+
+msgid "toggle Insert/Replace mode"
+msgstr ""
+
+msgid "i_<LeftMouse>"
+msgstr ""
+
+msgid "<LeftMouse>"
+msgstr ""
+
+msgid "cursor at mouse click"
+msgstr ""
+
+msgid "i_<ScrollWheelDown>"
+msgstr ""
+
+msgid "<ScrollWheelDown>"
+msgstr ""
+
+msgid "move window three lines down"
+msgstr ""
+
+msgid "i_<S-ScrollWheelDown>"
+msgstr ""
+
+msgid "<S-ScrollWheelDown>"
+msgstr ""
+
+msgid "move window one page down"
+msgstr ""
+
+msgid "i_<ScrollWheelUp>"
+msgstr ""
+
+msgid "<ScrollWheelUp>"
+msgstr ""
+
+msgid "move window three lines up"
+msgstr ""
+
+msgid "i_<S-ScrollWheelUp>"
+msgstr ""
+
+msgid "<S-ScrollWheelUp>"
+msgstr ""
+
+msgid "move window one page up"
+msgstr ""
+
+msgid "i_<ScrollWheelLeft>"
+msgstr ""
+
+msgid "<ScrollWheelLeft>"
+msgstr ""
+
+msgid "move window six columns left"
+msgstr ""
+
+msgid "i_<S-ScrollWheelLeft>"
+msgstr ""
+
+msgid "<S-ScrollWheelLeft>"
+msgstr ""
+
+msgid "move window one page left"
+msgstr ""
+
+msgid "i_<ScrollWheelRight>"
+msgstr ""
+
+msgid "<ScrollWheelRight>"
+msgstr ""
+
+msgid "move window six columns right"
+msgstr ""
+
+msgid "i_<S-ScrollWheelRight>"
+msgstr ""
+
+msgid "<S-ScrollWheelRight>"
+msgstr ""
+
+msgid "move window one page right"
+msgstr ""
+
+msgid "commands in"
+msgstr ""
+
+msgid "CTRL-X"
+msgstr ""
+
+msgid "submode"
+msgstr ""
+
+msgid "i_CTRL-X_index"
+msgstr ""
+
+msgid "i_CTRL-X_CTRL-D"
+msgstr ""
+
+msgid "CTRL-X"
+msgstr ""
+
+msgid "CTRL-D"
+msgstr ""
+
+msgid "complete defined identifiers"
+msgstr ""
+
+msgid "i_CTRL-X_CTRL-E"
+msgstr ""
+
+msgid "CTRL-X"
+msgstr ""
+
+msgid "CTRL-E"
+msgstr ""
+
+msgid "scroll up"
+msgstr ""
+
+msgid "i_CTRL-X_CTRL-F"
+msgstr ""
+
+msgid "CTRL-X"
+msgstr ""
+
+msgid "CTRL-F"
+msgstr ""
+
+msgid "complete file names"
+msgstr ""
+
+msgid "i_CTRL-X_CTRL-I"
+msgstr ""
+
+msgid "CTRL-X"
+msgstr ""
+
+msgid "CTRL-I"
+msgstr ""
+
+msgid "complete identifiers"
+msgstr ""
+
+msgid "i_CTRL-X_CTRL-K"
+msgstr ""
+
+msgid "CTRL-X"
+msgstr ""
+
+msgid "CTRL-K"
+msgstr ""
+
+msgid "complete identifiers from dictionary"
+msgstr ""
+
+msgid "i_CTRL-X_CTRL-L"
+msgstr ""
+
+msgid "CTRL-X"
+msgstr ""
+
+msgid "CTRL-L"
+msgstr ""
+
+msgid "complete whole lines"
+msgstr ""
+
+msgid "i_CTRL-X_CTRL-N"
+msgstr ""
+
+msgid "CTRL-X"
+msgstr ""
+
+msgid "CTRL-N"
+msgstr ""
+
+msgid "next completion"
+msgstr ""
+
+msgid "i_CTRL-X_CTRL-O"
+msgstr ""
+
+msgid "CTRL-X"
+msgstr ""
+
+msgid "CTRL-O"
+msgstr ""
+
+msgid "omni completion"
+msgstr ""
+
+msgid "i_CTRL-X_CTRL-P"
+msgstr ""
+
+msgid "CTRL-X"
+msgstr ""
+
+msgid "CTRL-P"
+msgstr ""
+
+msgid "previous completion"
+msgstr ""
+
+msgid "i_CTRL-X_CTRL-S"
+msgstr ""
+
+msgid "CTRL-X"
+msgstr ""
+
+msgid "CTRL-S"
+msgstr ""
+
+msgid "spelling suggestions"
+msgstr ""
+
+msgid "i_CTRL-X_CTRL-T"
+msgstr ""
+
+msgid "CTRL-X"
+msgstr ""
+
+msgid "CTRL-T"
+msgstr ""
+
+msgid "complete identifiers from thesaurus"
+msgstr ""
+
+msgid "i_CTRL-X_CTRL-Y"
+msgstr ""
+
+msgid "CTRL-X"
+msgstr ""
+
+msgid "CTRL-Y"
+msgstr ""
+
+msgid "scroll down"
+msgstr ""
+
+msgid "i_CTRL-X_CTRL-U"
+msgstr ""
+
+msgid "CTRL-X"
+msgstr ""
+
+msgid "CTRL-U"
+msgstr ""
+
+msgid "complete with"
+msgstr ""
+
+msgid "'completefunc'"
+msgstr ""
+
+msgid "i_CTRL-X_CTRL-V"
+msgstr ""
+
+msgid "CTRL-X"
+msgstr ""
+
+msgid "CTRL-V"
+msgstr ""
+
+msgid "complete like in : command line"
+msgstr ""
+
+msgid "i_CTRL-X_CTRL-Z"
+msgstr ""
+
+msgid "CTRL-X"
+msgstr ""
+
+msgid "CTRL-Z"
+msgstr ""
+
+msgid "stop completion, keeping the text as-is"
+msgstr ""
+
+msgid "i_CTRL-X_CTRL-]"
+msgstr ""
+
+msgid "CTRL-X"
+msgstr ""
+
+msgid "CTRL-]"
+msgstr ""
+
+msgid "complete tags"
+msgstr ""
+
+msgid "i_CTRL-X_s"
+msgstr ""
+
+msgid "CTRL-X"
+msgstr ""
+
+msgid "s\tspelling suggestions"
+msgstr ""
+
+msgid "commands in completion mode (see"
+msgstr ""
+
+msgid "popupmenu-keys"
+msgstr ""
+
+msgid ")"
+msgstr ""
+
+msgid "complete_CTRL-E"
+msgstr ""
+
+msgid "CTRL-E"
+msgstr ""
+
+msgid "stop completion and go back to original text"
+msgstr ""
+
+msgid "complete_CTRL-Y"
+msgstr ""
+
+msgid "CTRL-Y"
+msgstr ""
+
+msgid "accept selected match and stop completion"
+msgstr ""
+
+msgid "CTRL-L"
+msgstr ""
+
+msgid "insert one character from the current match"
+msgstr ""
+
+msgid "<CR>"
+msgstr ""
+
+msgid "insert currently selected match"
+msgstr ""
+
+msgid "<BS>"
+msgstr ""
+
+msgid "delete one character and redo search"
+msgstr ""
+
+msgid "CTRL-H"
+msgstr ""
+
+msgid "same as"
+msgstr ""
+
+msgid "<BS>"
+msgstr ""
+
+msgid "<Up>"
+msgstr ""
+
+msgid "select the previous match"
+msgstr ""
+
+msgid "<Down>"
+msgstr ""
+
+msgid "select the next match"
+msgstr ""
+
+msgid "<PageUp>"
+msgstr ""
+
+msgid "select a match several entries back"
+msgstr ""
+
+msgid "<PageDown>"
+msgstr ""
+
+msgid ""
+"select a match several entries forward\n"
+"\t\tother\t\tstop completion and insert the typed character"
+msgstr ""
+
+msgid "2. Normal mode"
+msgstr ""
+
+msgid "normal-index"
+msgstr ""
+
+msgid ""
+"CHAR\t any non-blank character\n"
+"WORD\t a sequence of non-blank characters\n"
+"N\t a number entered before the command"
+msgstr ""
+
+msgid "{motion}"
+msgstr ""
+
+msgid ""
+"a cursor movement command\n"
+"Nmove\t the text that is moved over with a"
+msgstr ""
+
+msgid "{motion}"
+msgstr ""
+
+msgid "SECTION\t a section that possibly starts with '}' instead of '{'"
+msgstr ""
+
+msgid "note: 1 = cursor movement command; 2 = can be undone/redone"
+msgstr ""
+
+msgid "tag\t\tchar\t      note action in Normal mode"
+msgstr ""
+
+msgid ""
+"------------------------------------------------------------------------------"
+msgstr ""
+
+msgid "CTRL-@"
+msgstr ""
+
+msgid "not used"
+msgstr ""
+
+msgid "CTRL-A"
+msgstr ""
+
+msgid "CTRL-A"
+msgstr ""
+
+msgid "2  add N to number at/after cursor"
+msgstr ""
+
+msgid "CTRL-B"
+msgstr ""
+
+msgid "CTRL-B"
+msgstr ""
+
+msgid "1  scroll N screens Backwards"
+msgstr ""
+
+msgid "CTRL-C"
+msgstr ""
+
+msgid "CTRL-C"
+msgstr ""
+
+msgid "interrupt current (search) command"
+msgstr ""
+
+msgid "CTRL-D"
+msgstr ""
+
+msgid "CTRL-D"
+msgstr ""
+
+msgid "scroll Down N lines (default: half a screen)"
+msgstr ""
+
+msgid "CTRL-E"
+msgstr ""
+
+msgid "CTRL-E"
+msgstr ""
+
+msgid "scroll N lines upwards (N lines Extra)"
+msgstr ""
+
+msgid "CTRL-F"
+msgstr ""
+
+msgid "CTRL-F"
+msgstr ""
+
+msgid "1  scroll N screens Forward"
+msgstr ""
+
+msgid "CTRL-G"
+msgstr ""
+
+msgid "CTRL-G"
+msgstr ""
+
+msgid "display current file name and position"
+msgstr ""
+
+msgid "<BS>"
+msgstr ""
+
+msgid "<BS>"
+msgstr ""
+
+msgid "1  same as \"h\""
+msgstr ""
+
+msgid "CTRL-H"
+msgstr ""
+
+msgid "CTRL-H"
+msgstr ""
+
+msgid "1  same as \"h\""
+msgstr ""
+
+msgid "<Tab>"
+msgstr ""
+
+msgid "<Tab>"
+msgstr ""
+
+msgid "1  go to N newer entry in jump list"
+msgstr ""
+
+msgid "CTRL-I"
+msgstr ""
+
+msgid "CTRL-I"
+msgstr ""
+
+msgid "1  same as"
+msgstr ""
+
+msgid "<Tab>"
+msgstr ""
+
+msgid "<NL>"
+msgstr ""
+
+msgid "<NL>"
+msgstr ""
+
+msgid "1  same as \"j\""
+msgstr ""
+
+msgid "<S-NL>"
+msgstr ""
+
+msgid "<S-NL>"
+msgstr ""
+
+msgid "1  same as"
+msgstr ""
+
+msgid "CTRL-F"
+msgstr ""
+
+msgid "CTRL-J"
+msgstr ""
+
+msgid "CTRL-J"
+msgstr ""
+
+msgid "1  same as \"j\""
+msgstr ""
+
+msgid "CTRL-K"
+msgstr ""
+
+msgid "not used"
+msgstr ""
+
+msgid "CTRL-L"
+msgstr ""
+
+msgid "CTRL-L"
+msgstr ""
+
+msgid "redraw screen"
+msgstr ""
+
+msgid "<CR>"
+msgstr ""
+
+msgid "<CR>"
+msgstr ""
+
+msgid "1  cursor to the first CHAR N lines lower"
+msgstr ""
+
+msgid "<S-CR>"
+msgstr ""
+
+msgid "<S-CR>"
+msgstr ""
+
+msgid "1  same as"
+msgstr ""
+
+msgid "CTRL-F"
+msgstr ""
+
+msgid "CTRL-M"
+msgstr ""
+
+msgid "CTRL-M"
+msgstr ""
+
+msgid "1  same as"
+msgstr ""
+
+msgid "<CR>"
+msgstr ""
+
+msgid "CTRL-N"
+msgstr ""
+
+msgid "CTRL-N"
+msgstr ""
+
+msgid "1  same as \"j\""
+msgstr ""
+
+msgid "CTRL-O"
+msgstr ""
+
+msgid "CTRL-O"
+msgstr ""
+
+msgid "1  go to N older entry in jump list"
+msgstr ""
+
+msgid "CTRL-P"
+msgstr ""
+
+msgid "CTRL-P"
+msgstr ""
+
+msgid "1  same as \"k\""
+msgstr ""
+
+msgid "CTRL-Q"
+msgstr ""
+
+msgid "not used, or used for terminal control flow"
+msgstr ""
+
+msgid "CTRL-R"
+msgstr ""
+
+msgid "CTRL-R"
+msgstr ""
+
+msgid "2  redo changes which were undone with 'u'"
+msgstr ""
+
+msgid "CTRL-S"
+msgstr ""
+
+msgid "not used, or used for terminal control flow"
+msgstr ""
+
+msgid "CTRL-T"
+msgstr ""
+
+msgid "CTRL-T"
+msgstr ""
+
+msgid "jump to N older Tag in tag list"
+msgstr ""
+
+msgid "CTRL-U"
+msgstr ""
+
+msgid "CTRL-U"
+msgstr ""
+
+msgid ""
+"scroll N lines Upwards (default: half a\n"
+"\t\t\t\t   screen)"
+msgstr ""
+
+msgid "CTRL-V"
+msgstr ""
+
+msgid "CTRL-V"
+msgstr ""
+
+msgid "start blockwise Visual mode"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "{char}"
+msgstr ""
+
+msgid "window commands, see"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "CTRL-X"
+msgstr ""
+
+msgid "CTRL-X"
+msgstr ""
+
+msgid "2  subtract N from number at/after cursor"
+msgstr ""
+
+msgid "CTRL-Y"
+msgstr ""
+
+msgid "CTRL-Y"
+msgstr ""
+
+msgid "scroll N lines downwards"
+msgstr ""
+
+msgid "CTRL-Z"
+msgstr ""
+
+msgid "CTRL-Z"
+msgstr ""
+
+msgid "suspend program (or start new shell)"
+msgstr ""
+
+msgid "CTRL-["
+msgstr ""
+
+msgid "<Esc>"
+msgstr ""
+
+msgid "not used"
+msgstr ""
+
+msgid "CTRL-\\_CTRL-N"
+msgstr ""
+
+msgid "CTRL-\\"
+msgstr ""
+
+msgid "CTRL-N"
+msgstr ""
+
+msgid "go to Normal mode (no-op)"
+msgstr ""
+
+msgid "CTRL-\\_CTRL-G"
+msgstr ""
+
+msgid "CTRL-\\"
+msgstr ""
+
+msgid "CTRL-G"
+msgstr ""
+
+msgid "go to Normal mode (no-op)"
+msgstr ""
+
+msgid "CTRL-\\"
+msgstr ""
+
+msgid "a - z\t   reserved for extensions"
+msgstr ""
+
+msgid "CTRL-\\"
+msgstr ""
+
+msgid "others\t   not used"
+msgstr ""
+
+msgid "CTRL-]"
+msgstr ""
+
+msgid "CTRL-]"
+msgstr ""
+
+msgid ":ta to ident under cursor"
+msgstr ""
+
+msgid "CTRL-^"
+msgstr ""
+
+msgid "CTRL-^"
+msgstr ""
+
+msgid ""
+"edit Nth alternate file (equivalent to\n"
+"\t\t\t\t   \":e #N\")"
+msgstr ""
+
+msgid "CTRL-<Tab>"
+msgstr ""
+
+msgid "CTRL-<"
+msgstr ""
+
+msgid "Tab>\t   same as"
+msgstr ""
+
+msgid "g<Tab>"
+msgstr ""
+
+msgid ""
+": go to last accessed tab\n"
+"\t\t\t\t   page"
+msgstr ""
+
+msgid "CTRL-_"
+msgstr ""
+
+msgid "not used"
+msgstr ""
+
+msgid "<Space>"
+msgstr ""
+
+msgid "<Space>"
+msgstr ""
+
+msgid "1  same as \"l\""
+msgstr ""
+
+msgid "!"
+msgstr ""
+
+msgid ""
+"!{motion}{filter}\n"
+"\t\t\t\t2  filter Nmove text through the"
+msgstr ""
+
+msgid "{filter}"
+msgstr ""
+
+msgid "command"
+msgstr ""
+
+msgid "!!"
+msgstr ""
+
+msgid "!!{filter}\t2  filter N lines through the"
+msgstr ""
+
+msgid "{filter}"
+msgstr ""
+
+msgid "command"
+msgstr ""
+
+msgid "quote"
+msgstr ""
+
+msgid "\"{register}\t   use"
+msgstr ""
+
+msgid "{register}"
+msgstr ""
+
+msgid ""
+"for next delete, yank or put\n"
+"\t\t\t\t   ("
+msgstr ""
+
+msgid "{.%#:}"
+msgstr ""
+
+msgid "only work with put)"
+msgstr ""
+
+msgid "#"
+msgstr ""
+
+msgid ""
+"#\t\t1  search backward for the Nth occurrence of\n"
+"\t\t\t\t   the ident under the cursor"
+msgstr ""
+
+msgid "$"
+msgstr ""
+
+msgid "$\t\t1  cursor to the end of Nth next line"
+msgstr ""
+
+msgid "%"
+msgstr ""
+
+msgid ""
+"%\t\t1  find the next (curly/square) bracket on\n"
+"\t\t\t\t   this line and go to its match, or go to\n"
+"\t\t\t\t   matching comment bracket, or go to matching\n"
+"\t\t\t\t   preprocessor directive."
+msgstr ""
+
+msgid "N%"
+msgstr ""
+
+msgid "{count}"
+msgstr ""
+
+msgid "%\t1  go to N percentage in the file"
+msgstr ""
+
+msgid "&"
+msgstr ""
+
+msgid "&\t\t2  repeat last :s"
+msgstr ""
+
+msgid "'"
+msgstr ""
+
+msgid ""
+"'{a-zA-Z0-9}\t1  cursor to the first CHAR on the line with\n"
+"\t\t\t\t   mark"
+msgstr ""
+
+msgid "{a-zA-Z0-9}"
+msgstr ""
+
+msgid "''"
+msgstr ""
+
+msgid ""
+"''\t\t1  cursor to the first CHAR of the line where\n"
+"\t\t\t\t   the cursor was before the latest jump."
+msgstr ""
+
+msgid "'("
+msgstr ""
+
+msgid ""
+"'(\t\t1  cursor to the first CHAR on the line of the\n"
+"\t\t\t\t   start of the current sentence"
+msgstr ""
+
+msgid "')"
+msgstr ""
+
+msgid ""
+"')\t\t1  cursor to the first CHAR on the line of the\n"
+"\t\t\t\t   end of the current sentence"
+msgstr ""
+
+msgid "'<"
+msgstr ""
+
+msgid ""
+"'<\t\t1  cursor to the first CHAR of the line where\n"
+"\t\t\t\t   highlighted area starts/started in the\n"
+"\t\t\t\t   current buffer."
+msgstr ""
+
+msgid "'>"
+msgstr ""
+
+msgid ""
+"'>\t\t1  cursor to the first CHAR of the line where\n"
+"\t\t\t\t   highlighted area ends/ended in the current\n"
+"\t\t\t\t   buffer."
+msgstr ""
+
+msgid "'["
+msgstr ""
+
+msgid ""
+"'[\t\t1  cursor to the first CHAR on the line of the\n"
+"\t\t\t\t   start of last operated text or start of put\n"
+"\t\t\t\t   text"
+msgstr ""
+
+msgid "']"
+msgstr ""
+
+msgid ""
+"']\t\t1  cursor to the first CHAR on the line of the\n"
+"\t\t\t\t   end of last operated text or end of put\n"
+"\t\t\t\t   text"
+msgstr ""
+
+msgid "'{"
+msgstr ""
+
+msgid ""
+"'{\t\t1  cursor to the first CHAR on the line of the\n"
+"\t\t\t\t   start of the current paragraph"
+msgstr ""
+
+msgid "'}"
+msgstr ""
+
+msgid ""
+"'}\t\t1  cursor to the first CHAR on the line of the\n"
+"\t\t\t\t   end of the current paragraph"
+msgstr ""
+
+msgid "("
+msgstr ""
+
+msgid "(\t\t1  cursor N sentences backward"
+msgstr ""
+
+msgid ")"
+msgstr ""
+
+msgid ")\t\t1  cursor N sentences forward"
+msgstr ""
+
+msgid "star"
+msgstr ""
+
+msgid ""
+"*\t\t1  search forward for the Nth occurrence of\n"
+"\t\t\t\t   the ident under the cursor"
+msgstr ""
+
+msgid "+"
+msgstr ""
+
+msgid "+\t\t1  same as"
+msgstr ""
+
+msgid "<CR>"
+msgstr ""
+
+msgid "<S-Plus>"
+msgstr ""
+
+msgid "<S-+>"
+msgstr ""
+
+msgid "1  same as"
+msgstr ""
+
+msgid "CTRL-F"
+msgstr ""
+
+msgid ","
+msgstr ""
+
+msgid ""
+",\t\t1  repeat latest f, t, F or T in opposite\n"
+"\t\t\t\t   direction N times"
+msgstr ""
+
+msgid "-"
+msgstr ""
+
+msgid "-\t\t1  cursor to the first CHAR N lines higher"
+msgstr ""
+
+msgid "<S-Minus>"
+msgstr ""
+
+msgid "<S-->"
+msgstr ""
+
+msgid "1  same as"
+msgstr ""
+
+msgid "CTRL-B"
+msgstr ""
+
+msgid "."
+msgstr ""
+
+msgid ""
+".\t\t2  repeat last change with count replaced with\n"
+"\t\t\t\t   N"
+msgstr ""
+
+msgid "/"
+msgstr ""
+
+msgid "/{pattern}<CR>\t1  search forward for the Nth occurrence of"
+msgstr ""
+
+msgid "{pattern}"
+msgstr ""
+
+msgid "/<CR>"
+msgstr ""
+
+msgid "/<CR>\t\t1  search forward for"
+msgstr ""
+
+msgid "{pattern}"
+msgstr ""
+
+msgid "of last search"
+msgstr ""
+
+msgid "0"
+msgstr ""
+
+msgid "0\t\t1  cursor to the first char of the line"
+msgstr ""
+
+msgid "count"
+msgstr ""
+
+msgid "1\t\t   prepend to command to give a count"
+msgstr ""
+
+msgid "count"
+msgstr ""
+
+msgid "2\t\t\t\""
+msgstr ""
+
+msgid "count"
+msgstr ""
+
+msgid "3\t\t\t\""
+msgstr ""
+
+msgid "count"
+msgstr ""
+
+msgid "4\t\t\t\""
+msgstr ""
+
+msgid "count"
+msgstr ""
+
+msgid "5\t\t\t\""
+msgstr ""
+
+msgid "count"
+msgstr ""
+
+msgid "6\t\t\t\""
+msgstr ""
+
+msgid "count"
+msgstr ""
+
+msgid "7\t\t\t\""
+msgstr ""
+
+msgid "count"
+msgstr ""
+
+msgid "8\t\t\t\""
+msgstr ""
+
+msgid "count"
+msgstr ""
+
+msgid "9\t\t\t\""
+msgstr ""
+
+msgid ":"
+msgstr ""
+
+msgid ":\t\t1  start entering an Ex command"
+msgstr ""
+
+msgid "N:"
+msgstr ""
+
+msgid "{count}"
+msgstr ""
+
+msgid ""
+":\t   start entering an Ex command with range\n"
+"\t\t\t\t   from current line to N-1 lines down"
+msgstr ""
+
+msgid ";"
+msgstr ""
+
+msgid ";\t\t1  repeat latest f, t, F or T N times"
+msgstr ""
+
+msgid "<"
+msgstr ""
+
+msgid "<{motion}\t2  shift Nmove lines one"
+msgstr ""
+
+msgid "'shiftwidth'"
+msgstr ""
+
+msgid "leftwards"
+msgstr ""
+
+msgid "<<"
+msgstr ""
+
+msgid "<<\t\t2  shift N lines one"
+msgstr ""
+
+msgid "'shiftwidth'"
+msgstr ""
+
+msgid "leftwards"
+msgstr ""
+
+msgid "="
+msgstr ""
+
+msgid "={motion}\t2  filter Nmove lines through \"indent\""
+msgstr ""
+
+msgid "=="
+msgstr ""
+
+msgid "==\t\t2  filter N lines through \"indent\""
+msgstr ""
+
+msgid ">"
+msgstr ""
+
+msgid ">"
+msgstr ""
+
+msgid "{motion}"
+msgstr ""
+
+msgid "2  shift Nmove lines one"
+msgstr ""
+
+msgid "'shiftwidth'"
+msgstr ""
+
+msgid "rightwards"
+msgstr ""
+
+msgid ">>"
+msgstr ""
+
+msgid ">>\t\t2  shift N lines one"
+msgstr ""
+
+msgid "'shiftwidth'"
+msgstr ""
+
+msgid "rightwards"
+msgstr ""
+
+msgid "?"
+msgstr ""
+
+msgid ""
+"?{pattern}<CR>\t1  search backward for the Nth previous\n"
+"\t\t\t\t   occurrence of"
+msgstr ""
+
+msgid "{pattern}"
+msgstr ""
+
+msgid "?<CR>"
+msgstr ""
+
+msgid "?<CR>\t\t1  search backward for"
+msgstr ""
+
+msgid "{pattern}"
+msgstr ""
+
+msgid "of last search"
+msgstr ""
+
+msgid "@"
+msgstr ""
+
+msgid "@{a-z}\t\t2  execute the contents of register"
+msgstr ""
+
+msgid "{a-z}"
+msgstr ""
+
+msgid "N times"
+msgstr ""
+
+msgid "@:"
+msgstr ""
+
+msgid "@:\t\t   repeat the previous \":\" command N times"
+msgstr ""
+
+msgid "@@"
+msgstr ""
+
+msgid "@@\t\t2  repeat the previous @{a-z} N times"
+msgstr ""
+
+msgid "A"
+msgstr ""
+
+msgid "A\t\t2  append text after the end of the line N times"
+msgstr ""
+
+msgid "B"
+msgstr ""
+
+msgid "B\t\t1  cursor N WORDS backward"
+msgstr ""
+
+msgid "C"
+msgstr ""
+
+msgid ""
+"[\"x]C\t\t2  change from the cursor position to the end\n"
+"\t\t\t\t   of the line, and N-1 more lines [into\n"
+"\t\t\t\t   register x]; synonym for \"c$\""
+msgstr ""
+
+msgid "D"
+msgstr ""
+
+msgid ""
+"[\"x]D\t\t2  delete the characters under the cursor\n"
+"\t\t\t\t   until the end of the line and N-1 more\n"
+"\t\t\t\t   lines [into register x]; synonym for \"d$\""
+msgstr ""
+
+msgid "E"
+msgstr ""
+
+msgid "E\t\t1  cursor forward to the end of WORD N"
+msgstr ""
+
+msgid "F"
+msgstr ""
+
+msgid "F{char}\t\t1  cursor to the Nth occurrence of"
+msgstr ""
+
+msgid "{char}"
+msgstr ""
+
+msgid ""
+"to\n"
+"\t\t\t\t   the left"
+msgstr ""
+
+msgid "G"
+msgstr ""
+
+msgid "G\t\t1  cursor to line N, default last line"
+msgstr ""
+
+msgid "H"
+msgstr ""
+
+msgid "H\t\t1  cursor to line N from top of screen"
+msgstr ""
+
+msgid "I"
+msgstr ""
+
+msgid ""
+"I\t\t2  insert text before the first CHAR on the\n"
+"\t\t\t\t   line N times"
+msgstr ""
+
+msgid "J"
+msgstr ""
+
+msgid "J\t\t2  Join N lines; default is 2"
+msgstr ""
+
+msgid "K"
+msgstr ""
+
+msgid "K\t\t   lookup Keyword under the cursor with"
+msgstr ""
+
+msgid "'keywordprg'"
+msgstr ""
+
+msgid "L"
+msgstr ""
+
+msgid "L\t\t1  cursor to line N from bottom of screen"
+msgstr ""
+
+msgid "M"
+msgstr ""
+
+msgid "M\t\t1  cursor to middle line of screen"
+msgstr ""
+
+msgid "N"
+msgstr ""
+
+msgid ""
+"N\t\t1  repeat the latest '/' or '?' N times in\n"
+"\t\t\t\t   opposite direction"
+msgstr ""
+
+msgid "O"
+msgstr ""
+
+msgid ""
+"O\t\t2  begin a new line above the cursor and\n"
+"\t\t\t\t   insert text, repeat N times"
+msgstr ""
+
+msgid "P"
+msgstr ""
+
+msgid ""
+"[\"x]P\t\t2  put the text [from register x] before the\n"
+"\t\t\t\t   cursor N times"
+msgstr ""
+
+msgid "R"
+msgstr ""
+
+msgid ""
+"R\t\t2  enter replace mode: overtype existing\n"
+"\t\t\t\t   characters, repeat the entered text N-1\n"
+"\t\t\t\t   times"
+msgstr ""
+
+msgid "S"
+msgstr ""
+
+msgid ""
+"[\"x]S\t\t2  delete N lines [into register x] and start\n"
+"\t\t\t\t   insert; synonym for \"cc\"."
+msgstr ""
+
+msgid "T"
+msgstr ""
+
+msgid "T{char}\t\t1  cursor till after Nth occurrence of"
+msgstr ""
+
+msgid "{char}"
+msgstr ""
+
+msgid "to the left"
+msgstr ""
+
+msgid "U"
+msgstr ""
+
+msgid "U\t\t2  undo all latest changes on one line"
+msgstr ""
+
+msgid "V"
+msgstr ""
+
+msgid "V\t\t   start linewise Visual mode"
+msgstr ""
+
+msgid "W"
+msgstr ""
+
+msgid "W\t\t1  cursor N WORDS forward"
+msgstr ""
+
+msgid "X"
+msgstr ""
+
+msgid ""
+"[\"x]X\t\t2  delete N characters before the cursor [into\n"
+"\t\t\t\t   register x]"
+msgstr ""
+
+msgid "Y"
+msgstr ""
+
+msgid ""
+"[\"x]Y\t\t   yank N lines [into register x]; synonym for\n"
+"\t\t\t\t   \"yy\""
+msgstr ""
+
+msgid "Note:"
+msgstr ""
+
+msgid "Mapped to \"y$\" by default."
+msgstr ""
+
+msgid "default-mappings"
+msgstr ""
+
+msgid "ZZ"
+msgstr ""
+
+msgid "ZZ\t\t   write if buffer changed and close window"
+msgstr ""
+
+msgid "ZQ"
+msgstr ""
+
+msgid "ZQ\t\t   close window without writing"
+msgstr ""
+
+msgid "["
+msgstr ""
+
+msgid "["
+msgstr ""
+
+msgid "{char}"
+msgstr ""
+
+msgid "square bracket command (see"
+msgstr ""
+
+msgid "["
+msgstr ""
+
+msgid ""
+"below)\n"
+"\t\t\\\t\t   not used"
+msgstr ""
+
+msgid "]"
+msgstr ""
+
+msgid "]{char}\t\t   square bracket command (see"
+msgstr ""
+
+msgid "]"
+msgstr ""
+
+msgid "below)"
+msgstr ""
+
+msgid "^"
+msgstr ""
+
+msgid "^\t\t1  cursor to the first CHAR of the line"
+msgstr ""
+
+msgid "_"
+msgstr ""
+
+msgid "_\t\t1  cursor to the first CHAR N - 1 lines lower"
+msgstr ""
+
+msgid "`"
+msgstr ""
+
+msgid "{a-zA-Z0-9}\t1  cursor to the mark {a-zA-Z0-9}"
+msgstr ""
+
+msgid "`("
+msgstr ""
+
+msgid "(\t\t1  cursor to the start of the current sentence"
+msgstr ""
+
+msgid "`)"
+msgstr ""
+
+msgid ")\t\t1  cursor to the end of the current sentence"
+msgstr ""
+
+msgid "`<"
+msgstr ""
+
+msgid "<\t\t1  cursor to the start of the highlighted area"
+msgstr ""
+
+msgid "`>"
+msgstr ""
+
+msgid ">\t\t1  cursor to the end of the highlighted area"
+msgstr ""
+
+msgid "`["
+msgstr ""
+
+msgid ""
+"[\t\t1  cursor to the start of last operated text\n"
+"\t\t\t\t   or start of putted text"
+msgstr ""
+
+msgid "`]"
+msgstr ""
+
+msgid ""
+"]\t\t1  cursor to the end of last operated text or\n"
+"\t\t\t\t   end of putted text"
+msgstr ""
+
+msgid "``"
+msgstr ""
+
+msgid "\"``\"\t\t1  cursor to the position before latest jump"
+msgstr ""
+
+msgid "`{"
+msgstr ""
+
+msgid "{\t\t1  cursor to the start of the current paragraph"
+msgstr ""
+
+msgid "`}"
+msgstr ""
+
+msgid "}\t\t1  cursor to the end of the current paragraph"
+msgstr ""
+
+msgid "a"
+msgstr ""
+
+msgid "a\t\t2  append text after the cursor N times"
+msgstr ""
+
+msgid "b"
+msgstr ""
+
+msgid "b\t\t1  cursor N words backward"
+msgstr ""
+
+msgid "c"
+msgstr ""
+
+msgid ""
+"[\"x]c{motion}\t2  delete Nmove text [into register x] and\n"
+"\t\t\t\t   start insert"
+msgstr ""
+
+msgid "cc"
+msgstr ""
+
+msgid ""
+"[\"x]cc\t\t2  delete N lines [into register x] and start\n"
+"\t\t\t\t   insert"
+msgstr ""
+
+msgid "d"
+msgstr ""
+
+msgid "[\"x]d{motion}\t2  delete Nmove text [into register x]"
+msgstr ""
+
+msgid "dd"
+msgstr ""
+
+msgid "[\"x]dd\t\t2  delete N lines [into register x]"
+msgstr ""
+
+msgid "do"
+msgstr ""
+
+msgid "do\t\t2  same as \":diffget\""
+msgstr ""
+
+msgid "dp"
+msgstr ""
+
+msgid "dp\t\t2  same as \":diffput\""
+msgstr ""
+
+msgid "e"
+msgstr ""
+
+msgid "e\t\t1  cursor forward to the end of word N"
+msgstr ""
+
+msgid "f"
+msgstr ""
+
+msgid "f{char}\t\t1  cursor to Nth occurrence of"
+msgstr ""
+
+msgid "{char}"
+msgstr ""
+
+msgid ""
+"to the\n"
+"\t\t\t\t   right"
+msgstr ""
+
+msgid "g"
+msgstr ""
+
+msgid "g{char}\t\t   extended commands, see"
+msgstr ""
+
+msgid "g"
+msgstr ""
+
+msgid "below"
+msgstr ""
+
+msgid "h"
+msgstr ""
+
+msgid "h\t\t1  cursor N chars to the left"
+msgstr ""
+
+msgid "i"
+msgstr ""
+
+msgid "i\t\t2  insert text before the cursor N times"
+msgstr ""
+
+msgid "j"
+msgstr ""
+
+msgid "j\t\t1  cursor N lines downward"
+msgstr ""
+
+msgid "k"
+msgstr ""
+
+msgid "k\t\t1  cursor N lines upward"
+msgstr ""
+
+msgid "l"
+msgstr ""
+
+msgid "l\t\t1  cursor N chars to the right"
+msgstr ""
+
+msgid "m"
+msgstr ""
+
+msgid "m{A-Za-z}\t   set mark"
+msgstr ""
+
+msgid "{A-Za-z}"
+msgstr ""
+
+msgid "at cursor position"
+msgstr ""
+
+msgid "n"
+msgstr ""
+
+msgid "n\t\t1  repeat the latest '/' or '?' N times"
+msgstr ""
+
+msgid "o"
+msgstr ""
+
+msgid ""
+"o\t\t2  begin a new line below the cursor and\n"
+"\t\t\t\t   insert text, repeat N times"
+msgstr ""
+
+msgid "p"
+msgstr ""
+
+msgid ""
+"[\"x]p\t\t2  put the text [from register x] after the\n"
+"\t\t\t\t   cursor N times"
+msgstr ""
+
+msgid "q"
+msgstr ""
+
+msgid "q{0-9a-zA-Z\"}\t   record typed characters into named register"
+msgstr ""
+
+msgid "{0-9a-zA-Z\"}"
+msgstr ""
+
+msgid "(uppercase to append)"
+msgstr ""
+
+msgid "q"
+msgstr ""
+
+msgid "q\t\t   (while recording) stops recording"
+msgstr ""
+
+msgid "Q"
+msgstr ""
+
+msgid "Q\t\t2  replay last recorded register"
+msgstr ""
+
+msgid "q:"
+msgstr ""
+
+msgid "q:\t\t   edit : command-line in command-line window"
+msgstr ""
+
+msgid "q/"
+msgstr ""
+
+msgid "q/\t\t   edit / command-line in command-line window"
+msgstr ""
+
+msgid "q?"
+msgstr ""
+
+msgid "q?\t\t   edit ? command-line in command-line window"
+msgstr ""
+
+msgid "r"
+msgstr ""
+
+msgid "r{char}\t\t2  replace N chars with"
+msgstr ""
+
+msgid "{char}"
+msgstr ""
+
+msgid "s"
+msgstr ""
+
+msgid ""
+"[\"x]s\t\t2  (substitute) delete N characters [into\n"
+"\t\t\t\t   register x] and start insert"
+msgstr ""
+
+msgid "t"
+msgstr ""
+
+msgid "t{char}\t\t1  cursor till before Nth occurrence of"
+msgstr ""
+
+msgid "{char}"
+msgstr ""
+
+msgid "to the right"
+msgstr ""
+
+msgid "u"
+msgstr ""
+
+msgid "u\t\t2  undo changes"
+msgstr ""
+
+msgid "v"
+msgstr ""
+
+msgid "v\t\t   start charwise Visual mode"
+msgstr ""
+
+msgid "w"
+msgstr ""
+
+msgid "w\t\t1  cursor N words forward"
+msgstr ""
+
+msgid "x"
+msgstr ""
+
+msgid ""
+"[\"x]x\t\t2  delete N characters under and after the\n"
+"\t\t\t\t   cursor [into register x]"
+msgstr ""
+
+msgid "y"
+msgstr ""
+
+msgid "[\"x]y{motion}\t   yank Nmove text [into register x]"
+msgstr ""
+
+msgid "yy"
+msgstr ""
+
+msgid "[\"x]yy\t\t   yank N lines [into register x]"
+msgstr ""
+
+msgid "z"
+msgstr ""
+
+msgid "z{char}\t\t   commands starting with 'z', see"
+msgstr ""
+
+msgid "z"
+msgstr ""
+
+msgid "below"
+msgstr ""
+
+msgid "{"
+msgstr ""
+
+msgid "{\t\t1  cursor N paragraphs backward"
+msgstr ""
+
+msgid "bar"
+msgstr ""
+
+msgid "|\t\t1  cursor to column N"
+msgstr ""
+
+msgid "}"
+msgstr ""
+
+msgid "}\t\t1  cursor N paragraphs forward"
+msgstr ""
+
+msgid "~"
+msgstr ""
+
+msgid "~\t\t2"
+msgstr ""
+
+msgid "'tildeop'"
+msgstr ""
+
+msgid ""
+"off: switch case of N characters\n"
+"\t\t\t\t   under cursor and move the cursor N\n"
+"\t\t\t\t   characters to the right"
+msgstr ""
+
+msgid "~"
+msgstr ""
+
+msgid "~"
+msgstr ""
+
+msgid "{motion}"
+msgstr ""
+
+msgid "'tildeop'"
+msgstr ""
+
+msgid "on: switch case of Nmove text"
+msgstr ""
+
+msgid "<C-End>"
+msgstr ""
+
+msgid "<C-End>"
+msgstr ""
+
+msgid "1  same as \"G\""
+msgstr ""
+
+msgid "<C-Home>"
+msgstr ""
+
+msgid "<C-Home>"
+msgstr ""
+
+msgid "1  same as \"gg\""
+msgstr ""
+
+msgid "<C-Left>"
+msgstr ""
+
+msgid "<C-Left>"
+msgstr ""
+
+msgid "1  same as \"b\""
+msgstr ""
+
+msgid "<C-LeftMouse>"
+msgstr ""
+
+msgid "<C-LeftMouse>"
+msgstr ""
+
+msgid "\":ta\" to the keyword at the mouse click"
+msgstr ""
+
+msgid "<C-Right>"
+msgstr ""
+
+msgid "<C-Right>"
+msgstr ""
+
+msgid "1  same as \"w\""
+msgstr ""
+
+msgid "<C-RightMouse>"
+msgstr ""
+
+msgid "<C-RightMouse>"
+msgstr ""
+
+msgid "same as \"CTRL-T\""
+msgstr ""
+
+msgid "<C-Tab>"
+msgstr ""
+
+msgid "<C-Tab>"
+msgstr ""
+
+msgid "same as \"g<Tab>\""
+msgstr ""
+
+msgid "<Del>"
+msgstr ""
+
+msgid "[\"x]<Del>\t2  same as \"x\""
+msgstr ""
+
+msgid "N<Del>"
+msgstr ""
+
+msgid "{count}"
+msgstr ""
+
+msgid "<Del>"
+msgstr ""
+
+msgid "remove the last digit from"
+msgstr ""
+
+msgid "{count}"
+msgstr ""
+
+msgid "<Down>"
+msgstr ""
+
+msgid "<Down>"
+msgstr ""
+
+msgid "1  same as \"j\""
+msgstr ""
+
+msgid "<End>"
+msgstr ""
+
+msgid "<End>"
+msgstr ""
+
+msgid "1  same as \"$\""
+msgstr ""
+
+msgid "<F1>"
+msgstr ""
+
+msgid "<F1>"
+msgstr ""
+
+msgid "same as"
+msgstr ""
+
+msgid "<Help>"
+msgstr ""
+
+msgid "<Help>"
+msgstr ""
+
+msgid "<Help>"
+msgstr ""
+
+msgid "open a help window"
+msgstr ""
+
+msgid "<Home>"
+msgstr ""
+
+msgid "<Home>"
+msgstr ""
+
+msgid "1  same as \"0\""
+msgstr ""
+
+msgid "<Insert>"
+msgstr ""
+
+msgid "<Insert>"
+msgstr ""
+
+msgid "2  same as \"i\""
+msgstr ""
+
+msgid "<Left>"
+msgstr ""
+
+msgid "<Left>"
+msgstr ""
+
+msgid "1  same as \"h\""
+msgstr ""
+
+msgid "<LeftMouse>"
+msgstr ""
+
+msgid "<LeftMouse>"
+msgstr ""
+
+msgid "1  move cursor to the mouse click position"
+msgstr ""
+
+msgid "<MiddleMouse>"
+msgstr ""
+
+msgid "<MiddleMouse>"
+msgstr ""
+
+msgid "2  same as \"gP\" at the mouse click position"
+msgstr ""
+
+msgid "<PageDown>"
+msgstr ""
+
+msgid "<PageDown>"
+msgstr ""
+
+msgid "same as"
+msgstr ""
+
+msgid "CTRL-F"
+msgstr ""
+
+msgid "<PageUp>"
+msgstr ""
+
+msgid "<PageUp>"
+msgstr ""
+
+msgid "same as"
+msgstr ""
+
+msgid "CTRL-B"
+msgstr ""
+
+msgid "<Right>"
+msgstr ""
+
+msgid "<Right>"
+msgstr ""
+
+msgid "1  same as \"l\""
+msgstr ""
+
+msgid "<RightMouse>"
+msgstr ""
+
+msgid "<RightMouse>"
+msgstr ""
+
+msgid ""
+"start Visual mode, move cursor to the mouse\n"
+"\t\t\t\t   click position"
+msgstr ""
+
+msgid "<S-Down>"
+msgstr ""
+
+msgid "<S-Down>"
+msgstr ""
+
+msgid "1  same as"
+msgstr ""
+
+msgid "CTRL-F"
+msgstr ""
+
+msgid "<S-Left>"
+msgstr ""
+
+msgid "<S-Left>"
+msgstr ""
+
+msgid "1  same as \"b\""
+msgstr ""
+
+msgid "<S-LeftMouse>"
+msgstr ""
+
+msgid "<S-LeftMouse>"
+msgstr ""
+
+msgid "same as \"*\" at the mouse click position"
+msgstr ""
+
+msgid "<S-Right>"
+msgstr ""
+
+msgid "<S-Right>"
+msgstr ""
+
+msgid "1  same as \"w\""
+msgstr ""
+
+msgid "<S-RightMouse>"
+msgstr ""
+
+msgid "<S-RightMouse>"
+msgstr ""
+
+msgid "same as \"#\" at the mouse click position"
+msgstr ""
+
+msgid "<S-Up>"
+msgstr ""
+
+msgid "<S-Up>"
+msgstr ""
+
+msgid "1  same as"
+msgstr ""
+
+msgid "CTRL-B"
+msgstr ""
+
+msgid "<Undo>"
+msgstr ""
+
+msgid "<Undo>"
+msgstr ""
+
+msgid "2  same as \"u\""
+msgstr ""
+
+msgid "<Up>"
+msgstr ""
+
+msgid "<Up>"
+msgstr ""
+
+msgid "1  same as \"k\""
+msgstr ""
+
+msgid "<ScrollWheelDown>"
+msgstr ""
+
+msgid "<ScrollWheelDown>"
+msgstr ""
+
+msgid "move window three lines down"
+msgstr ""
+
+msgid "<S-ScrollWheelDown>"
+msgstr ""
+
+msgid "<S-ScrollWheelDown>"
+msgstr ""
+
+msgid "move window one page down"
+msgstr ""
+
+msgid "<ScrollWheelUp>"
+msgstr ""
+
+msgid "<ScrollWheelUp>"
+msgstr ""
+
+msgid "move window three lines up"
+msgstr ""
+
+msgid "<S-ScrollWheelUp>"
+msgstr ""
+
+msgid "<S-ScrollWheelUp>"
+msgstr ""
+
+msgid "move window one page up"
+msgstr ""
+
+msgid "<ScrollWheelLeft>"
+msgstr ""
+
+msgid "<ScrollWheelLeft>"
+msgstr ""
+
+msgid "move window six columns left"
+msgstr ""
+
+msgid "<S-ScrollWheelLeft>"
+msgstr ""
+
+msgid "<S-ScrollWheelLeft>"
+msgstr ""
+
+msgid "move window one page left"
+msgstr ""
+
+msgid "<ScrollWheelRight>"
+msgstr ""
+
+msgid "<ScrollWheelRight>"
+msgstr ""
+
+msgid "move window six columns right"
+msgstr ""
+
+msgid "<S-ScrollWheelRight>"
+msgstr ""
+
+msgid "<S-ScrollWheelRight>"
+msgstr ""
+
+msgid "move window one page right"
+msgstr ""
+
+msgid "2.1 Text objects"
+msgstr ""
+
+msgid "objects"
+msgstr ""
+
+msgid ""
+"These can be used after an operator or in Visual mode to select an object."
+msgstr ""
+
+msgid "tag\t\tcommand\t\t   action in op-pending and Visual mode"
+msgstr ""
+
+msgid ""
+"------------------------------------------------------------------------------"
+msgstr ""
+
+msgid "v_aquote"
+msgstr ""
+
+msgid "a\"\t\t   double quoted string"
+msgstr ""
+
+msgid "v_a'"
+msgstr ""
+
+msgid "a'\t\t   single quoted string"
+msgstr ""
+
+msgid "v_a("
+msgstr ""
+
+msgid "a(\t\t   same as ab"
+msgstr ""
+
+msgid "v_a)"
+msgstr ""
+
+msgid "a)\t\t   same as ab"
+msgstr ""
+
+msgid "v_a<"
+msgstr ""
+
+msgid "a<\t\t   \"a <>\" from '<' to the matching '>'"
+msgstr ""
+
+msgid "v_a>"
+msgstr ""
+
+msgid "a>\t\t   same as a<"
+msgstr ""
+
+msgid "v_aB"
+msgstr ""
+
+msgid "aB\t\t   \"a Block\" from"
+msgstr ""
+
+msgid "[{"
+msgstr ""
+
+msgid "to"
+msgstr ""
+
+msgid "]}"
+msgstr ""
+
+msgid "(with brackets)"
+msgstr ""
+
+msgid "v_aW"
+msgstr ""
+
+msgid "aW\t\t   \"a WORD\" (with white space)"
+msgstr ""
+
+msgid "v_a["
+msgstr ""
+
+msgid "a[\t\t   \"a []\" from '[' to the matching ']'"
+msgstr ""
+
+msgid "v_a]"
+msgstr ""
+
+msgid "a]\t\t   same as a["
+msgstr ""
+
+msgid "v_a`"
+msgstr ""
+
+msgid "a`\t\t   string in backticks"
+msgstr ""
+
+msgid "v_ab"
+msgstr ""
+
+msgid "ab\t\t   \"a block\" from \"[(\" to \"])\" (with braces)"
+msgstr ""
+
+msgid "v_ap"
+msgstr ""
+
+msgid "ap\t\t   \"a paragraph\" (with white space)"
+msgstr ""
+
+msgid "v_as"
+msgstr ""
+
+msgid "as\t\t   \"a sentence\" (with white space)"
+msgstr ""
+
+msgid "v_at"
+msgstr ""
+
+msgid "at\t\t   \"a tag block\" (with white space)"
+msgstr ""
+
+msgid "v_aw"
+msgstr ""
+
+msgid "aw\t\t   \"a word\" (with white space)"
+msgstr ""
+
+msgid "v_a{"
+msgstr ""
+
+msgid "a{\t\t   same as aB"
+msgstr ""
+
+msgid "v_a}"
+msgstr ""
+
+msgid "a}\t\t   same as aB"
+msgstr ""
+
+msgid "v_iquote"
+msgstr ""
+
+msgid "i\"\t\t   double quoted string without the quotes"
+msgstr ""
+
+msgid "v_i'"
+msgstr ""
+
+msgid "i'\t\t   single quoted string without the quotes"
+msgstr ""
+
+msgid "v_i("
+msgstr ""
+
+msgid "i(\t\t   same as ib"
+msgstr ""
+
+msgid "v_i)"
+msgstr ""
+
+msgid "i)\t\t   same as ib"
+msgstr ""
+
+msgid "v_i<"
+msgstr ""
+
+msgid "i<\t\t   \"inner <>\" from '<' to the matching '>'"
+msgstr ""
+
+msgid "v_i>"
+msgstr ""
+
+msgid "i>\t\t   same as i<"
+msgstr ""
+
+msgid "v_iB"
+msgstr ""
+
+msgid "iB\t\t   \"inner Block\" from"
+msgstr ""
+
+msgid "[{"
+msgstr ""
+
+msgid "and"
+msgstr ""
+
+msgid "]}"
+msgstr ""
+
+msgid "v_iW"
+msgstr ""
+
+msgid "iW\t\t   \"inner WORD\""
+msgstr ""
+
+msgid "v_i["
+msgstr ""
+
+msgid "i[\t\t   \"inner []\" from '[' to the matching ']'"
+msgstr ""
+
+msgid "v_i]"
+msgstr ""
+
+msgid "i]\t\t   same as i["
+msgstr ""
+
+msgid "v_i`"
+msgstr ""
+
+msgid "i`\t\t   string in backticks without the backticks"
+msgstr ""
+
+msgid "v_ib"
+msgstr ""
+
+msgid "ib\t\t   \"inner block\" from \"[(\" to \"])\""
+msgstr ""
+
+msgid "v_ip"
+msgstr ""
+
+msgid "ip\t\t   \"inner paragraph\""
+msgstr ""
+
+msgid "v_is"
+msgstr ""
+
+msgid "is\t\t   \"inner sentence\""
+msgstr ""
+
+msgid "v_it"
+msgstr ""
+
+msgid "it\t\t   \"inner tag block\""
+msgstr ""
+
+msgid "v_iw"
+msgstr ""
+
+msgid "iw\t\t   \"inner word\""
+msgstr ""
+
+msgid "v_i{"
+msgstr ""
+
+msgid "i{\t\t   same as iB"
+msgstr ""
+
+msgid "v_i}"
+msgstr ""
+
+msgid "i}\t\t   same as iB"
+msgstr ""
+
+msgid "2.2 Window commands"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "tag\t\tcommand\t\t   action in Normal mode"
+msgstr ""
+
+msgid ""
+"------------------------------------------------------------------------------"
+msgstr ""
+
+msgid "CTRL-W_CTRL-B"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "CTRL-B"
+msgstr ""
+
+msgid "same as \"CTRL-W b\""
+msgstr ""
+
+msgid "CTRL-W_CTRL-C"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "CTRL-C"
+msgstr ""
+
+msgid "same as \"CTRL-W c\""
+msgstr ""
+
+msgid "CTRL-W_CTRL-D"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "CTRL-D"
+msgstr ""
+
+msgid "same as \"CTRL-W d\""
+msgstr ""
+
+msgid "CTRL-W_CTRL-F"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "CTRL-F"
+msgstr ""
+
+msgid "same as \"CTRL-W f\""
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "CTRL-G"
+msgstr ""
+
+msgid "same as \"CTRL-W g ..\""
+msgstr ""
+
+msgid "CTRL-W_CTRL-H"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "CTRL-H"
+msgstr ""
+
+msgid "same as \"CTRL-W h\""
+msgstr ""
+
+msgid "CTRL-W_CTRL-I"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "CTRL-I"
+msgstr ""
+
+msgid "same as \"CTRL-W i\""
+msgstr ""
+
+msgid "CTRL-W_CTRL-J"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "CTRL-J"
+msgstr ""
+
+msgid "same as \"CTRL-W j\""
+msgstr ""
+
+msgid "CTRL-W_CTRL-K"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "CTRL-K"
+msgstr ""
+
+msgid "same as \"CTRL-W k\""
+msgstr ""
+
+msgid "CTRL-W_CTRL-L"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "CTRL-L"
+msgstr ""
+
+msgid "same as \"CTRL-W l\""
+msgstr ""
+
+msgid "CTRL-W_CTRL-N"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "CTRL-N"
+msgstr ""
+
+msgid "same as \"CTRL-W n\""
+msgstr ""
+
+msgid "CTRL-W_CTRL-O"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "CTRL-O"
+msgstr ""
+
+msgid "same as \"CTRL-W o\""
+msgstr ""
+
+msgid "CTRL-W_CTRL-P"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "CTRL-P"
+msgstr ""
+
+msgid "same as \"CTRL-W p\""
+msgstr ""
+
+msgid "CTRL-W_CTRL-Q"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "CTRL-Q"
+msgstr ""
+
+msgid "same as \"CTRL-W q\""
+msgstr ""
+
+msgid "CTRL-W_CTRL-R"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "CTRL-R"
+msgstr ""
+
+msgid "same as \"CTRL-W r\""
+msgstr ""
+
+msgid "CTRL-W_CTRL-S"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "CTRL-S"
+msgstr ""
+
+msgid "same as \"CTRL-W s\""
+msgstr ""
+
+msgid "CTRL-W_CTRL-T"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "CTRL-T"
+msgstr ""
+
+msgid "same as \"CTRL-W t\""
+msgstr ""
+
+msgid "CTRL-W_CTRL-V"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "CTRL-V"
+msgstr ""
+
+msgid "same as \"CTRL-W v\""
+msgstr ""
+
+msgid "CTRL-W_CTRL-W"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "same as \"CTRL-W w\""
+msgstr ""
+
+msgid "CTRL-W_CTRL-X"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "CTRL-X"
+msgstr ""
+
+msgid "same as \"CTRL-W x\""
+msgstr ""
+
+msgid "CTRL-W_CTRL-Z"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "CTRL-Z"
+msgstr ""
+
+msgid "same as \"CTRL-W z\""
+msgstr ""
+
+msgid "CTRL-W_CTRL-]"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "CTRL-]"
+msgstr ""
+
+msgid "same as \"CTRL-W ]\""
+msgstr ""
+
+msgid "CTRL-W_CTRL-^"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "CTRL-^"
+msgstr ""
+
+msgid "same as \"CTRL-W ^\""
+msgstr ""
+
+msgid "CTRL-W_CTRL-_"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "CTRL-_"
+msgstr ""
+
+msgid "same as \"CTRL-W _\""
+msgstr ""
+
+msgid "CTRL-W_+"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "+\t   increase current window height N lines"
+msgstr ""
+
+msgid "CTRL-W_-"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "-\t   decrease current window height N lines"
+msgstr ""
+
+msgid "CTRL-W_<"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "<\t   decrease current window width N columns"
+msgstr ""
+
+msgid "CTRL-W_="
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "=\t   make all windows the same height & width"
+msgstr ""
+
+msgid "CTRL-W_>"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid ">\t   increase current window width N columns"
+msgstr ""
+
+msgid "CTRL-W_H"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "H\t   move current window to the far left"
+msgstr ""
+
+msgid "CTRL-W_J"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "J\t   move current window to the very bottom"
+msgstr ""
+
+msgid "CTRL-W_K"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "K\t   move current window to the very top"
+msgstr ""
+
+msgid "CTRL-W_L"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "L\t   move current window to the far right"
+msgstr ""
+
+msgid "CTRL-W_P"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "P\t   go to preview window"
+msgstr ""
+
+msgid "CTRL-W_R"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "R\t   rotate windows upwards N times"
+msgstr ""
+
+msgid "CTRL-W_S"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "S\t   same as \"CTRL-W s\""
+msgstr ""
+
+msgid "CTRL-W_T"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "T\t   move current window to a new tab page"
+msgstr ""
+
+msgid "CTRL-W_W"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "W\t   go to N previous window (wrap around)"
+msgstr ""
+
+msgid "CTRL-W_]"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "]\t   split window and jump to tag under cursor"
+msgstr ""
+
+msgid "CTRL-W_^"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid ""
+"^\t   split current window and edit alternate\n"
+"\t\t\t\t   file N"
+msgstr ""
+
+msgid "CTRL-W__"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid ""
+"_\t   set current window height to N (default:\n"
+"\t\t\t\t   very high)"
+msgstr ""
+
+msgid "CTRL-W_b"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "b\t   go to bottom window"
+msgstr ""
+
+msgid "CTRL-W_c"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "c\t   close current window (like"
+msgstr ""
+
+msgid ":close"
+msgstr ""
+
+msgid ")"
+msgstr ""
+
+msgid "CTRL-W_d"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid ""
+"d\t   split window and jump to definition under\n"
+"\t\t\t\t   the cursor"
+msgstr ""
+
+msgid "CTRL-W_f"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid ""
+"f\t   split window and edit file name under the\n"
+"\t\t\t\t   cursor"
+msgstr ""
+
+msgid "CTRL-W_F"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid ""
+"F\t   split window and edit file name under the\n"
+"\t\t\t\t   cursor and jump to the line number\n"
+"\t\t\t\t   following the file name."
+msgstr ""
+
+msgid "CTRL-W_g_CTRL-]"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "g"
+msgstr ""
+
+msgid "CTRL-]"
+msgstr ""
+
+msgid "split window and do"
+msgstr ""
+
+msgid ":tjump"
+msgstr ""
+
+msgid ""
+"to tag under\n"
+"\t\t\t\t   cursor"
+msgstr ""
+
+msgid "CTRL-W_g]"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "g ]\t   split window and do"
+msgstr ""
+
+msgid ":tselect"
+msgstr ""
+
+msgid ""
+"for tag\n"
+"\t\t\t\t   under cursor"
+msgstr ""
+
+msgid "CTRL-W_g}"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "g }\t   do a"
+msgstr ""
+
+msgid ":ptjump"
+msgstr ""
+
+msgid "to the tag under the cursor"
+msgstr ""
+
+msgid "CTRL-W_gf"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid ""
+"g f\t   edit file name under the cursor in a new\n"
+"\t\t\t\t   tab page"
+msgstr ""
+
+msgid "CTRL-W_gF"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid ""
+"g F\t   edit file name under the cursor in a new\n"
+"\t\t\t\t   tab page and jump to the line number\n"
+"\t\t\t\t   following the file name."
+msgstr ""
+
+msgid "CTRL-W_gt"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "g t\t   same as"
+msgstr ""
+
+msgid "gt"
+msgstr ""
+
+msgid ": go to next tab page"
+msgstr ""
+
+msgid "CTRL-W_gT"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "g T\t   same as"
+msgstr ""
+
+msgid "gT"
+msgstr ""
+
+msgid ": go to previous tab page"
+msgstr ""
+
+msgid "CTRL-W_g<Tab>"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "g"
+msgstr ""
+
+msgid "<Tab>"
+msgstr ""
+
+msgid "same as"
+msgstr ""
+
+msgid "g<Tab>"
+msgstr ""
+
+msgid ""
+": go to last accessed tab\n"
+"\t\t\t\t   page"
+msgstr ""
+
+msgid "CTRL-W_h"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "h\t   go to Nth left window (stop at first window)"
+msgstr ""
+
+msgid "CTRL-W_i"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid ""
+"i\t   split window and jump to declaration of\n"
+"\t\t\t\t   identifier under the cursor"
+msgstr ""
+
+msgid "CTRL-W_j"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "j\t   go N windows down (stop at last window)"
+msgstr ""
+
+msgid "CTRL-W_k"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "k\t   go N windows up (stop at first window)"
+msgstr ""
+
+msgid "CTRL-W_l"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "l\t   go to Nth right window (stop at last window)"
+msgstr ""
+
+msgid "CTRL-W_n"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "n\t   open new window, N lines high"
+msgstr ""
+
+msgid "CTRL-W_o"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "o\t   close all but current window (like"
+msgstr ""
+
+msgid ":only"
+msgstr ""
+
+msgid ")"
+msgstr ""
+
+msgid "CTRL-W_p"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "p\t   go to previous (last accessed) window"
+msgstr ""
+
+msgid "CTRL-W_q"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "q\t   quit current window (like"
+msgstr ""
+
+msgid ":quit"
+msgstr ""
+
+msgid ")"
+msgstr ""
+
+msgid "CTRL-W_r"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "r\t   rotate windows downwards N times"
+msgstr ""
+
+msgid "CTRL-W_s"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid ""
+"s\t   split current window in two parts, new\n"
+"\t\t\t\t   window N lines high"
+msgstr ""
+
+msgid "CTRL-W_t"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "t\t   go to top window"
+msgstr ""
+
+msgid "CTRL-W_v"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid ""
+"v\t   split current window vertically, new window\n"
+"\t\t\t\t   N columns wide"
+msgstr ""
+
+msgid "CTRL-W_w"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "w\t   go to N next window (wrap around)"
+msgstr ""
+
+msgid "CTRL-W_x"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid ""
+"x\t   exchange current window with window N\n"
+"\t\t\t\t   (default: next window)"
+msgstr ""
+
+msgid "CTRL-W_z"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "z\t   close preview window"
+msgstr ""
+
+msgid "CTRL-W_bar"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "|\t   set window width to N columns"
+msgstr ""
+
+msgid "CTRL-W_}"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "}\t   show tag under cursor in preview window"
+msgstr ""
+
+msgid "CTRL-W_<Down>"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "<Down>"
+msgstr ""
+
+msgid "same as \"CTRL-W j\""
+msgstr ""
+
+msgid "CTRL-W_<Up>"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "<Up>"
+msgstr ""
+
+msgid "same as \"CTRL-W k\""
+msgstr ""
+
+msgid "CTRL-W_<Left>"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "<Left>"
+msgstr ""
+
+msgid "same as \"CTRL-W h\""
+msgstr ""
+
+msgid "CTRL-W_<Right>"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "<Right>"
+msgstr ""
+
+msgid "same as \"CTRL-W l\""
+msgstr ""
+
+msgid "2.3 Square bracket commands"
+msgstr ""
+
+msgid "["
+msgstr ""
+
+msgid "]"
+msgstr ""
+
+msgid "tag\t\tchar\t      note action in Normal mode"
+msgstr ""
+
+msgid ""
+"------------------------------------------------------------------------------"
+msgstr ""
+
+msgid "[_CTRL-D"
+msgstr ""
+
+msgid "["
+msgstr ""
+
+msgid "CTRL-D"
+msgstr ""
+
+msgid ""
+"jump to first #define found in current and\n"
+"\t\t\t\t   included files matching the word under the\n"
+"\t\t\t\t   cursor, start searching at beginning of\n"
+"\t\t\t\t   current file"
+msgstr ""
+
+msgid "[_CTRL-I"
+msgstr ""
+
+msgid "["
+msgstr ""
+
+msgid "CTRL-I"
+msgstr ""
+
+msgid ""
+"jump to first line in current and included\n"
+"\t\t\t\t   files that contains the word under the\n"
+"\t\t\t\t   cursor, start searching at beginning of\n"
+"\t\t\t\t   current file"
+msgstr ""
+
+msgid "[#"
+msgstr ""
+
+msgid ""
+"[#\t\t1  cursor to N previous unmatched #if, #else\n"
+"\t\t\t\t   or #ifdef"
+msgstr ""
+
+msgid "['"
+msgstr ""
+
+msgid ""
+"['\t\t1  cursor to previous lowercase mark, on first\n"
+"\t\t\t\t   non-blank"
+msgstr ""
+
+msgid "[("
+msgstr ""
+
+msgid "[(\t\t1  cursor N times back to unmatched '('"
+msgstr ""
+
+msgid "[star"
+msgstr ""
+
+msgid "[*\t\t1  same as \"[/\""
+msgstr ""
+
+msgid "[`"
+msgstr ""
+
+msgid "[\t\t1  cursor to previous lowercase mark"
+msgstr ""
+
+msgid "[/"
+msgstr ""
+
+msgid "[/\t\t1  cursor to N previous start of a C comment"
+msgstr ""
+
+msgid "[D"
+msgstr ""
+
+msgid ""
+"[D\t\t   list all defines found in current and\n"
+"\t\t\t\t   included files matching the word under the\n"
+"\t\t\t\t   cursor, start searching at beginning of\n"
+"\t\t\t\t   current file"
+msgstr ""
+
+msgid "[I"
+msgstr ""
+
+msgid ""
+"[I\t\t   list all lines found in current and\n"
+"\t\t\t\t   included files that contain the word under\n"
+"\t\t\t\t   the cursor, start searching at beginning of\n"
+"\t\t\t\t   current file"
+msgstr ""
+
+msgid "[P"
+msgstr ""
+
+msgid "[P\t\t2  same as \"[p\""
+msgstr ""
+
+msgid "[["
+msgstr ""
+
+msgid "[[\t\t1  cursor N sections backward"
+msgstr ""
+
+msgid "[]"
+msgstr ""
+
+msgid "[]\t\t1  cursor N SECTIONS backward"
+msgstr ""
+
+msgid "[c"
+msgstr ""
+
+msgid "[c\t\t1  cursor N times backwards to start of change"
+msgstr ""
+
+msgid "[d"
+msgstr ""
+
+msgid ""
+"[d\t\t   show first #define found in current and\n"
+"\t\t\t\t   included files matching the word under the\n"
+"\t\t\t\t   cursor, start searching at beginning of\n"
+"\t\t\t\t   current file"
+msgstr ""
+
+msgid "[f"
+msgstr ""
+
+msgid "[f\t\t   same as \"gf\""
+msgstr ""
+
+msgid "[i"
+msgstr ""
+
+msgid ""
+"[i\t\t   show first line found in current and\n"
+"\t\t\t\t   included files that contains the word under\n"
+"\t\t\t\t   the cursor, start searching at beginning of\n"
+"\t\t\t\t   current file"
+msgstr ""
+
+msgid "[m"
+msgstr ""
+
+msgid ""
+"[m\t\t1  cursor N times back to start of member\n"
+"\t\t\t\t   function"
+msgstr ""
+
+msgid "[p"
+msgstr ""
+
+msgid "[p\t\t2  like \"P\", but adjust indent to current line"
+msgstr ""
+
+msgid "[s"
+msgstr ""
+
+msgid "[s\t\t1  move to the previous misspelled word"
+msgstr ""
+
+msgid "[z"
+msgstr ""
+
+msgid "[z\t\t1  move to start of open fold"
+msgstr ""
+
+msgid "[{"
+msgstr ""
+
+msgid "[{\t\t1  cursor N times back to unmatched '{'"
+msgstr ""
+
+msgid "[<MiddleMouse>"
+msgstr ""
+
+msgid "["
+msgstr ""
+
+msgid "<MiddleMouse>"
+msgstr ""
+
+msgid "2  same as \"[p\""
+msgstr ""
+
+msgid "]_CTRL-D"
+msgstr ""
+
+msgid "]"
+msgstr ""
+
+msgid "CTRL-D"
+msgstr ""
+
+msgid ""
+"jump to first #define found in current and\n"
+"\t\t\t\t   included files matching the word under the\n"
+"\t\t\t\t   cursor, start searching at cursor position"
+msgstr ""
+
+msgid "]_CTRL-I"
+msgstr ""
+
+msgid "]"
+msgstr ""
+
+msgid "CTRL-I"
+msgstr ""
+
+msgid ""
+"jump to first line in current and included\n"
+"\t\t\t\t   files that contains the word under the\n"
+"\t\t\t\t   cursor, start searching at cursor position"
+msgstr ""
+
+msgid "]#"
+msgstr ""
+
+msgid "]#\t\t1  cursor to N next unmatched #endif or #else"
+msgstr ""
+
+msgid "]'"
+msgstr ""
+
+msgid ""
+"]'\t\t1  cursor to next lowercase mark, on first\n"
+"\t\t\t\t   non-blank"
+msgstr ""
+
+msgid "])"
+msgstr ""
+
+msgid "])\t\t1  cursor N times forward to unmatched ')'"
+msgstr ""
+
+msgid "]star"
+msgstr ""
+
+msgid "]*\t\t1  same as \"]/\""
+msgstr ""
+
+msgid "]`"
+msgstr ""
+
+msgid "]`\t\t1  cursor to next lowercase mark"
+msgstr ""
+
+msgid "]/"
+msgstr ""
+
+msgid "]/\t\t1  cursor to N next end of a C comment"
+msgstr ""
+
+msgid "]D"
+msgstr ""
+
+msgid ""
+"]D\t\t   list all #defines found in current and\n"
+"\t\t\t\t   included files matching the word under the\n"
+"\t\t\t\t   cursor, start searching at cursor position"
+msgstr ""
+
+msgid "]I"
+msgstr ""
+
+msgid ""
+"]I\t\t   list all lines found in current and\n"
+"\t\t\t\t   included files that contain the word under\n"
+"\t\t\t\t   the cursor, start searching at cursor\n"
+"\t\t\t\t   position"
+msgstr ""
+
+msgid "]P"
+msgstr ""
+
+msgid "]P\t\t2  same as \"[p\""
+msgstr ""
+
+msgid "]["
+msgstr ""
+
+msgid "][\t\t1  cursor N SECTIONS forward"
+msgstr ""
+
+msgid "]]"
+msgstr ""
+
+msgid "]]\t\t1  cursor N sections forward"
+msgstr ""
+
+msgid "]c"
+msgstr ""
+
+msgid "]c\t\t1  cursor N times forward to start of change"
+msgstr ""
+
+msgid "]d"
+msgstr ""
+
+msgid ""
+"]d\t\t   show first #define found in current and\n"
+"\t\t\t\t   included files matching the word under the\n"
+"\t\t\t\t   cursor, start searching at cursor position"
+msgstr ""
+
+msgid "]f"
+msgstr ""
+
+msgid "]f\t\t   same as \"gf\""
+msgstr ""
+
+msgid "]i"
+msgstr ""
+
+msgid ""
+"]i\t\t   show first line found in current and\n"
+"\t\t\t\t   included files that contains the word under\n"
+"\t\t\t\t   the cursor, start searching at cursor\n"
+"\t\t\t\t   position"
+msgstr ""
+
+msgid "]m"
+msgstr ""
+
+msgid ""
+"]m\t\t1  cursor N times forward to end of member\n"
+"\t\t\t\t   function"
+msgstr ""
+
+msgid "]p"
+msgstr ""
+
+msgid "]p\t\t2  like \"p\", but adjust indent to current line"
+msgstr ""
+
+msgid "]s"
+msgstr ""
+
+msgid "]s\t\t1  move to next misspelled word"
+msgstr ""
+
+msgid "]z"
+msgstr ""
+
+msgid "]z\t\t1  move to end of open fold"
+msgstr ""
+
+msgid "]}"
+msgstr ""
+
+msgid "]}\t\t1  cursor N times forward to unmatched '}'"
+msgstr ""
+
+msgid "]<MiddleMouse>"
+msgstr ""
+
+msgid "]<MiddleMouse>\t2  same as \"]p\""
+msgstr ""
+
+msgid "2.4 Commands starting with 'g'"
+msgstr ""
+
+msgid "g"
+msgstr ""
+
+msgid "tag\t\tchar\t      note action in Normal mode"
+msgstr ""
+
+msgid ""
+"------------------------------------------------------------------------------"
+msgstr ""
+
+msgid "g_CTRL-G"
+msgstr ""
+
+msgid "g"
+msgstr ""
+
+msgid "CTRL-G"
+msgstr ""
+
+msgid ""
+"show information about current cursor\n"
+"\t\t\t\t   position"
+msgstr ""
+
+msgid "g_CTRL-H"
+msgstr ""
+
+msgid "g"
+msgstr ""
+
+msgid "CTRL-H"
+msgstr ""
+
+msgid "start Select block mode"
+msgstr ""
+
+msgid "g_CTRL-]"
+msgstr ""
+
+msgid "g"
+msgstr ""
+
+msgid "CTRL-]"
+msgstr ""
+
+msgid ":tjump"
+msgstr ""
+
+msgid "to the tag under the cursor"
+msgstr ""
+
+msgid "g#"
+msgstr ""
+
+msgid "g#\t\t1  like \"#\", but without using \"\\<\" and \"\\>\""
+msgstr ""
+
+msgid "g$"
+msgstr ""
+
+msgid "g$\t\t1  when"
+msgstr ""
+
+msgid "'wrap'"
+msgstr ""
+
+msgid ""
+"off go to rightmost character of\n"
+"\t\t\t\t   the current line that is on the screen;\n"
+"\t\t\t\t   when"
+msgstr ""
+
+msgid "'wrap'"
+msgstr ""
+
+msgid ""
+"on go to the rightmost character\n"
+"\t\t\t\t   of the current screen line"
+msgstr ""
+
+msgid "g&"
+msgstr ""
+
+msgid "g&\t\t2  repeat last \":s\" on all lines"
+msgstr ""
+
+msgid "g'"
+msgstr ""
+
+msgid "g'{mark}\t1  like"
+msgstr ""
+
+msgid "'"
+msgstr ""
+
+msgid "but without changing the jumplist"
+msgstr ""
+
+msgid "g`"
+msgstr ""
+
+msgid "g`{mark}\t1  like"
+msgstr ""
+
+msgid "`"
+msgstr ""
+
+msgid "but without changing the jumplist"
+msgstr ""
+
+msgid "gstar"
+msgstr ""
+
+msgid "g*\t\t1  like \"*\", but without using \"\\<\" and \"\\>\""
+msgstr ""
+
+msgid "g+"
+msgstr ""
+
+msgid "g+\t\t   go to newer text state N times"
+msgstr ""
+
+msgid "g,"
+msgstr ""
+
+msgid "g,\t\t1  go to N newer position in change list"
+msgstr ""
+
+msgid "g-"
+msgstr ""
+
+msgid "g-\t\t   go to older text state N times"
+msgstr ""
+
+msgid "g0"
+msgstr ""
+
+msgid "g0\t\t1  when"
+msgstr ""
+
+msgid "'wrap'"
+msgstr ""
+
+msgid ""
+"off go to leftmost character of\n"
+"\t\t\t\t   the current line that is on the screen;\n"
+"\t\t\t\t   when"
+msgstr ""
+
+msgid "'wrap'"
+msgstr ""
+
+msgid ""
+"on go to the leftmost character\n"
+"\t\t\t\t   of the current screen line"
+msgstr ""
+
+msgid "g8"
+msgstr ""
+
+msgid ""
+"g8\t\t   print hex value of bytes used in UTF-8\n"
+"\t\t\t\t   character under the cursor"
+msgstr ""
+
+msgid "g;"
+msgstr ""
+
+msgid "g;\t\t1  go to N older position in change list"
+msgstr ""
+
+msgid "g<"
+msgstr ""
+
+msgid "g<\t\t   display previous command output"
+msgstr ""
+
+msgid "g?"
+msgstr ""
+
+msgid "g?\t\t2  Rot13 encoding operator"
+msgstr ""
+
+msgid "g?g?"
+msgstr ""
+
+msgid "g??\t\t2  Rot13 encode current line"
+msgstr ""
+
+msgid "g?g?"
+msgstr ""
+
+msgid "g?g?\t\t2  Rot13 encode current line"
+msgstr ""
+
+msgid "gD"
+msgstr ""
+
+msgid ""
+"gD\t\t1  go to definition of word under the cursor\n"
+"\t\t\t\t   in current file"
+msgstr ""
+
+msgid "gE"
+msgstr ""
+
+msgid ""
+"gE\t\t1  go backwards to the end of the previous\n"
+"\t\t\t\t   WORD"
+msgstr ""
+
+msgid "gH"
+msgstr ""
+
+msgid "gH\t\t   start Select line mode"
+msgstr ""
+
+msgid "gI"
+msgstr ""
+
+msgid "gI\t\t2  like \"I\", but always start in column 1"
+msgstr ""
+
+msgid "gJ"
+msgstr ""
+
+msgid "gJ\t\t2  join lines without inserting space"
+msgstr ""
+
+msgid "gN"
+msgstr ""
+
+msgid ""
+"gN\t      1,2  find the previous match with the last used\n"
+"\t\t\t\t   search pattern and Visually select it"
+msgstr ""
+
+msgid "gP"
+msgstr ""
+
+msgid ""
+"[\"x]gP\t\t2  put the text [from register x] before the\n"
+"\t\t\t\t   cursor N times, leave the cursor after it"
+msgstr ""
+
+msgid "gQ"
+msgstr ""
+
+msgid "gQ\t\t   switch to \"Ex\" mode with Vim editing"
+msgstr ""
+
+msgid "gR"
+msgstr ""
+
+msgid "gR\t\t2  enter Virtual Replace mode"
+msgstr ""
+
+msgid "gT"
+msgstr ""
+
+msgid "gT\t\t   go to the previous tab page"
+msgstr ""
+
+msgid "gU"
+msgstr ""
+
+msgid "gU{motion}\t2  make Nmove text uppercase"
+msgstr ""
+
+msgid "gV"
+msgstr ""
+
+msgid ""
+"gV\t\t   don't reselect the previous Visual area\n"
+"\t\t\t\t   when executing a mapping or menu in Select\n"
+"\t\t\t\t   mode"
+msgstr ""
+
+msgid "g]"
+msgstr ""
+
+msgid "g]\t\t   :tselect on the tag under the cursor"
+msgstr ""
+
+msgid "g^"
+msgstr ""
+
+msgid "g^\t\t1  when"
+msgstr ""
+
+msgid "'wrap'"
+msgstr ""
+
+msgid ""
+"off go to leftmost non-white\n"
+"\t\t\t\t   character of the current line that is on\n"
+"\t\t\t\t   the screen; when"
+msgstr ""
+
+msgid "'wrap'"
+msgstr ""
+
+msgid ""
+"on go to the\n"
+"\t\t\t\t   leftmost non-white character of the current\n"
+"\t\t\t\t   screen line"
+msgstr ""
+
+msgid "g_"
+msgstr ""
+
+msgid "g_\t\t1  cursor to the last CHAR N - 1 lines lower"
+msgstr ""
+
+msgid "ga"
+msgstr ""
+
+msgid ""
+"ga\t\t   print ascii value of character under the\n"
+"\t\t\t\t   cursor"
+msgstr ""
+
+msgid "gd"
+msgstr ""
+
+msgid ""
+"gd\t\t1  go to definition of word under the cursor\n"
+"\t\t\t\t   in current function"
+msgstr ""
+
+msgid "ge"
+msgstr ""
+
+msgid ""
+"ge\t\t1  go backwards to the end of the previous\n"
+"\t\t\t\t   word"
+msgstr ""
+
+msgid "gf"
+msgstr ""
+
+msgid ""
+"gf\t\t   start editing the file whose name is under\n"
+"\t\t\t\t   the cursor"
+msgstr ""
+
+msgid "gF"
+msgstr ""
+
+msgid ""
+"gF\t\t   start editing the file whose name is under\n"
+"\t\t\t\t   the cursor and jump to the line number\n"
+"\t\t\t\t   following the filename."
+msgstr ""
+
+msgid "gg"
+msgstr ""
+
+msgid "gg\t\t1  cursor to line N, default first line"
+msgstr ""
+
+msgid "gh"
+msgstr ""
+
+msgid "gh\t\t   start Select mode"
+msgstr ""
+
+msgid "gi"
+msgstr ""
+
+msgid "gi\t\t2  like \"i\", but first move to the"
+msgstr ""
+
+msgid "'^"
+msgstr ""
+
+msgid "mark"
+msgstr ""
+
+msgid "gj"
+msgstr ""
+
+msgid "gj\t\t1  like \"j\", but when"
+msgstr ""
+
+msgid "'wrap'"
+msgstr ""
+
+msgid ""
+"on go N screen\n"
+"\t\t\t\t   lines down"
+msgstr ""
+
+msgid "gk"
+msgstr ""
+
+msgid "gk\t\t1  like \"k\", but when"
+msgstr ""
+
+msgid "'wrap'"
+msgstr ""
+
+msgid ""
+"on go N screen\n"
+"\t\t\t\t   lines up"
+msgstr ""
+
+msgid "gm"
+msgstr ""
+
+msgid "gm\t\t1  go to character at middle of the screenline"
+msgstr ""
+
+msgid "gM"
+msgstr ""
+
+msgid "gM\t\t1  go to character at middle of the text line"
+msgstr ""
+
+msgid "gn"
+msgstr ""
+
+msgid ""
+"gn\t      1,2  find the next match with the last used\n"
+"\t\t\t\t   search pattern and Visually select it"
+msgstr ""
+
+msgid "go"
+msgstr ""
+
+msgid "go\t\t1  cursor to byte N in the buffer"
+msgstr ""
+
+msgid "gp"
+msgstr ""
+
+msgid ""
+"[\"x]gp\t\t2  put the text [from register x] after the\n"
+"\t\t\t\t   cursor N times, leave the cursor after it"
+msgstr ""
+
+msgid "gq"
+msgstr ""
+
+msgid "gq{motion}\t2  format Nmove text"
+msgstr ""
+
+msgid "gr"
+msgstr ""
+
+msgid "gr{char}\t2  virtual replace N chars with"
+msgstr ""
+
+msgid "{char}"
+msgstr ""
+
+msgid "gs"
+msgstr ""
+
+msgid "gs\t\t   go to sleep for N seconds (default 1)"
+msgstr ""
+
+msgid "gt"
+msgstr ""
+
+msgid "gt\t\t   go to the next tab page"
+msgstr ""
+
+msgid "gu"
+msgstr ""
+
+msgid "gu{motion}\t2  make Nmove text lowercase"
+msgstr ""
+
+msgid "gv"
+msgstr ""
+
+msgid "gv\t\t   reselect the previous Visual area"
+msgstr ""
+
+msgid "gw"
+msgstr ""
+
+msgid "gw{motion}\t2  format Nmove text and keep cursor"
+msgstr ""
+
+msgid "netrw-gx"
+msgstr ""
+
+msgid ""
+"gx\t\t   execute application for file name under the\n"
+"\t\t\t\t   cursor (only with"
+msgstr ""
+
+msgid "netrw"
+msgstr ""
+
+msgid "plugin)"
+msgstr ""
+
+msgid "g@"
+msgstr ""
+
+msgid "g@{motion}\t   call"
+msgstr ""
+
+msgid "'operatorfunc'"
+msgstr ""
+
+msgid "g~"
+msgstr ""
+
+msgid "g~{motion}\t2  swap case for Nmove text"
+msgstr ""
+
+msgid "g<Down>"
+msgstr ""
+
+msgid "g<Down>\t\t1  same as \"gj\""
+msgstr ""
+
+msgid "g<End>"
+msgstr ""
+
+msgid "g<End>\t\t1  same as \"g$\""
+msgstr ""
+
+msgid "g<Home>"
+msgstr ""
+
+msgid "g<Home>\t\t1  same as \"g0\""
+msgstr ""
+
+msgid "g<LeftMouse>"
+msgstr ""
+
+msgid "g<LeftMouse>\t   same as"
+msgstr ""
+
+msgid "<C-LeftMouse>"
+msgstr ""
+
+msgid "g<MiddleMouse>\t   same as"
+msgstr ""
+
+msgid "<C-MiddleMouse>"
+msgstr ""
+
+msgid "g<RightMouse>"
+msgstr ""
+
+msgid "g<RightMouse>\t   same as"
+msgstr ""
+
+msgid "<C-RightMouse>"
+msgstr ""
+
+msgid "g<Tab>"
+msgstr ""
+
+msgid "g<Tab>\t\t   go to last accessed tab page"
+msgstr ""
+
+msgid "g<Up>"
+msgstr ""
+
+msgid "g<Up>\t\t1  same as \"gk\""
+msgstr ""
+
+msgid "2.5 Commands starting with 'z'"
+msgstr ""
+
+msgid "z"
+msgstr ""
+
+msgid "tag\t\tchar\t      note action in Normal mode"
+msgstr ""
+
+msgid ""
+"------------------------------------------------------------------------------"
+msgstr ""
+
+msgid "z<CR>"
+msgstr ""
+
+msgid ""
+"z<CR>\t\t   redraw, cursor line to top of window,\n"
+"\t\t\t\t   cursor on first non-blank"
+msgstr ""
+
+msgid "zN<CR>"
+msgstr ""
+
+msgid "z{height}<CR>\t   redraw, make window"
+msgstr ""
+
+msgid "{height}"
+msgstr ""
+
+msgid "lines high"
+msgstr ""
+
+msgid "z+"
+msgstr ""
+
+msgid ""
+"z+\t\t   cursor on line N (default line below\n"
+"\t\t\t\t   window), otherwise like \"z<CR>\""
+msgstr ""
+
+msgid "z-"
+msgstr ""
+
+msgid ""
+"z-\t\t   redraw, cursor line at bottom of window,\n"
+"\t\t\t\t   cursor on first non-blank"
+msgstr ""
+
+msgid "z."
+msgstr ""
+
+msgid ""
+"z.\t\t   redraw, cursor line to center of window,\n"
+"\t\t\t\t   cursor on first non-blank"
+msgstr ""
+
+msgid "z="
+msgstr ""
+
+msgid "z=\t\t   give spelling suggestions"
+msgstr ""
+
+msgid "zA"
+msgstr ""
+
+msgid ""
+"zA\t\t   open a closed fold or close an open fold\n"
+"\t\t\t\t   recursively"
+msgstr ""
+
+msgid "zC"
+msgstr ""
+
+msgid "zC\t\t   close folds recursively"
+msgstr ""
+
+msgid "zD"
+msgstr ""
+
+msgid "zD\t\t   delete folds recursively"
+msgstr ""
+
+msgid "zE"
+msgstr ""
+
+msgid "zE\t\t   eliminate all folds"
+msgstr ""
+
+msgid "zF"
+msgstr ""
+
+msgid "zF\t\t   create a fold for N lines"
+msgstr ""
+
+msgid "zG"
+msgstr ""
+
+msgid "zG\t\t   temporarily mark word as correctly spelled"
+msgstr ""
+
+msgid "zH"
+msgstr ""
+
+msgid "zH\t\t   when"
+msgstr ""
+
+msgid "'wrap'"
+msgstr ""
+
+msgid ""
+"off scroll half a screenwidth\n"
+"\t\t\t\t   to the right"
+msgstr ""
+
+msgid "zL"
+msgstr ""
+
+msgid "zL\t\t   when"
+msgstr ""
+
+msgid "'wrap'"
+msgstr ""
+
+msgid ""
+"off scroll half a screenwidth\n"
+"\t\t\t\t   to the left"
+msgstr ""
+
+msgid "zM"
+msgstr ""
+
+msgid "zM\t\t   set"
+msgstr ""
+
+msgid "'foldlevel'"
+msgstr ""
+
+msgid "to zero"
+msgstr ""
+
+msgid "zN"
+msgstr ""
+
+msgid "zN\t\t   set"
+msgstr ""
+
+msgid "'foldenable'"
+msgstr ""
+
+msgid "zO"
+msgstr ""
+
+msgid "zO\t\t   open folds recursively"
+msgstr ""
+
+msgid "zR"
+msgstr ""
+
+msgid "zR\t\t   set"
+msgstr ""
+
+msgid "'foldlevel'"
+msgstr ""
+
+msgid "to the deepest fold"
+msgstr ""
+
+msgid "zW"
+msgstr ""
+
+msgid "zW\t\t   temporarily mark word as incorrectly spelled"
+msgstr ""
+
+msgid "zX"
+msgstr ""
+
+msgid "zX\t\t   re-apply"
+msgstr ""
+
+msgid "'foldlevel'"
+msgstr ""
+
+msgid "z^"
+msgstr ""
+
+msgid ""
+"z^\t\t   cursor on line N (default line above\n"
+"\t\t\t\t   window), otherwise like \"z-\""
+msgstr ""
+
+msgid "za"
+msgstr ""
+
+msgid "za\t\t   open a closed fold, close an open fold"
+msgstr ""
+
+msgid "zb"
+msgstr ""
+
+msgid "zb\t\t   redraw, cursor line at bottom of window"
+msgstr ""
+
+msgid "zc"
+msgstr ""
+
+msgid "zc\t\t   close a fold"
+msgstr ""
+
+msgid "zd"
+msgstr ""
+
+msgid "zd\t\t   delete a fold"
+msgstr ""
+
+msgid "ze"
+msgstr ""
+
+msgid "ze\t\t   when"
+msgstr ""
+
+msgid "'wrap'"
+msgstr ""
+
+msgid ""
+"off scroll horizontally to\n"
+"\t\t\t\t   position the cursor at the end (right side)\n"
+"\t\t\t\t   of the screen"
+msgstr ""
+
+msgid "zf"
+msgstr ""
+
+msgid "zf{motion}\t   create a fold for Nmove text"
+msgstr ""
+
+msgid "zg"
+msgstr ""
+
+msgid "zg\t\t   permanently mark word as correctly spelled"
+msgstr ""
+
+msgid "zh"
+msgstr ""
+
+msgid "zh\t\t   when"
+msgstr ""
+
+msgid "'wrap'"
+msgstr ""
+
+msgid ""
+"off scroll screen N characters\n"
+"\t\t\t\t   to the right"
+msgstr ""
+
+msgid "zi"
+msgstr ""
+
+msgid "zi\t\t   toggle"
+msgstr ""
+
+msgid "'foldenable'"
+msgstr ""
+
+msgid "zj"
+msgstr ""
+
+msgid "zj\t\t1  move to the start of the next fold"
+msgstr ""
+
+msgid "zk"
+msgstr ""
+
+msgid "zk\t\t1  move to the end of the previous fold"
+msgstr ""
+
+msgid "zl"
+msgstr ""
+
+msgid "zl\t\t   when"
+msgstr ""
+
+msgid "'wrap'"
+msgstr ""
+
+msgid ""
+"off scroll screen N characters\n"
+"\t\t\t\t   to the left"
+msgstr ""
+
+msgid "zm"
+msgstr ""
+
+msgid "zm\t\t   subtract one from"
+msgstr ""
+
+msgid "'foldlevel'"
+msgstr ""
+
+msgid "zn"
+msgstr ""
+
+msgid "zn\t\t   reset"
+msgstr ""
+
+msgid "'foldenable'"
+msgstr ""
+
+msgid "zo"
+msgstr ""
+
+msgid "zo\t\t   open fold"
+msgstr ""
+
+msgid "zp"
+msgstr ""
+
+msgid "zp\t\t   paste in block-mode without trailing spaces"
+msgstr ""
+
+msgid "zP"
+msgstr ""
+
+msgid "zP\t\t   paste in block-mode without trailing spaces"
+msgstr ""
+
+msgid "zr"
+msgstr ""
+
+msgid "zr\t\t   add one to"
+msgstr ""
+
+msgid "'foldlevel'"
+msgstr ""
+
+msgid "zs"
+msgstr ""
+
+msgid "zs\t\t   when"
+msgstr ""
+
+msgid "'wrap'"
+msgstr ""
+
+msgid ""
+"off scroll horizontally to\n"
+"\t\t\t\t   position the cursor at the start (left\n"
+"\t\t\t\t   side) of the screen"
+msgstr ""
+
+msgid "zt"
+msgstr ""
+
+msgid "zt\t\t   redraw, cursor line at top of window"
+msgstr ""
+
+msgid "zuw"
+msgstr ""
+
+msgid "zuw\t\t   undo"
+msgstr ""
+
+msgid "zw"
+msgstr ""
+
+msgid "zug"
+msgstr ""
+
+msgid "zug\t\t   undo"
+msgstr ""
+
+msgid "zg"
+msgstr ""
+
+msgid "zuW"
+msgstr ""
+
+msgid "zuW\t\t   undo"
+msgstr ""
+
+msgid "zW"
+msgstr ""
+
+msgid "zuG"
+msgstr ""
+
+msgid "zuG\t\t   undo"
+msgstr ""
+
+msgid "zG"
+msgstr ""
+
+msgid "zv"
+msgstr ""
+
+msgid "zv\t\t   open enough folds to view the cursor line"
+msgstr ""
+
+msgid "zw"
+msgstr ""
+
+msgid "zw\t\t   permanently mark word as incorrectly spelled"
+msgstr ""
+
+msgid "zx"
+msgstr ""
+
+msgid "zx\t\t   re-apply"
+msgstr ""
+
+msgid "'foldlevel'"
+msgstr ""
+
+msgid "and do \"zv\""
+msgstr ""
+
+msgid "zy"
+msgstr ""
+
+msgid "zy\t\t   yank without trailing spaces"
+msgstr ""
+
+msgid "zz"
+msgstr ""
+
+msgid "zz\t\t   redraw, cursor line at center of window"
+msgstr ""
+
+msgid "z<Left>"
+msgstr ""
+
+msgid "z<Left>\t\t   same as \"zh\""
+msgstr ""
+
+msgid "z<Right>"
+msgstr ""
+
+msgid "z<Right>\t   same as \"zl\""
+msgstr ""
+
+msgid "2.6 Operator-pending mode"
+msgstr ""
+
+msgid "operator-pending-index"
+msgstr ""
+
+msgid "These can be used after an operator, but before a"
+msgstr ""
+
+msgid "{motion}"
+msgstr ""
+
+msgid "has been entered."
+msgstr ""
+
+msgid "tag\t\tchar\t\taction in Operator-pending mode"
+msgstr ""
+
+msgid ""
+"------------------------------------------------------------------------------"
+msgstr ""
+
+msgid "o_v"
+msgstr ""
+
+msgid "v\t\tforce operator to work charwise"
+msgstr ""
+
+msgid "o_V"
+msgstr ""
+
+msgid "V\t\tforce operator to work linewise"
+msgstr ""
+
+msgid "o_CTRL-V"
+msgstr ""
+
+msgid "CTRL-V"
+msgstr ""
+
+msgid "force operator to work blockwise"
+msgstr ""
+
+msgid "3. Visual mode"
+msgstr ""
+
+msgid "visual-index"
+msgstr ""
+
+msgid ""
+"Most commands in Visual mode are the same as in Normal mode.  The ones listed\n"
+"here are those that are different."
+msgstr ""
+
+msgid "tag\t\tcommand\t      note action in Visual mode"
+msgstr ""
+
+msgid ""
+"------------------------------------------------------------------------------"
+msgstr ""
+
+msgid "v_CTRL-\\_CTRL-N"
+msgstr ""
+
+msgid "CTRL-\\"
+msgstr ""
+
+msgid "CTRL-N"
+msgstr ""
+
+msgid "stop Visual mode"
+msgstr ""
+
+msgid "v_CTRL-\\_CTRL-G"
+msgstr ""
+
+msgid "CTRL-\\"
+msgstr ""
+
+msgid "CTRL-G"
+msgstr ""
+
+msgid "go to Normal mode"
+msgstr ""
+
+msgid "v_CTRL-A"
+msgstr ""
+
+msgid "CTRL-A"
+msgstr ""
+
+msgid "2  add N to number in highlighted text"
+msgstr ""
+
+msgid "v_CTRL-C"
+msgstr ""
+
+msgid "CTRL-C"
+msgstr ""
+
+msgid "stop Visual mode"
+msgstr ""
+
+msgid "v_CTRL-G"
+msgstr ""
+
+msgid "CTRL-G"
+msgstr ""
+
+msgid "toggle between Visual mode and Select mode"
+msgstr ""
+
+msgid "v_<BS>"
+msgstr ""
+
+msgid "<BS>"
+msgstr ""
+
+msgid "2  Select mode: delete highlighted area"
+msgstr ""
+
+msgid "v_CTRL-H"
+msgstr ""
+
+msgid "CTRL-H"
+msgstr ""
+
+msgid "2  same as"
+msgstr ""
+
+msgid "<BS>"
+msgstr ""
+
+msgid "v_CTRL-O"
+msgstr ""
+
+msgid "CTRL-O"
+msgstr ""
+
+msgid ""
+"switch from Select to Visual mode for one\n"
+"\t\t\t\t   command"
+msgstr ""
+
+msgid "v_CTRL-V"
+msgstr ""
+
+msgid "CTRL-V"
+msgstr ""
+
+msgid ""
+"make Visual mode blockwise or stop Visual\n"
+"\t\t\t\t   mode"
+msgstr ""
+
+msgid "v_CTRL-X"
+msgstr ""
+
+msgid "CTRL-X"
+msgstr ""
+
+msgid "2  subtract N from number in highlighted text"
+msgstr ""
+
+msgid "v_<Esc>"
+msgstr ""
+
+msgid "<Esc>"
+msgstr ""
+
+msgid "stop Visual mode"
+msgstr ""
+
+msgid "v_CTRL-]"
+msgstr ""
+
+msgid "CTRL-]"
+msgstr ""
+
+msgid "jump to highlighted tag"
+msgstr ""
+
+msgid "v_!"
+msgstr ""
+
+msgid ""
+"!{filter}\t2  filter the highlighted lines through the\n"
+"\t\t\t\t   external command"
+msgstr ""
+
+msgid "{filter}"
+msgstr ""
+
+msgid "v_:"
+msgstr ""
+
+msgid ""
+":\t\t   start a command-line with the highlighted\n"
+"\t\t\t\t   lines as a range"
+msgstr ""
+
+msgid "v_<"
+msgstr ""
+
+msgid "<\t\t2  shift the highlighted lines one"
+msgstr ""
+
+msgid "'shiftwidth'"
+msgstr ""
+
+msgid "left"
+msgstr ""
+
+msgid "v_="
+msgstr ""
+
+msgid ""
+"=\t\t2  filter the highlighted lines through the\n"
+"\t\t\t\t   external program given with the"
+msgstr ""
+
+msgid "'equalprg'"
+msgstr ""
+
+msgid "option"
+msgstr ""
+
+msgid "v_>"
+msgstr ""
+
+msgid ">\t\t2  shift the highlighted lines one"
+msgstr ""
+
+msgid "'shiftwidth'"
+msgstr ""
+
+msgid "right"
+msgstr ""
+
+msgid "v_b_A"
+msgstr ""
+
+msgid ""
+"A\t\t2  block mode: append same text in all lines,\n"
+"\t\t\t\t   after the highlighted area"
+msgstr ""
+
+msgid "v_C"
+msgstr ""
+
+msgid ""
+"C\t\t2  delete the highlighted lines and start\n"
+"\t\t\t\t   insert"
+msgstr ""
+
+msgid "v_D"
+msgstr ""
+
+msgid "D\t\t2  delete the highlighted lines"
+msgstr ""
+
+msgid "v_b_I"
+msgstr ""
+
+msgid ""
+"I\t\t2  block mode: insert same text in all lines,\n"
+"\t\t\t\t   before the highlighted area"
+msgstr ""
+
+msgid "v_J"
+msgstr ""
+
+msgid "J\t\t2  join the highlighted lines"
+msgstr ""
+
+msgid "v_K"
+msgstr ""
+
+msgid "K\t\t   run"
+msgstr ""
+
+msgid "'keywordprg'"
+msgstr ""
+
+msgid "on the highlighted area"
+msgstr ""
+
+msgid "v_O"
+msgstr ""
+
+msgid "O\t\t   move horizontally to other corner of area"
+msgstr ""
+
+msgid "v_P"
+msgstr ""
+
+msgid ""
+"P\t\t   replace highlighted area with register\n"
+"\t\t\t\t   contents; registers are unchanged"
+msgstr ""
+
+msgid "v_R"
+msgstr ""
+
+msgid ""
+"R\t\t2  delete the highlighted lines and start\n"
+"\t\t\t\t   insert"
+msgstr ""
+
+msgid "v_S"
+msgstr ""
+
+msgid ""
+"S\t\t2  delete the highlighted lines and start\n"
+"\t\t\t\t   insert"
+msgstr ""
+
+msgid "v_U"
+msgstr ""
+
+msgid "U\t\t2  make highlighted area uppercase"
+msgstr ""
+
+msgid "v_V"
+msgstr ""
+
+msgid ""
+"V\t\t   make Visual mode linewise or stop Visual\n"
+"\t\t\t\t   mode"
+msgstr ""
+
+msgid "v_X"
+msgstr ""
+
+msgid "X\t\t2  delete the highlighted lines"
+msgstr ""
+
+msgid "v_Y"
+msgstr ""
+
+msgid "Y\t\t   yank the highlighted lines"
+msgstr ""
+
+msgid "v_aquote"
+msgstr ""
+
+msgid ""
+"a\"\t\t   extend highlighted area with a double\n"
+"\t\t\t\t   quoted string"
+msgstr ""
+
+msgid "v_a'"
+msgstr ""
+
+msgid ""
+"a'\t\t   extend highlighted area with a single\n"
+"\t\t\t\t   quoted string"
+msgstr ""
+
+msgid "v_a("
+msgstr ""
+
+msgid "a(\t\t   same as ab"
+msgstr ""
+
+msgid "v_a)"
+msgstr ""
+
+msgid "a)\t\t   same as ab"
+msgstr ""
+
+msgid "v_a<"
+msgstr ""
+
+msgid "a<\t\t   extend highlighted area with a <> block"
+msgstr ""
+
+msgid "v_a>"
+msgstr ""
+
+msgid "a>\t\t   same as a<"
+msgstr ""
+
+msgid "v_aB"
+msgstr ""
+
+msgid "aB\t\t   extend highlighted area with a {} block"
+msgstr ""
+
+msgid "v_aW"
+msgstr ""
+
+msgid "aW\t\t   extend highlighted area with \"a WORD\""
+msgstr ""
+
+msgid "v_a["
+msgstr ""
+
+msgid "a[\t\t   extend highlighted area with a [] block"
+msgstr ""
+
+msgid "v_a]"
+msgstr ""
+
+msgid "a]\t\t   same as a["
+msgstr ""
+
+msgid "v_a`"
+msgstr ""
+
+msgid ""
+"a`\t\t   extend highlighted area with a backtick\n"
+"\t\t\t\t   quoted string"
+msgstr ""
+
+msgid "v_ab"
+msgstr ""
+
+msgid "ab\t\t   extend highlighted area with a () block"
+msgstr ""
+
+msgid "v_ap"
+msgstr ""
+
+msgid "ap\t\t   extend highlighted area with a paragraph"
+msgstr ""
+
+msgid "v_as"
+msgstr ""
+
+msgid "as\t\t   extend highlighted area with a sentence"
+msgstr ""
+
+msgid "v_at"
+msgstr ""
+
+msgid "at\t\t   extend highlighted area with a tag block"
+msgstr ""
+
+msgid "v_aw"
+msgstr ""
+
+msgid "aw\t\t   extend highlighted area with \"a word\""
+msgstr ""
+
+msgid "v_a{"
+msgstr ""
+
+msgid "a{\t\t   same as aB"
+msgstr ""
+
+msgid "v_a}"
+msgstr ""
+
+msgid "a}\t\t   same as aB"
+msgstr ""
+
+msgid "v_c"
+msgstr ""
+
+msgid "c\t\t2  delete highlighted area and start insert"
+msgstr ""
+
+msgid "v_d"
+msgstr ""
+
+msgid "d\t\t2  delete highlighted area"
+msgstr ""
+
+msgid "v_g_CTRL-A"
+msgstr ""
+
+msgid "g"
+msgstr ""
+
+msgid "CTRL-A"
+msgstr ""
+
+msgid "2  add N to number in highlighted text"
+msgstr ""
+
+msgid "v_g_CTRL-X"
+msgstr ""
+
+msgid "g"
+msgstr ""
+
+msgid "CTRL-X"
+msgstr ""
+
+msgid "2  subtract N from number in highlighted text"
+msgstr ""
+
+msgid "v_gJ"
+msgstr ""
+
+msgid ""
+"gJ\t\t2  join the highlighted lines without\n"
+"\t\t\t\t   inserting spaces"
+msgstr ""
+
+msgid "v_gq"
+msgstr ""
+
+msgid "gq\t\t2  format the highlighted lines"
+msgstr ""
+
+msgid "v_gv"
+msgstr ""
+
+msgid ""
+"gv\t\t   exchange current and previous highlighted\n"
+"\t\t\t\t   area"
+msgstr ""
+
+msgid "v_iquote"
+msgstr ""
+
+msgid ""
+"i\"\t\t   extend highlighted area with a double\n"
+"\t\t\t\t   quoted string (without quotes)"
+msgstr ""
+
+msgid "v_i'"
+msgstr ""
+
+msgid ""
+"i'\t\t   extend highlighted area with a single\n"
+"\t\t\t\t   quoted string (without quotes)"
+msgstr ""
+
+msgid "v_i("
+msgstr ""
+
+msgid "i(\t\t   same as ib"
+msgstr ""
+
+msgid "v_i)"
+msgstr ""
+
+msgid "i)\t\t   same as ib"
+msgstr ""
+
+msgid "v_i<"
+msgstr ""
+
+msgid "i<\t\t   extend highlighted area with inner <> block"
+msgstr ""
+
+msgid "v_i>"
+msgstr ""
+
+msgid "i>\t\t   same as i<"
+msgstr ""
+
+msgid "v_iB"
+msgstr ""
+
+msgid "iB\t\t   extend highlighted area with inner {} block"
+msgstr ""
+
+msgid "v_iW"
+msgstr ""
+
+msgid "iW\t\t   extend highlighted area with \"inner WORD\""
+msgstr ""
+
+msgid "v_i["
+msgstr ""
+
+msgid "i[\t\t   extend highlighted area with inner [] block"
+msgstr ""
+
+msgid "v_i]"
+msgstr ""
+
+msgid "i]\t\t   same as i["
+msgstr ""
+
+msgid "v_i`"
+msgstr ""
+
+msgid ""
+"i`\t\t   extend highlighted area with a backtick\n"
+"\t\t\t\t   quoted string (without the backticks)"
+msgstr ""
+
+msgid "v_ib"
+msgstr ""
+
+msgid "ib\t\t   extend highlighted area with inner () block"
+msgstr ""
+
+msgid "v_ip"
+msgstr ""
+
+msgid "ip\t\t   extend highlighted area with inner paragraph"
+msgstr ""
+
+msgid "v_is"
+msgstr ""
+
+msgid "is\t\t   extend highlighted area with inner sentence"
+msgstr ""
+
+msgid "v_it"
+msgstr ""
+
+msgid "it\t\t   extend highlighted area with inner tag block"
+msgstr ""
+
+msgid "v_iw"
+msgstr ""
+
+msgid "iw\t\t   extend highlighted area with \"inner word\""
+msgstr ""
+
+msgid "v_i{"
+msgstr ""
+
+msgid "i{\t\t   same as iB"
+msgstr ""
+
+msgid "v_i}"
+msgstr ""
+
+msgid "i}\t\t   same as iB"
+msgstr ""
+
+msgid "v_o"
+msgstr ""
+
+msgid "o\t\t   move cursor to other corner of area"
+msgstr ""
+
+msgid "v_p"
+msgstr ""
+
+msgid ""
+"p\t\t   replace highlighted area with register\n"
+"\t\t\t\t   contents; deleted text in unnamed register"
+msgstr ""
+
+msgid "v_r"
+msgstr ""
+
+msgid "r\t\t2  replace highlighted area with a character"
+msgstr ""
+
+msgid "v_s"
+msgstr ""
+
+msgid "s\t\t2  delete highlighted area and start insert"
+msgstr ""
+
+msgid "v_u"
+msgstr ""
+
+msgid "u\t\t2  make highlighted area lowercase"
+msgstr ""
+
+msgid "v_v"
+msgstr ""
+
+msgid ""
+"v\t\t   make Visual mode charwise or stop\n"
+"\t\t\t\t   Visual mode"
+msgstr ""
+
+msgid "v_x"
+msgstr ""
+
+msgid "x\t\t2  delete the highlighted area"
+msgstr ""
+
+msgid "v_y"
+msgstr ""
+
+msgid "y\t\t   yank the highlighted area"
+msgstr ""
+
+msgid "v_~"
+msgstr ""
+
+msgid "~\t\t2  swap case for the highlighted area"
+msgstr ""
+
+msgid "4. Command-line editing"
+msgstr ""
+
+msgid "ex-edit-index"
+msgstr ""
+
+msgid ""
+"Get to the command-line with the ':', '!', '/' or '?' commands.\n"
+"Normal characters are inserted at the current cursor position.\n"
+"\"Completion\" below refers to context-sensitive completion.  It will complete\n"
+"file names, tags, commands etc. as appropriate."
+msgstr ""
+
+msgid "tag\t\tcommand\t\taction in Command-line editing mode"
+msgstr ""
+
+msgid ""
+"------------------------------------------------------------------------------"
+msgstr ""
+
+msgid "CTRL-@"
+msgstr ""
+
+msgid "not used"
+msgstr ""
+
+msgid "c_CTRL-A"
+msgstr ""
+
+msgid "CTRL-A"
+msgstr ""
+
+msgid ""
+"do completion on the pattern in front of the\n"
+"\t\t\t\tcursor and insert all matches"
+msgstr ""
+
+msgid "c_CTRL-B"
+msgstr ""
+
+msgid "CTRL-B"
+msgstr ""
+
+msgid "cursor to begin of command-line"
+msgstr ""
+
+msgid "c_CTRL-C"
+msgstr ""
+
+msgid "CTRL-C"
+msgstr ""
+
+msgid "same as"
+msgstr ""
+
+msgid "<Esc>"
+msgstr ""
+
+msgid "c_CTRL-D"
+msgstr ""
+
+msgid "CTRL-D"
+msgstr ""
+
+msgid ""
+"list completions that match the pattern in\n"
+"\t\t\t\tfront of the cursor"
+msgstr ""
+
+msgid "c_CTRL-E"
+msgstr ""
+
+msgid "CTRL-E"
+msgstr ""
+
+msgid "cursor to end of command-line"
+msgstr ""
+
+msgid "'cedit'"
+msgstr ""
+
+msgid "CTRL-F"
+msgstr ""
+
+msgid "default value for"
+msgstr ""
+
+msgid "'cedit'"
+msgstr ""
+
+msgid ""
+": opens the\n"
+"\t\t\t\tcommand-line window; otherwise not used"
+msgstr ""
+
+msgid "c_CTRL-G"
+msgstr ""
+
+msgid "CTRL-G"
+msgstr ""
+
+msgid "next match when"
+msgstr ""
+
+msgid "'incsearch'"
+msgstr ""
+
+msgid "is active"
+msgstr ""
+
+msgid "c_<BS>"
+msgstr ""
+
+msgid "<BS>"
+msgstr ""
+
+msgid "delete the character in front of the cursor"
+msgstr ""
+
+msgid "c_digraph"
+msgstr ""
+
+msgid "{char1}"
+msgstr ""
+
+msgid "<BS>"
+msgstr ""
+
+msgid "{char2}"
+msgstr ""
+
+msgid "enter digraph when"
+msgstr ""
+
+msgid "'digraph'"
+msgstr ""
+
+msgid "is on"
+msgstr ""
+
+msgid "c_CTRL-H"
+msgstr ""
+
+msgid "CTRL-H"
+msgstr ""
+
+msgid "same as"
+msgstr ""
+
+msgid "<BS>"
+msgstr ""
+
+msgid "c_<Tab>"
+msgstr ""
+
+msgid "<Tab>"
+msgstr ""
+
+msgid "if"
+msgstr ""
+
+msgid "'wildchar'"
+msgstr ""
+
+msgid "is"
+msgstr ""
+
+msgid "<Tab>"
+msgstr ""
+
+msgid ""
+": Do completion on\n"
+"\t\t\t\tthe pattern in front of the cursor"
+msgstr ""
+
+msgid "c_<S-Tab>"
+msgstr ""
+
+msgid "<S-Tab>"
+msgstr ""
+
+msgid "same as"
+msgstr ""
+
+msgid "CTRL-P"
+msgstr ""
+
+msgid "c_wildchar"
+msgstr ""
+
+msgid "'wildchar'"
+msgstr ""
+
+msgid ""
+"Do completion on the pattern in front of the\n"
+"\t\t\t\tcursor (default:"
+msgstr ""
+
+msgid "<Tab>"
+msgstr ""
+
+msgid ")"
+msgstr ""
+
+msgid "c_CTRL-I"
+msgstr ""
+
+msgid "CTRL-I"
+msgstr ""
+
+msgid "same as"
+msgstr ""
+
+msgid "<Tab>"
+msgstr ""
+
+msgid "c_<NL>"
+msgstr ""
+
+msgid "<NL>"
+msgstr ""
+
+msgid "same as"
+msgstr ""
+
+msgid "<CR>"
+msgstr ""
+
+msgid "c_CTRL-J"
+msgstr ""
+
+msgid "CTRL-J"
+msgstr ""
+
+msgid "same as"
+msgstr ""
+
+msgid "<CR>"
+msgstr ""
+
+msgid "c_CTRL-K"
+msgstr ""
+
+msgid "CTRL-K"
+msgstr ""
+
+msgid "{char1}"
+msgstr ""
+
+msgid "{char2}"
+msgstr ""
+
+msgid "enter digraph"
+msgstr ""
+
+msgid "c_CTRL-L"
+msgstr ""
+
+msgid "CTRL-L"
+msgstr ""
+
+msgid ""
+"do completion on the pattern in front of the\n"
+"\t\t\t\tcursor and insert the longest common part"
+msgstr ""
+
+msgid "c_<CR>"
+msgstr ""
+
+msgid "<CR>"
+msgstr ""
+
+msgid "execute entered command"
+msgstr ""
+
+msgid "c_CTRL-M"
+msgstr ""
+
+msgid "CTRL-M"
+msgstr ""
+
+msgid "same as"
+msgstr ""
+
+msgid "<CR>"
+msgstr ""
+
+msgid "c_CTRL-N"
+msgstr ""
+
+msgid "CTRL-N"
+msgstr ""
+
+msgid "after using"
+msgstr ""
+
+msgid "'wildchar'"
+msgstr ""
+
+msgid ""
+"with multiple matches:\n"
+"\t\t\t\tgo to next match, otherwise: recall older\n"
+"\t\t\t\tcommand-line from history."
+msgstr ""
+
+msgid "CTRL-O"
+msgstr ""
+
+msgid "not used"
+msgstr ""
+
+msgid "c_CTRL-P"
+msgstr ""
+
+msgid "CTRL-P"
+msgstr ""
+
+msgid "after using"
+msgstr ""
+
+msgid "'wildchar'"
+msgstr ""
+
+msgid ""
+"with multiple matches:\n"
+"\t\t\t\tgo to previous match, otherwise: recall older\n"
+"\t\t\t\tcommand-line from history."
+msgstr ""
+
+msgid "c_CTRL-Q"
+msgstr ""
+
+msgid "CTRL-Q"
+msgstr ""
+
+msgid "same as"
+msgstr ""
+
+msgid "CTRL-V"
+msgstr ""
+
+msgid ""
+", unless it's used for terminal\n"
+"\t\t\t\tcontrol flow"
+msgstr ""
+
+msgid "c_CTRL-R"
+msgstr ""
+
+msgid "CTRL-R"
+msgstr ""
+
+msgid "{regname}"
+msgstr ""
+
+msgid ""
+"insert the contents of a register or object\n"
+"\t\t\t\tunder the cursor as if typed"
+msgstr ""
+
+msgid "c_CTRL-R_CTRL-R"
+msgstr ""
+
+msgid "CTRL-R"
+msgstr ""
+
+msgid "CTRL-R"
+msgstr ""
+
+msgid "{regname}"
+msgstr ""
+
+msgid "c_CTRL-R_CTRL-O"
+msgstr ""
+
+msgid "CTRL-R"
+msgstr ""
+
+msgid "CTRL-O"
+msgstr ""
+
+msgid "{regname}"
+msgstr ""
+
+msgid ""
+"insert the contents of a register or object\n"
+"\t\t\t\tunder the cursor literally"
+msgstr ""
+
+msgid "CTRL-S"
+msgstr ""
+
+msgid "not used, or used for terminal control flow"
+msgstr ""
+
+msgid "c_CTRL-T"
+msgstr ""
+
+msgid "CTRL-T"
+msgstr ""
+
+msgid "previous match when"
+msgstr ""
+
+msgid "'incsearch'"
+msgstr ""
+
+msgid "is active"
+msgstr ""
+
+msgid "c_CTRL-U"
+msgstr ""
+
+msgid "CTRL-U"
+msgstr ""
+
+msgid "remove all characters"
+msgstr ""
+
+msgid "c_CTRL-V"
+msgstr ""
+
+msgid "CTRL-V"
+msgstr ""
+
+msgid ""
+"insert next non-digit literally, insert three\n"
+"\t\t\t\tdigit decimal number as a single byte."
+msgstr ""
+
+msgid "c_CTRL-W"
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid "delete the word in front of the cursor"
+msgstr ""
+
+msgid "CTRL-X"
+msgstr ""
+
+msgid "not used (reserved for completion)"
+msgstr ""
+
+msgid "CTRL-Y"
+msgstr ""
+
+msgid "copy (yank) modeless selection"
+msgstr ""
+
+msgid "CTRL-Z"
+msgstr ""
+
+msgid "not used (reserved for suspend)"
+msgstr ""
+
+msgid "c_<Esc>"
+msgstr ""
+
+msgid "<Esc>"
+msgstr ""
+
+msgid "abandon command-line without executing it"
+msgstr ""
+
+msgid "c_CTRL-["
+msgstr ""
+
+msgid "CTRL-["
+msgstr ""
+
+msgid "same as"
+msgstr ""
+
+msgid "<Esc>"
+msgstr ""
+
+msgid "c_CTRL-\\_CTRL-N"
+msgstr ""
+
+msgid "CTRL-\\"
+msgstr ""
+
+msgid "CTRL-N"
+msgstr ""
+
+msgid "go to Normal mode, abandon command-line"
+msgstr ""
+
+msgid "c_CTRL-\\_CTRL-G"
+msgstr ""
+
+msgid "CTRL-\\"
+msgstr ""
+
+msgid "CTRL-G"
+msgstr ""
+
+msgid "go to Normal mode, abandon command-line"
+msgstr ""
+
+msgid "CTRL-\\"
+msgstr ""
+
+msgid "a - d\treserved for extensions"
+msgstr ""
+
+msgid "c_CTRL-\\_e"
+msgstr ""
+
+msgid "CTRL-\\"
+msgstr ""
+
+msgid "e"
+msgstr ""
+
+msgid "{expr}"
+msgstr ""
+
+msgid "replace the command line with the result of"
+msgstr ""
+
+msgid "{expr}"
+msgstr ""
+
+msgid "CTRL-\\"
+msgstr ""
+
+msgid "f - z\treserved for extensions"
+msgstr ""
+
+msgid "CTRL-\\"
+msgstr ""
+
+msgid "others\tnot used"
+msgstr ""
+
+msgid "c_CTRL-]"
+msgstr ""
+
+msgid "CTRL-]"
+msgstr ""
+
+msgid "trigger abbreviation"
+msgstr ""
+
+msgid "c_CTRL-^"
+msgstr ""
+
+msgid "CTRL-^"
+msgstr ""
+
+msgid "toggle use of"
+msgstr ""
+
+msgid ":lmap"
+msgstr ""
+
+msgid "mappings"
+msgstr ""
+
+msgid "c_<Del>"
+msgstr ""
+
+msgid "<Del>"
+msgstr ""
+
+msgid "delete the character under the cursor"
+msgstr ""
+
+msgid "c_<Left>"
+msgstr ""
+
+msgid "<Left>"
+msgstr ""
+
+msgid "cursor left"
+msgstr ""
+
+msgid "c_<S-Left>"
+msgstr ""
+
+msgid "<S-Left>"
+msgstr ""
+
+msgid "cursor one word left"
+msgstr ""
+
+msgid "c_<C-Left>"
+msgstr ""
+
+msgid "<C-Left>"
+msgstr ""
+
+msgid "cursor one word left"
+msgstr ""
+
+msgid "c_<Right>"
+msgstr ""
+
+msgid "<Right>"
+msgstr ""
+
+msgid "cursor right"
+msgstr ""
+
+msgid "c_<S-Right>"
+msgstr ""
+
+msgid "<S-Right>"
+msgstr ""
+
+msgid "cursor one word right"
+msgstr ""
+
+msgid "c_<C-Right>"
+msgstr ""
+
+msgid "<C-Right>"
+msgstr ""
+
+msgid "cursor one word right"
+msgstr ""
+
+msgid "c_<Up>"
+msgstr ""
+
+msgid "<Up>"
+msgstr ""
+
+msgid ""
+"recall previous command-line from history that\n"
+"\t\t\t\tmatches pattern in front of the cursor"
+msgstr ""
+
+msgid "c_<S-Up>"
+msgstr ""
+
+msgid "<S-Up>"
+msgstr ""
+
+msgid "recall previous command-line from history"
+msgstr ""
+
+msgid "c_<Down>"
+msgstr ""
+
+msgid "<Down>"
+msgstr ""
+
+msgid ""
+"recall next command-line from history that\n"
+"\t\t\t\tmatches pattern in front of the cursor"
+msgstr ""
+
+msgid "c_<S-Down>"
+msgstr ""
+
+msgid "<S-Down>"
+msgstr ""
+
+msgid "recall next command-line from history"
+msgstr ""
+
+msgid "c_<Home>"
+msgstr ""
+
+msgid "<Home>"
+msgstr ""
+
+msgid "cursor to start of command-line"
+msgstr ""
+
+msgid "c_<End>"
+msgstr ""
+
+msgid "<End>"
+msgstr ""
+
+msgid "cursor to end of command-line"
+msgstr ""
+
+msgid "c_<PageDown>"
+msgstr ""
+
+msgid "<PageDown>"
+msgstr ""
+
+msgid "same as"
+msgstr ""
+
+msgid "<S-Down>"
+msgstr ""
+
+msgid "c_<PageUp>"
+msgstr ""
+
+msgid "<PageUp>"
+msgstr ""
+
+msgid "same as"
+msgstr ""
+
+msgid "<S-Up>"
+msgstr ""
+
+msgid "c_<Insert>"
+msgstr ""
+
+msgid "<Insert>"
+msgstr ""
+
+msgid "toggle insert/overstrike mode"
+msgstr ""
+
+msgid "c_<LeftMouse>"
+msgstr ""
+
+msgid "<LeftMouse>"
+msgstr ""
+
+msgid "cursor at mouse click"
+msgstr ""
+
+msgid "commands in wildmenu mode (see"
+msgstr ""
+
+msgid "'wildmenu'"
+msgstr ""
+
+msgid ")"
+msgstr ""
+
+msgid "<Up>"
+msgstr ""
+
+msgid "move up to parent"
+msgstr ""
+
+msgid "<Down>"
+msgstr ""
+
+msgid "move down to submenu"
+msgstr ""
+
+msgid "<Left>"
+msgstr ""
+
+msgid "select the previous match"
+msgstr ""
+
+msgid "<Right>"
+msgstr ""
+
+msgid "select the next match"
+msgstr ""
+
+msgid "<CR>"
+msgstr ""
+
+msgid "move into submenu when doing menu completion"
+msgstr ""
+
+msgid "CTRL-E"
+msgstr ""
+
+msgid "stop completion and go back to original text"
+msgstr ""
+
+msgid "CTRL-Y"
+msgstr ""
+
+msgid ""
+"accept selected match and stop completion\n"
+"\t\tother\t\tstop completion and insert the typed character"
+msgstr ""
+
+msgid "commands in wildmenu mode with"
+msgstr ""
+
+msgid "'wildoptions'"
+msgstr ""
+
+msgid "set to \"pum\""
+msgstr ""
+
+msgid "<PageUp>"
+msgstr ""
+
+msgid "select a match several entries back"
+msgstr ""
+
+msgid "<PageDown>"
+msgstr ""
+
+msgid "select a match several entries forward"
+msgstr ""
+
+msgid "5. Terminal mode"
+msgstr ""
+
+msgid "terminal-mode-index"
+msgstr ""
+
+msgid "In a"
+msgstr ""
+
+msgid "terminal"
+msgstr ""
+
+msgid "buffer all keys except"
+msgstr ""
+
+msgid "CTRL-\\"
+msgstr ""
+
+msgid ""
+"are forwarded to the terminal\n"
+"job.  If"
+msgstr ""
+
+msgid "CTRL-\\"
+msgstr ""
+
+msgid "is pressed, the next key is forwarded unless it is"
+msgstr ""
+
+msgid "CTRL-N"
+msgstr ""
+
+msgid "or"
+msgstr ""
+
+msgid "CTRL-O"
+msgstr ""
+
+msgid ""
+".\n"
+"Use"
+msgstr ""
+
+msgid "CTRL-\\_CTRL-N"
+msgstr ""
+
+msgid ""
+"to go to Normal mode.\n"
+"Use"
+msgstr ""
+
+msgid "t_CTRL-\\_CTRL-O"
+msgstr ""
+
+msgid ""
+"to execute one normal mode command and then return\n"
+"to terminal mode."
+msgstr ""
+
+msgid "You found it, Arthur!"
+msgstr ""
+
+msgid "holy-grail"
+msgstr ""
+
+msgid "6. EX commands"
+msgstr ""
+
+msgid "Ex-commands"
+msgstr ""
+
+msgid "ex-cmd-index"
+msgstr ""
+
+msgid ":index"
+msgstr ""
+
+msgid ""
+"This is a brief but complete listing of all the \":\" commands, without\n"
+"mentioning any arguments.  The optional part of the command name is inside [].\n"
+"The commands are sorted on the non-optional part of their name."
+msgstr ""
+
+msgid "tag\t\tcommand\t\taction"
+msgstr ""
+
+msgid ""
+"------------------------------------------------------------------------------"
+msgstr ""
+
+msgid ":"
+msgstr ""
+
+msgid ":\t\tnothing"
+msgstr ""
+
+msgid ":range"
+msgstr ""
+
+msgid ":{range}\tgo to last line in"
+msgstr ""
+
+msgid "{range}"
+msgstr ""
+
+msgid ":!"
+msgstr ""
+
+msgid ":!\t\tfilter lines or execute an external command"
+msgstr ""
+
+msgid ":!!"
+msgstr ""
+
+msgid ":!!\t\trepeat last \":!\" command"
+msgstr ""
+
+msgid ":#"
+msgstr ""
+
+msgid ":#\t\tsame as \":number\""
+msgstr ""
+
+msgid ":&"
+msgstr ""
+
+msgid ":&\t\trepeat last \":substitute\""
+msgstr ""
+
+msgid ":star"
+msgstr ""
+
+msgid ":*\t\tuse the last Visual area, like \":'<,'>\""
+msgstr ""
+
+msgid ":<"
+msgstr ""
+
+msgid ":<\t\tshift lines one"
+msgstr ""
+
+msgid "'shiftwidth'"
+msgstr ""
+
+msgid "left"
+msgstr ""
+
+msgid ":="
+msgstr ""
+
+msgid ":=\t\tprint the last line number"
+msgstr ""
+
+msgid ":>"
+msgstr ""
+
+msgid ":>\t\tshift lines one"
+msgstr ""
+
+msgid "'shiftwidth'"
+msgstr ""
+
+msgid "right"
+msgstr ""
+
+msgid ":@"
+msgstr ""
+
+msgid ":@\t\texecute contents of a register"
+msgstr ""
+
+msgid ":@@"
+msgstr ""
+
+msgid ":@@\t\trepeat the previous \":@\""
+msgstr ""
+
+msgid ":2match"
+msgstr ""
+
+msgid ":2mat[ch]\tdefine a second match to highlight"
+msgstr ""
+
+msgid ":3match"
+msgstr ""
+
+msgid ":3mat[ch]\tdefine a third match to highlight"
+msgstr ""
+
+msgid ":Next"
+msgstr ""
+
+msgid ":N[ext]\t\tgo to previous file in the argument list"
+msgstr ""
+
+msgid ":append"
+msgstr ""
+
+msgid ":a[ppend]\tappend text"
+msgstr ""
+
+msgid ":abbreviate"
+msgstr ""
+
+msgid ":ab[breviate]\tenter abbreviation"
+msgstr ""
+
+msgid ":abclear"
+msgstr ""
+
+msgid ":abc[lear]\tremove all abbreviations"
+msgstr ""
+
+msgid ":aboveleft"
+msgstr ""
+
+msgid ":abo[veleft]\tmake split window appear left or above"
+msgstr ""
+
+msgid ":all"
+msgstr ""
+
+msgid ""
+":al[l]\t\topen a window for each file in the argument\n"
+"\t\t\t\tlist"
+msgstr ""
+
+msgid ":amenu"
+msgstr ""
+
+msgid ":am[enu]\tenter new menu item for all modes"
+msgstr ""
+
+msgid ":anoremenu"
+msgstr ""
+
+msgid ""
+":an[oremenu]\tenter a new menu for all modes that will not\n"
+"\t\t\t\tbe remapped"
+msgstr ""
+
+msgid ":args"
+msgstr ""
+
+msgid ":ar[gs]\t\tprint the argument list"
+msgstr ""
+
+msgid ":argadd"
+msgstr ""
+
+msgid ":arga[dd]\tadd items to the argument list"
+msgstr ""
+
+msgid ":argdedupe"
+msgstr ""
+
+msgid ":argded[upe]\tremove duplicates from the argument list"
+msgstr ""
+
+msgid ":argdelete"
+msgstr ""
+
+msgid ":argd[elete]\tdelete items from the argument list"
+msgstr ""
+
+msgid ":argedit"
+msgstr ""
+
+msgid ":arge[dit]\tadd item to the argument list and edit it"
+msgstr ""
+
+msgid ":argdo"
+msgstr ""
+
+msgid ":argdo\t\tdo a command on all items in the argument list"
+msgstr ""
+
+msgid ":argglobal"
+msgstr ""
+
+msgid ":argg[lobal]\tdefine the global argument list"
+msgstr ""
+
+msgid ":arglocal"
+msgstr ""
+
+msgid ":argl[ocal]\tdefine a local argument list"
+msgstr ""
+
+msgid ":argument"
+msgstr ""
+
+msgid ":argu[ment]\tgo to specific file in the argument list"
+msgstr ""
+
+msgid ":ascii"
+msgstr ""
+
+msgid ":as[cii]\tprint ascii value of character under the cursor"
+msgstr ""
+
+msgid ":autocmd"
+msgstr ""
+
+msgid ":au[tocmd]\tenter or show autocommands"
+msgstr ""
+
+msgid ":augroup"
+msgstr ""
+
+msgid ":aug[roup]\tselect the autocommand group to use"
+msgstr ""
+
+msgid ":aunmenu"
+msgstr ""
+
+msgid ":aun[menu]\tremove menu for all modes"
+msgstr ""
+
+msgid ":buffer"
+msgstr ""
+
+msgid ":b[uffer]\tgo to specific buffer in the buffer list"
+msgstr ""
+
+msgid ":bNext"
+msgstr ""
+
+msgid ":bN[ext]\tgo to previous buffer in the buffer list"
+msgstr ""
+
+msgid ":ball"
+msgstr ""
+
+msgid ":ba[ll]\t\topen a window for each buffer in the buffer list"
+msgstr ""
+
+msgid ":badd"
+msgstr ""
+
+msgid ":bad[d]\t\tadd buffer to the buffer list"
+msgstr ""
+
+msgid ":balt"
+msgstr ""
+
+msgid ":balt\t\tlike \":badd\" but also set the alternate file"
+msgstr ""
+
+msgid ":bdelete"
+msgstr ""
+
+msgid ":bd[elete]\tremove a buffer from the buffer list"
+msgstr ""
+
+msgid ":belowright"
+msgstr ""
+
+msgid ":bel[owright]\tmake split window appear right or below"
+msgstr ""
+
+msgid ":bfirst"
+msgstr ""
+
+msgid ":bf[irst]\tgo to first buffer in the buffer list"
+msgstr ""
+
+msgid ":blast"
+msgstr ""
+
+msgid ":bl[ast]\tgo to last buffer in the buffer list"
+msgstr ""
+
+msgid ":bmodified"
+msgstr ""
+
+msgid ""
+":bm[odified]\tgo to next buffer in the buffer list that has\n"
+"\t\t\t\tbeen modified"
+msgstr ""
+
+msgid ":bnext"
+msgstr ""
+
+msgid ":bn[ext]\tgo to next buffer in the buffer list"
+msgstr ""
+
+msgid ":botright"
+msgstr ""
+
+msgid ":bo[tright]\tmake split window appear at bottom or far right"
+msgstr ""
+
+msgid ":bprevious"
+msgstr ""
+
+msgid ":bp[revious]\tgo to previous buffer in the buffer list"
+msgstr ""
+
+msgid ":brewind"
+msgstr ""
+
+msgid ":br[ewind]\tgo to first buffer in the buffer list"
+msgstr ""
+
+msgid ":break"
+msgstr ""
+
+msgid ":brea[k]\tbreak out of while loop"
+msgstr ""
+
+msgid ":breakadd"
+msgstr ""
+
+msgid ":breaka[dd]\tadd a debugger breakpoint"
+msgstr ""
+
+msgid ":breakdel"
+msgstr ""
+
+msgid ":breakd[el]\tdelete a debugger breakpoint"
+msgstr ""
+
+msgid ":breaklist"
+msgstr ""
+
+msgid ":breakl[ist]\tlist debugger breakpoints"
+msgstr ""
+
+msgid ":browse"
+msgstr ""
+
+msgid ":bro[wse]\tuse file selection dialog"
+msgstr ""
+
+msgid ":bufdo"
+msgstr ""
+
+msgid ":bufdo\t\texecute command in each listed buffer"
+msgstr ""
+
+msgid ":buffers"
+msgstr ""
+
+msgid ":buffers\tlist all files in the buffer list"
+msgstr ""
+
+msgid ":bunload"
+msgstr ""
+
+msgid ":bun[load]\tunload a specific buffer"
+msgstr ""
+
+msgid ":bwipeout"
+msgstr ""
+
+msgid ":bw[ipeout]\treally delete a buffer"
+msgstr ""
+
+msgid ":change"
+msgstr ""
+
+msgid ":c[hange]\treplace a line or series of lines"
+msgstr ""
+
+msgid ":cNext"
+msgstr ""
+
+msgid ":cN[ext]\tgo to previous error"
+msgstr ""
+
+msgid ":cNfile"
+msgstr ""
+
+msgid ":cNf[ile]\tgo to last error in previous file"
+msgstr ""
+
+msgid ":cabbrev"
+msgstr ""
+
+msgid ":ca[bbrev]\tlike \":abbreviate\" but for Command-line mode"
+msgstr ""
+
+msgid ":cabclear"
+msgstr ""
+
+msgid ":cabc[lear]\tclear all abbreviations for Command-line mode"
+msgstr ""
+
+msgid ":cabove"
+msgstr ""
+
+msgid ":cabo[ve]\tgo to error above current line"
+msgstr ""
+
+msgid ":caddbuffer"
+msgstr ""
+
+msgid ":cad[dbuffer]\tadd errors from buffer"
+msgstr ""
+
+msgid ":caddexpr"
+msgstr ""
+
+msgid ":cadde[xpr]\tadd errors from expr"
+msgstr ""
+
+msgid ":caddfile"
+msgstr ""
+
+msgid ":caddf[ile]\tadd error message to current quickfix list"
+msgstr ""
+
+msgid ":cafter"
+msgstr ""
+
+msgid ":caf[ter]\tgo to error after current cursor"
+msgstr ""
+
+msgid ":call"
+msgstr ""
+
+msgid ":cal[l]\t\tcall a function"
+msgstr ""
+
+msgid ":catch"
+msgstr ""
+
+msgid ":cat[ch]\tpart of a :try command"
+msgstr ""
+
+msgid ":cbefore"
+msgstr ""
+
+msgid ":cbef[ore]\tgo to error before current cursor"
+msgstr ""
+
+msgid ":cbelow"
+msgstr ""
+
+msgid ":cbel[ow]\tgo to error below current line"
+msgstr ""
+
+msgid ":cbottom"
+msgstr ""
+
+msgid ":cbo[ttom]\tscroll to the bottom of the quickfix window"
+msgstr ""
+
+msgid ":cbuffer"
+msgstr ""
+
+msgid ":cb[uffer]\tparse error messages and jump to first error"
+msgstr ""
+
+msgid ":cc"
+msgstr ""
+
+msgid ":cc\t\tgo to specific error"
+msgstr ""
+
+msgid ":cclose"
+msgstr ""
+
+msgid ":ccl[ose]\tclose quickfix window"
+msgstr ""
+
+msgid ":cd"
+msgstr ""
+
+msgid ":cd\t\tchange directory"
+msgstr ""
+
+msgid ":cdo"
+msgstr ""
+
+msgid ":cdo\t\texecute command in each valid error list entry"
+msgstr ""
+
+msgid ":cfdo"
+msgstr ""
+
+msgid ":cfd[o]\t\texecute command in each file in error list"
+msgstr ""
+
+msgid ":center"
+msgstr ""
+
+msgid ":ce[nter]\tformat lines at the center"
+msgstr ""
+
+msgid ":cexpr"
+msgstr ""
+
+msgid ":cex[pr]\tread errors from expr and jump to first"
+msgstr ""
+
+msgid ":cfile"
+msgstr ""
+
+msgid ":cf[ile]\tread file with error messages and jump to first"
+msgstr ""
+
+msgid ":cfirst"
+msgstr ""
+
+msgid ":cfir[st]\tgo to the specified error, default first one"
+msgstr ""
+
+msgid ":cgetbuffer"
+msgstr ""
+
+msgid ":cgetb[uffer]\tget errors from buffer"
+msgstr ""
+
+msgid ":cgetexpr"
+msgstr ""
+
+msgid ":cgete[xpr]\tget errors from expr"
+msgstr ""
+
+msgid ":cgetfile"
+msgstr ""
+
+msgid ":cg[etfile]\tread file with error messages"
+msgstr ""
+
+msgid ":changes"
+msgstr ""
+
+msgid ":changes\tprint the change list"
+msgstr ""
+
+msgid ":chdir"
+msgstr ""
+
+msgid ":chd[ir]\tchange directory"
+msgstr ""
+
+msgid ":checkhealth"
+msgstr ""
+
+msgid ":che[ckhealth]\trun healthchecks"
+msgstr ""
+
+msgid ":checkpath"
+msgstr ""
+
+msgid ":checkp[ath]\tlist included files"
+msgstr ""
+
+msgid ":checktime"
+msgstr ""
+
+msgid ":checkt[ime]\tcheck timestamp of loaded buffers"
+msgstr ""
+
+msgid ":chistory"
+msgstr ""
+
+msgid ":chi[story]\tlist the error lists"
+msgstr ""
+
+msgid ":clast"
+msgstr ""
+
+msgid ":cla[st]\tgo to the specified error, default last one"
+msgstr ""
+
+msgid ":clearjumps"
+msgstr ""
+
+msgid ":cle[arjumps]\tclear the jump list"
+msgstr ""
+
+msgid ":clist"
+msgstr ""
+
+msgid ":cl[ist]\tlist all errors"
+msgstr ""
+
+msgid ":close"
+msgstr ""
+
+msgid ":clo[se]\tclose current window"
+msgstr ""
+
+msgid ":cmap"
+msgstr ""
+
+msgid ":cm[ap]\t\tlike \":map\" but for Command-line mode"
+msgstr ""
+
+msgid ":cmapclear"
+msgstr ""
+
+msgid ":cmapc[lear]\tclear all mappings for Command-line mode"
+msgstr ""
+
+msgid ":cmenu"
+msgstr ""
+
+msgid ":cme[nu]\tadd menu for Command-line mode"
+msgstr ""
+
+msgid ":cnext"
+msgstr ""
+
+msgid ":cn[ext]\tgo to next error"
+msgstr ""
+
+msgid ":cnewer"
+msgstr ""
+
+msgid ":cnew[er]\tgo to newer error list"
+msgstr ""
+
+msgid ":cnfile"
+msgstr ""
+
+msgid ":cnf[ile]\tgo to first error in next file"
+msgstr ""
+
+msgid ":cnoremap"
+msgstr ""
+
+msgid ":cno[remap]\tlike \":noremap\" but for Command-line mode"
+msgstr ""
+
+msgid ":cnoreabbrev"
+msgstr ""
+
+msgid ":cnorea[bbrev]\tlike \":noreabbrev\" but for Command-line mode"
+msgstr ""
+
+msgid ":cnoremenu"
+msgstr ""
+
+msgid ":cnoreme[nu]\tlike \":noremenu\" but for Command-line mode"
+msgstr ""
+
+msgid ":copy"
+msgstr ""
+
+msgid ":co[py]\t\tcopy lines"
+msgstr ""
+
+msgid ":colder"
+msgstr ""
+
+msgid ":col[der]\tgo to older error list"
+msgstr ""
+
+msgid ":colorscheme"
+msgstr ""
+
+msgid ":colo[rscheme]\tload a specific color scheme"
+msgstr ""
+
+msgid ":command"
+msgstr ""
+
+msgid ":com[mand]\tcreate user-defined command"
+msgstr ""
+
+msgid ":comclear"
+msgstr ""
+
+msgid ":comc[lear]\tclear all user-defined commands"
+msgstr ""
+
+msgid ":compiler"
+msgstr ""
+
+msgid ":comp[iler]\tdo settings for a specific compiler"
+msgstr ""
+
+msgid ":continue"
+msgstr ""
+
+msgid ":con[tinue]\tgo back to :while"
+msgstr ""
+
+msgid ":confirm"
+msgstr ""
+
+msgid ":conf[irm]\tprompt user when confirmation required"
+msgstr ""
+
+msgid ":const"
+msgstr ""
+
+msgid ":cons[t]\tcreate a variable as a constant"
+msgstr ""
+
+msgid ":copen"
+msgstr ""
+
+msgid ":cope[n]\topen quickfix window"
+msgstr ""
+
+msgid ":cprevious"
+msgstr ""
+
+msgid ":cp[revious]\tgo to previous error"
+msgstr ""
+
+msgid ":cpfile"
+msgstr ""
+
+msgid ":cpf[ile]\tgo to last error in previous file"
+msgstr ""
+
+msgid ":cquit"
+msgstr ""
+
+msgid ":cq[uit]\tquit Vim with an error code"
+msgstr ""
+
+msgid ":crewind"
+msgstr ""
+
+msgid ":cr[ewind]\tgo to the specified error, default first one"
+msgstr ""
+
+msgid ":cunmap"
+msgstr ""
+
+msgid ":cu[nmap]\tlike \":unmap\" but for Command-line mode"
+msgstr ""
+
+msgid ":cunabbrev"
+msgstr ""
+
+msgid ":cuna[bbrev]\tlike \":unabbrev\" but for Command-line mode"
+msgstr ""
+
+msgid ":cunmenu"
+msgstr ""
+
+msgid ":cunme[nu]\tremove menu for Command-line mode"
+msgstr ""
+
+msgid ":cwindow"
+msgstr ""
+
+msgid ":cw[indow]\topen or close quickfix window"
+msgstr ""
+
+msgid ":delete"
+msgstr ""
+
+msgid ":d[elete]\tdelete lines"
+msgstr ""
+
+msgid ":debug"
+msgstr ""
+
+msgid ":deb[ug]\trun a command in debugging mode"
+msgstr ""
+
+msgid ":debuggreedy"
+msgstr ""
+
+msgid ":debugg[reedy]\tread debug mode commands from normal input"
+msgstr ""
+
+msgid ":delcommand"
+msgstr ""
+
+msgid ":delc[ommand]\tdelete user-defined command"
+msgstr ""
+
+msgid ":delfunction"
+msgstr ""
+
+msgid ":delf[unction]\tdelete a user function"
+msgstr ""
+
+msgid ":delmarks"
+msgstr ""
+
+msgid ":delm[arks]\tdelete marks"
+msgstr ""
+
+msgid ":diffupdate"
+msgstr ""
+
+msgid ":dif[fupdate]\tupdate"
+msgstr ""
+
+msgid "'diff'"
+msgstr ""
+
+msgid "buffers"
+msgstr ""
+
+msgid ":diffget"
+msgstr ""
+
+msgid ":diffg[et]\tremove differences in current buffer"
+msgstr ""
+
+msgid ":diffoff"
+msgstr ""
+
+msgid ":diffo[ff]\tswitch off diff mode"
+msgstr ""
+
+msgid ":diffpatch"
+msgstr ""
+
+msgid ":diffp[atch]\tapply a patch and show differences"
+msgstr ""
+
+msgid ":diffput"
+msgstr ""
+
+msgid ":diffpu[t]\tremove differences in other buffer"
+msgstr ""
+
+msgid ":diffsplit"
+msgstr ""
+
+msgid ":diffs[plit]\tshow differences with another file"
+msgstr ""
+
+msgid ":diffthis"
+msgstr ""
+
+msgid ":diffthis\tmake current window a diff window"
+msgstr ""
+
+msgid ":digraphs"
+msgstr ""
+
+msgid ":dig[raphs]\tshow or enter digraphs"
+msgstr ""
+
+msgid ":display"
+msgstr ""
+
+msgid ":di[splay]\tdisplay registers"
+msgstr ""
+
+msgid ":djump"
+msgstr ""
+
+msgid ":dj[ump]\tjump to #define"
+msgstr ""
+
+msgid ":dl"
+msgstr ""
+
+msgid ":dl\t\tshort for"
+msgstr ""
+
+msgid ":delete"
+msgstr ""
+
+msgid "with the 'l' flag"
+msgstr ""
+
+msgid ":dlist"
+msgstr ""
+
+msgid ":dli[st]\tlist #defines"
+msgstr ""
+
+msgid ":doautocmd"
+msgstr ""
+
+msgid ":do[autocmd]\tapply autocommands to current buffer"
+msgstr ""
+
+msgid ":doautoall"
+msgstr ""
+
+msgid ":doautoa[ll]\tapply autocommands for all loaded buffers"
+msgstr ""
+
+msgid ":dp"
+msgstr ""
+
+msgid ":d[elete]p\tshort for"
+msgstr ""
+
+msgid ":delete"
+msgstr ""
+
+msgid "with the 'p' flag"
+msgstr ""
+
+msgid ":drop"
+msgstr ""
+
+msgid ""
+":dr[op]\t\tjump to window editing file or edit file in\n"
+"\t\t\t\tcurrent window"
+msgstr ""
+
+msgid ":dsearch"
+msgstr ""
+
+msgid ":ds[earch]\tlist one #define"
+msgstr ""
+
+msgid ":dsplit"
+msgstr ""
+
+msgid ":dsp[lit]\tsplit window and jump to #define"
+msgstr ""
+
+msgid ":edit"
+msgstr ""
+
+msgid ":e[dit]\t\tedit a file"
+msgstr ""
+
+msgid ":earlier"
+msgstr ""
+
+msgid ":ea[rlier]\tgo to older change, undo"
+msgstr ""
+
+msgid ":echo"
+msgstr ""
+
+msgid ":ec[ho]\t\techoes the result of expressions"
+msgstr ""
+
+msgid ":echoerr"
+msgstr ""
+
+msgid ":echoe[rr]\tlike :echo, show like an error and use history"
+msgstr ""
+
+msgid ":echohl"
+msgstr ""
+
+msgid ":echoh[l]\tset highlighting for echo commands"
+msgstr ""
+
+msgid ":echomsg"
+msgstr ""
+
+msgid ":echom[sg]\tsame as :echo, put message in history"
+msgstr ""
+
+msgid ":echon"
+msgstr ""
+
+msgid ":echon\t\tsame as :echo, but without"
+msgstr ""
+
+msgid "<EOL>"
+msgstr ""
+
+msgid ":else"
+msgstr ""
+
+msgid ":el[se]\t\tpart of an :if command"
+msgstr ""
+
+msgid ":elseif"
+msgstr ""
+
+msgid ":elsei[f]\tpart of an :if command"
+msgstr ""
+
+msgid ":emenu"
+msgstr ""
+
+msgid ":em[enu]\texecute a menu by name"
+msgstr ""
+
+msgid ":endif"
+msgstr ""
+
+msgid ":en[dif]\tend previous :if"
+msgstr ""
+
+msgid ":endfor"
+msgstr ""
+
+msgid ":endfo[r]\tend previous :for"
+msgstr ""
+
+msgid ":endfunction"
+msgstr ""
+
+msgid ":endf[unction]\tend of a user function started with :function"
+msgstr ""
+
+msgid ":endtry"
+msgstr ""
+
+msgid ":endt[ry]\tend previous :try"
+msgstr ""
+
+msgid ":endwhile"
+msgstr ""
+
+msgid ":endw[hile]\tend previous :while"
+msgstr ""
+
+msgid ":enew"
+msgstr ""
+
+msgid ":ene[w]\t\tedit a new, unnamed buffer"
+msgstr ""
+
+msgid ":eval"
+msgstr ""
+
+msgid ":ev[al]\t\tevaluate an expression and discard the result"
+msgstr ""
+
+msgid ":ex"
+msgstr ""
+
+msgid ":ex\t\tsame as \":edit\""
+msgstr ""
+
+msgid ":execute"
+msgstr ""
+
+msgid ":exe[cute]\texecute result of expressions"
+msgstr ""
+
+msgid ":exit"
+msgstr ""
+
+msgid ":exi[t]\t\tsame as \":xit\""
+msgstr ""
+
+msgid ":exusage"
+msgstr ""
+
+msgid ":exu[sage]\toverview of Ex commands"
+msgstr ""
+
+msgid ":fclose"
+msgstr ""
+
+msgid ":fc[lose]\tclose floating window"
+msgstr ""
+
+msgid ":file"
+msgstr ""
+
+msgid ":f[ile]\t\tshow or set the current file name"
+msgstr ""
+
+msgid ":files"
+msgstr ""
+
+msgid ":files\t\tlist all files in the buffer list"
+msgstr ""
+
+msgid ":filetype"
+msgstr ""
+
+msgid ":filet[ype]\tswitch file type detection on/off"
+msgstr ""
+
+msgid ":filter"
+msgstr ""
+
+msgid ":filt[er]\tfilter output of following command"
+msgstr ""
+
+msgid ":find"
+msgstr ""
+
+msgid ":fin[d]\t\tfind file in"
+msgstr ""
+
+msgid "'path'"
+msgstr ""
+
+msgid "and edit it"
+msgstr ""
+
+msgid ":finally"
+msgstr ""
+
+msgid ":fina[lly]\tpart of a :try command"
+msgstr ""
+
+msgid ":finish"
+msgstr ""
+
+msgid ":fini[sh]\tquit sourcing a Vim script"
+msgstr ""
+
+msgid ":first"
+msgstr ""
+
+msgid ":fir[st]\tgo to the first file in the argument list"
+msgstr ""
+
+msgid ":fold"
+msgstr ""
+
+msgid ":fo[ld]\t\tcreate a fold"
+msgstr ""
+
+msgid ":foldclose"
+msgstr ""
+
+msgid ":foldc[lose]\tclose folds"
+msgstr ""
+
+msgid ":folddoopen"
+msgstr ""
+
+msgid ":foldd[oopen]\texecute command on lines not in a closed fold"
+msgstr ""
+
+msgid ":folddoclosed"
+msgstr ""
+
+msgid ":folddoc[losed]\texecute command on lines in a closed fold"
+msgstr ""
+
+msgid ":foldopen"
+msgstr ""
+
+msgid ":foldo[pen]\topen folds"
+msgstr ""
+
+msgid ":for"
+msgstr ""
+
+msgid ":for\t\tfor loop"
+msgstr ""
+
+msgid ":function"
+msgstr ""
+
+msgid ":fu[nction]\tdefine a user function"
+msgstr ""
+
+msgid ":global"
+msgstr ""
+
+msgid ":g[lobal]\texecute commands for matching lines"
+msgstr ""
+
+msgid ":goto"
+msgstr ""
+
+msgid ":go[to]\t\tgo to byte in the buffer"
+msgstr ""
+
+msgid ":grep"
+msgstr ""
+
+msgid ":gr[ep]\t\trun"
+msgstr ""
+
+msgid "'grepprg'"
+msgstr ""
+
+msgid "and jump to first match"
+msgstr ""
+
+msgid ":grepadd"
+msgstr ""
+
+msgid ":grepa[dd]\tlike :grep, but append to current list"
+msgstr ""
+
+msgid ":gui"
+msgstr ""
+
+msgid ":gu[i]\t\tstart the GUI"
+msgstr ""
+
+msgid ":gvim"
+msgstr ""
+
+msgid ":gv[im]\t\tstart the GUI"
+msgstr ""
+
+msgid ":help"
+msgstr ""
+
+msgid ":h[elp]\t\topen a help window"
+msgstr ""
+
+msgid ":helpclose"
+msgstr ""
+
+msgid ":helpc[lose]\tclose one help window"
+msgstr ""
+
+msgid ":helpgrep"
+msgstr ""
+
+msgid ":helpg[rep]\tlike \":grep\" but searches help files"
+msgstr ""
+
+msgid ":helptags"
+msgstr ""
+
+msgid ":helpt[ags]\tgenerate help tags for a directory"
+msgstr ""
+
+msgid ":highlight"
+msgstr ""
+
+msgid ":hi[ghlight]\tspecify highlighting methods"
+msgstr ""
+
+msgid ":hide"
+msgstr ""
+
+msgid ":hid[e]\t\thide current buffer for a command"
+msgstr ""
+
+msgid ":history"
+msgstr ""
+
+msgid ":his[tory]\tprint a history list"
+msgstr ""
+
+msgid ":horizontal"
+msgstr ""
+
+msgid ":hor[izontal]\tfollowing window command work horizontally"
+msgstr ""
+
+msgid ":insert"
+msgstr ""
+
+msgid ":i[nsert]\tinsert text"
+msgstr ""
+
+msgid ":iabbrev"
+msgstr ""
+
+msgid ":ia[bbrev]\tlike \":abbrev\" but for Insert mode"
+msgstr ""
+
+msgid ":iabclear"
+msgstr ""
+
+msgid ":iabc[lear]\tlike \":abclear\" but for Insert mode"
+msgstr ""
+
+msgid ":if"
+msgstr ""
+
+msgid ":if\t\texecute commands when condition met"
+msgstr ""
+
+msgid ":ijump"
+msgstr ""
+
+msgid ":ij[ump]\tjump to definition of identifier"
+msgstr ""
+
+msgid ":ilist"
+msgstr ""
+
+msgid ":il[ist]\tlist lines where identifier matches"
+msgstr ""
+
+msgid ":imap"
+msgstr ""
+
+msgid ":im[ap]\t\tlike \":map\" but for Insert mode"
+msgstr ""
+
+msgid ":imapclear"
+msgstr ""
+
+msgid ":imapc[lear]\tlike \":mapclear\" but for Insert mode"
+msgstr ""
+
+msgid ":imenu"
+msgstr ""
+
+msgid ":ime[nu]\tadd menu for Insert mode"
+msgstr ""
+
+msgid ":inoremap"
+msgstr ""
+
+msgid ":ino[remap]\tlike \":noremap\" but for Insert mode"
+msgstr ""
+
+msgid ":inoreabbrev"
+msgstr ""
+
+msgid ":inorea[bbrev]\tlike \":noreabbrev\" but for Insert mode"
+msgstr ""
+
+msgid ":inoremenu"
+msgstr ""
+
+msgid ":inoreme[nu]\tlike \":noremenu\" but for Insert mode"
+msgstr ""
+
+msgid ":intro"
+msgstr ""
+
+msgid ":int[ro]\tprint the introductory message"
+msgstr ""
+
+msgid ":isearch"
+msgstr ""
+
+msgid ":is[earch]\tlist one line where identifier matches"
+msgstr ""
+
+msgid ":isplit"
+msgstr ""
+
+msgid ""
+":isp[lit]\tsplit window and jump to definition of\n"
+"\t\t\t\tidentifier"
+msgstr ""
+
+msgid ":iunmap"
+msgstr ""
+
+msgid ":iu[nmap]\tlike \":unmap\" but for Insert mode"
+msgstr ""
+
+msgid ":iunabbrev"
+msgstr ""
+
+msgid ":iuna[bbrev]\tlike \":unabbrev\" but for Insert mode"
+msgstr ""
+
+msgid ":iunmenu"
+msgstr ""
+
+msgid ":iunme[nu]\tremove menu for Insert mode"
+msgstr ""
+
+msgid ":join"
+msgstr ""
+
+msgid ":j[oin]\t\tjoin lines"
+msgstr ""
+
+msgid ":jumps"
+msgstr ""
+
+msgid ":ju[mps]\tprint the jump list"
+msgstr ""
+
+msgid ":k"
+msgstr ""
+
+msgid ":k\t\tset a mark"
+msgstr ""
+
+msgid ":keepalt"
+msgstr ""
+
+msgid ":keepa[lt]\tfollowing command keeps the alternate file"
+msgstr ""
+
+msgid ":keepmarks"
+msgstr ""
+
+msgid ":kee[pmarks]\tfollowing command keeps marks where they are"
+msgstr ""
+
+msgid ":keepjumps"
+msgstr ""
+
+msgid ":keepj[umps]\tfollowing command keeps jumplist and marks"
+msgstr ""
+
+msgid ":keeppatterns"
+msgstr ""
+
+msgid ":keepp[atterns]\tfollowing command keeps search pattern history"
+msgstr ""
+
+msgid ":lNext"
+msgstr ""
+
+msgid ":lN[ext]\tgo to previous entry in location list"
+msgstr ""
+
+msgid ":lNfile"
+msgstr ""
+
+msgid ":lNf[ile]\tgo to last entry in previous file"
+msgstr ""
+
+msgid ":list"
+msgstr ""
+
+msgid ":l[ist]\t\tprint lines"
+msgstr ""
+
+msgid ":labove"
+msgstr ""
+
+msgid ":lab[ove]\tgo to location above current line"
+msgstr ""
+
+msgid ":laddexpr"
+msgstr ""
+
+msgid ":lad[dexpr]\tadd locations from expr"
+msgstr ""
+
+msgid ":laddbuffer"
+msgstr ""
+
+msgid ":laddb[uffer]\tadd locations from buffer"
+msgstr ""
+
+msgid ":laddfile"
+msgstr ""
+
+msgid ":laddf[ile]\tadd locations to current location list"
+msgstr ""
+
+msgid ":lafter"
+msgstr ""
+
+msgid ":laf[ter]\tgo to location after current cursor"
+msgstr ""
+
+msgid ":last"
+msgstr ""
+
+msgid ":la[st]\t\tgo to the last file in the argument list"
+msgstr ""
+
+msgid ":language"
+msgstr ""
+
+msgid ":lan[guage]\tset the language (locale)"
+msgstr ""
+
+msgid ":later"
+msgstr ""
+
+msgid ":lat[er]\tgo to newer change, redo"
+msgstr ""
+
+msgid ":lbefore"
+msgstr ""
+
+msgid ":lbef[ore]\tgo to location before current cursor"
+msgstr ""
+
+msgid ":lbelow"
+msgstr ""
+
+msgid ":lbel[ow]\tgo to location below current line"
+msgstr ""
+
+msgid ":lbottom"
+msgstr ""
+
+msgid ":lbo[ttom]\tscroll to the bottom of the location window"
+msgstr ""
+
+msgid ":lbuffer"
+msgstr ""
+
+msgid ":lb[uffer]\tparse locations and jump to first location"
+msgstr ""
+
+msgid ":lcd"
+msgstr ""
+
+msgid ":lc[d]\t\tchange directory locally"
+msgstr ""
+
+msgid ":lchdir"
+msgstr ""
+
+msgid ":lch[dir]\tchange directory locally"
+msgstr ""
+
+msgid ":lclose"
+msgstr ""
+
+msgid ":lcl[ose]\tclose location window"
+msgstr ""
+
+msgid ":ldo"
+msgstr ""
+
+msgid ":ld[o]\t\texecute command in valid location list entries"
+msgstr ""
+
+msgid ":lfdo"
+msgstr ""
+
+msgid ":lfd[o]\t\texecute command in each file in location list"
+msgstr ""
+
+msgid ":left"
+msgstr ""
+
+msgid ":le[ft]\t\tleft align lines"
+msgstr ""
+
+msgid ":leftabove"
+msgstr ""
+
+msgid ":lefta[bove]\tmake split window appear left or above"
+msgstr ""
+
+msgid ":let"
+msgstr ""
+
+msgid ":let\t\tassign a value to a variable or option"
+msgstr ""
+
+msgid ":lexpr"
+msgstr ""
+
+msgid ":lex[pr]\tread locations from expr and jump to first"
+msgstr ""
+
+msgid ":lfile"
+msgstr ""
+
+msgid ":lf[ile]\tread file with locations and jump to first"
+msgstr ""
+
+msgid ":lfirst"
+msgstr ""
+
+msgid ":lfir[st]\tgo to the specified location, default first one"
+msgstr ""
+
+msgid ":lgetbuffer"
+msgstr ""
+
+msgid ":lgetb[uffer]\tget locations from buffer"
+msgstr ""
+
+msgid ":lgetexpr"
+msgstr ""
+
+msgid ":lgete[xpr]\tget locations from expr"
+msgstr ""
+
+msgid ":lgetfile"
+msgstr ""
+
+msgid ":lg[etfile]\tread file with locations"
+msgstr ""
+
+msgid ":lgrep"
+msgstr ""
+
+msgid ":lgr[ep]\trun"
+msgstr ""
+
+msgid "'grepprg'"
+msgstr ""
+
+msgid "and jump to first match"
+msgstr ""
+
+msgid ":lgrepadd"
+msgstr ""
+
+msgid ":lgrepa[dd]\tlike :grep, but append to current list"
+msgstr ""
+
+msgid ":lhelpgrep"
+msgstr ""
+
+msgid ":lh[elpgrep]\tlike \":helpgrep\" but uses location list"
+msgstr ""
+
+msgid ":lhistory"
+msgstr ""
+
+msgid ":lhi[story]\tlist the location lists"
+msgstr ""
+
+msgid ":ll"
+msgstr ""
+
+msgid ":ll\t\tgo to specific location"
+msgstr ""
+
+msgid ":llast"
+msgstr ""
+
+msgid ":lla[st]\tgo to the specified location, default last one"
+msgstr ""
+
+msgid ":llist"
+msgstr ""
+
+msgid ":lli[st]\tlist all locations"
+msgstr ""
+
+msgid ":lmake"
+msgstr ""
+
+msgid ":lmak[e]\texecute external command"
+msgstr ""
+
+msgid "'makeprg'"
+msgstr ""
+
+msgid ""
+"and parse\n"
+"\t\t\t\terror messages"
+msgstr ""
+
+msgid ":lmap"
+msgstr ""
+
+msgid ":lm[ap]\t\tlike \":map!\" but includes Lang-Arg mode"
+msgstr ""
+
+msgid ":lmapclear"
+msgstr ""
+
+msgid ":lmapc[lear]\tlike \":mapclear!\" but includes Lang-Arg mode"
+msgstr ""
+
+msgid ":lnext"
+msgstr ""
+
+msgid ":lne[xt]\tgo to next location"
+msgstr ""
+
+msgid ":lnewer"
+msgstr ""
+
+msgid ":lnew[er]\tgo to newer location list"
+msgstr ""
+
+msgid ":lnfile"
+msgstr ""
+
+msgid ":lnf[ile]\tgo to first location in next file"
+msgstr ""
+
+msgid ":lnoremap"
+msgstr ""
+
+msgid ":ln[oremap]\tlike \":noremap!\" but includes Lang-Arg mode"
+msgstr ""
+
+msgid ":loadkeymap"
+msgstr ""
+
+msgid ":loadk[eymap]\tload the following keymaps until EOF"
+msgstr ""
+
+msgid ":loadview"
+msgstr ""
+
+msgid ":lo[adview]\tload view for current window from a file"
+msgstr ""
+
+msgid ":lockmarks"
+msgstr ""
+
+msgid ":loc[kmarks]\tfollowing command keeps marks where they are"
+msgstr ""
+
+msgid ":lockvar"
+msgstr ""
+
+msgid ":lockv[ar]\tlock variables"
+msgstr ""
+
+msgid ":lolder"
+msgstr ""
+
+msgid ":lol[der]\tgo to older location list"
+msgstr ""
+
+msgid ":lopen"
+msgstr ""
+
+msgid ":lope[n]\topen location window"
+msgstr ""
+
+msgid ":lprevious"
+msgstr ""
+
+msgid ":lp[revious]\tgo to previous location"
+msgstr ""
+
+msgid ":lpfile"
+msgstr ""
+
+msgid ":lpf[ile]\tgo to last location in previous file"
+msgstr ""
+
+msgid ":lrewind"
+msgstr ""
+
+msgid ":lr[ewind]\tgo to the specified location, default first one"
+msgstr ""
+
+msgid ":ls"
+msgstr ""
+
+msgid ":ls\t\tlist all buffers"
+msgstr ""
+
+msgid ":ltag"
+msgstr ""
+
+msgid ""
+":lt[ag]\t\tjump to tag and add matching tags to the\n"
+"\t\t\t\tlocation list"
+msgstr ""
+
+msgid ":lunmap"
+msgstr ""
+
+msgid ":lu[nmap]\tlike \":unmap!\" but includes Lang-Arg mode"
+msgstr ""
+
+msgid ":lua"
+msgstr ""
+
+msgid ":lua\t\texecute"
+msgstr ""
+
+msgid "Lua"
+msgstr ""
+
+msgid "command"
+msgstr ""
+
+msgid ":luado"
+msgstr ""
+
+msgid ":luad[o]\texecute Lua command for each line"
+msgstr ""
+
+msgid ":luafile"
+msgstr ""
+
+msgid ":luaf[ile]\texecute"
+msgstr ""
+
+msgid "Lua"
+msgstr ""
+
+msgid "script file"
+msgstr ""
+
+msgid ":lvimgrep"
+msgstr ""
+
+msgid ":lv[imgrep]\tsearch for pattern in files"
+msgstr ""
+
+msgid ":lvimgrepadd"
+msgstr ""
+
+msgid ":lvimgrepa[dd]\tlike :vimgrep, but append to current list"
+msgstr ""
+
+msgid ":lwindow"
+msgstr ""
+
+msgid ":lw[indow]\topen or close location window"
+msgstr ""
+
+msgid ":move"
+msgstr ""
+
+msgid ":m[ove]\t\tmove lines"
+msgstr ""
+
+msgid ":mark"
+msgstr ""
+
+msgid ":ma[rk]\t\tset a mark"
+msgstr ""
+
+msgid ":make"
+msgstr ""
+
+msgid ":mak[e]\t\texecute external command"
+msgstr ""
+
+msgid "'makeprg'"
+msgstr ""
+
+msgid ""
+"and parse\n"
+"\t\t\t\terror messages"
+msgstr ""
+
+msgid ":map"
+msgstr ""
+
+msgid ":map\t\tshow or enter a mapping"
+msgstr ""
+
+msgid ":mapclear"
+msgstr ""
+
+msgid ":mapc[lear]\tclear all mappings for Normal and Visual mode"
+msgstr ""
+
+msgid ":marks"
+msgstr ""
+
+msgid ":marks\t\tlist all marks"
+msgstr ""
+
+msgid ":match"
+msgstr ""
+
+msgid ":mat[ch]\tdefine a match to highlight"
+msgstr ""
+
+msgid ":menu"
+msgstr ""
+
+msgid ":me[nu]\t\tenter a new menu item"
+msgstr ""
+
+msgid ":menutranslate"
+msgstr ""
+
+msgid ":menut[ranslate] add a menu translation item"
+msgstr ""
+
+msgid ":messages"
+msgstr ""
+
+msgid ":mes[sages]\tview previously displayed messages"
+msgstr ""
+
+msgid ":mkexrc"
+msgstr ""
+
+msgid ":mk[exrc]\twrite current mappings and settings to a file"
+msgstr ""
+
+msgid ":mksession"
+msgstr ""
+
+msgid ":mks[ession]\twrite session info to a file"
+msgstr ""
+
+msgid ":mkspell"
+msgstr ""
+
+msgid ":mksp[ell]\tproduce .spl spell file"
+msgstr ""
+
+msgid ":mkvimrc"
+msgstr ""
+
+msgid ":mkv[imrc]\twrite current mappings and settings to a file"
+msgstr ""
+
+msgid ":mkview"
+msgstr ""
+
+msgid ":mkvie[w]\twrite view of current window to a file"
+msgstr ""
+
+msgid ":mode"
+msgstr ""
+
+msgid ":mod[e]\t\tshow or change the screen mode"
+msgstr ""
+
+msgid ":next"
+msgstr ""
+
+msgid ":n[ext]\t\tgo to next file in the argument list"
+msgstr ""
+
+msgid ":new"
+msgstr ""
+
+msgid ":new\t\tcreate a new empty window"
+msgstr ""
+
+msgid ":nmap"
+msgstr ""
+
+msgid ":nm[ap]\t\tlike \":map\" but for Normal mode"
+msgstr ""
+
+msgid ":nmapclear"
+msgstr ""
+
+msgid ":nmapc[lear]\tclear all mappings for Normal mode"
+msgstr ""
+
+msgid ":nmenu"
+msgstr ""
+
+msgid ":nme[nu]\tadd menu for Normal mode"
+msgstr ""
+
+msgid ":nnoremap"
+msgstr ""
+
+msgid ":nn[oremap]\tlike \":noremap\" but for Normal mode"
+msgstr ""
+
+msgid ":nnoremenu"
+msgstr ""
+
+msgid ":nnoreme[nu]\tlike \":noremenu\" but for Normal mode"
+msgstr ""
+
+msgid ":noautocmd"
+msgstr ""
+
+msgid ":noa[utocmd]\tfollowing commands don't trigger autocommands"
+msgstr ""
+
+msgid ":noremap"
+msgstr ""
+
+msgid ":no[remap]\tenter a mapping that will not be remapped"
+msgstr ""
+
+msgid ":nohlsearch"
+msgstr ""
+
+msgid ":noh[lsearch]\tsuspend"
+msgstr ""
+
+msgid "'hlsearch'"
+msgstr ""
+
+msgid "highlighting"
+msgstr ""
+
+msgid ":noreabbrev"
+msgstr ""
+
+msgid ""
+":norea[bbrev]\tenter an abbreviation that will not be\n"
+"\t\t\t\tremapped"
+msgstr ""
+
+msgid ":noremenu"
+msgstr ""
+
+msgid ":noreme[nu]\tenter a menu that will not be remapped"
+msgstr ""
+
+msgid ":normal"
+msgstr ""
+
+msgid ":norm[al]\texecute Normal mode commands"
+msgstr ""
+
+msgid ":noswapfile"
+msgstr ""
+
+msgid ":nos[wapfile]\tfollowing commands don't create a swap file"
+msgstr ""
+
+msgid ":number"
+msgstr ""
+
+msgid ":nu[mber]\tprint lines with line number"
+msgstr ""
+
+msgid ":nunmap"
+msgstr ""
+
+msgid ":nun[map]\tlike \":unmap\" but for Normal mode"
+msgstr ""
+
+msgid ":nunmenu"
+msgstr ""
+
+msgid ":nunme[nu]\tremove menu for Normal mode"
+msgstr ""
+
+msgid ":oldfiles"
+msgstr ""
+
+msgid ":ol[dfiles]\tlist files that have marks in the"
+msgstr ""
+
+msgid "shada"
+msgstr ""
+
+msgid "file"
+msgstr ""
+
+msgid ":omap"
+msgstr ""
+
+msgid ":om[ap]\t\tlike \":map\" but for Operator-pending mode"
+msgstr ""
+
+msgid ":omapclear"
+msgstr ""
+
+msgid ":omapc[lear]\tremove all mappings for Operator-pending mode"
+msgstr ""
+
+msgid ":omenu"
+msgstr ""
+
+msgid ":ome[nu]\tadd menu for Operator-pending mode"
+msgstr ""
+
+msgid ":only"
+msgstr ""
+
+msgid ":on[ly]\t\tclose all windows except the current one"
+msgstr ""
+
+msgid ":onoremap"
+msgstr ""
+
+msgid ":ono[remap]\tlike \":noremap\" but for Operator-pending mode"
+msgstr ""
+
+msgid ":onoremenu"
+msgstr ""
+
+msgid ":onoreme[nu]\tlike \":noremenu\" but for Operator-pending mode"
+msgstr ""
+
+msgid ":options"
+msgstr ""
+
+msgid ":opt[ions]\topen the options-window"
+msgstr ""
+
+msgid ":ounmap"
+msgstr ""
+
+msgid ":ou[nmap]\tlike \":unmap\" but for Operator-pending mode"
+msgstr ""
+
+msgid ":ounmenu"
+msgstr ""
+
+msgid ":ounme[nu]\tremove menu for Operator-pending mode"
+msgstr ""
+
+msgid ":ownsyntax"
+msgstr ""
+
+msgid ":ow[nsyntax]\tset new local syntax highlight for this window"
+msgstr ""
+
+msgid ":packadd"
+msgstr ""
+
+msgid ":pa[ckadd]\tadd a plugin from"
+msgstr ""
+
+msgid "'packpath'"
+msgstr ""
+
+msgid ":packloadall"
+msgstr ""
+
+msgid ":packl[oadall]\tload all packages under"
+msgstr ""
+
+msgid "'packpath'"
+msgstr ""
+
+msgid ":pclose"
+msgstr ""
+
+msgid ":pc[lose]\tclose preview window"
+msgstr ""
+
+msgid ":pedit"
+msgstr ""
+
+msgid ":ped[it]\tedit file in the preview window"
+msgstr ""
+
+msgid ":perl"
+msgstr ""
+
+msgid ":pe[rl]\t\texecute perl command"
+msgstr ""
+
+msgid ":perldo"
+msgstr ""
+
+msgid ":perld[o]\texecute perl command for each line"
+msgstr ""
+
+msgid ":perlfile"
+msgstr ""
+
+msgid ":perlf[ile]\texecute perl script file"
+msgstr ""
+
+msgid ":print"
+msgstr ""
+
+msgid ":p[rint]\tprint lines"
+msgstr ""
+
+msgid ":profdel"
+msgstr ""
+
+msgid ":profd[el]\tstop profiling a function or script"
+msgstr ""
+
+msgid ":profile"
+msgstr ""
+
+msgid ":prof[ile]\tprofiling functions and scripts"
+msgstr ""
+
+msgid ":pop"
+msgstr ""
+
+msgid ":po[p]\t\tjump to older entry in tag stack"
+msgstr ""
+
+msgid ":popup"
+msgstr ""
+
+msgid ":popu[p]\tpopup a menu by name"
+msgstr ""
+
+msgid ":ppop"
+msgstr ""
+
+msgid ":pp[op]\t\t\":pop\" in preview window"
+msgstr ""
+
+msgid ":preserve"
+msgstr ""
+
+msgid ":pre[serve]\twrite all text to swap file"
+msgstr ""
+
+msgid ":previous"
+msgstr ""
+
+msgid ":prev[ious]\tgo to previous file in argument list"
+msgstr ""
+
+msgid ":psearch"
+msgstr ""
+
+msgid ":ps[earch]\tlike \":ijump\" but shows match in preview window"
+msgstr ""
+
+msgid ":ptag"
+msgstr ""
+
+msgid ":pt[ag]\t\tshow tag in preview window"
+msgstr ""
+
+msgid ":ptNext"
+msgstr ""
+
+msgid ":ptN[ext]"
+msgstr ""
+
+msgid ":tNext"
+msgstr ""
+
+msgid "in preview window"
+msgstr ""
+
+msgid ":ptfirst"
+msgstr ""
+
+msgid ":ptf[irst]"
+msgstr ""
+
+msgid ":trewind"
+msgstr ""
+
+msgid "in preview window"
+msgstr ""
+
+msgid ":ptjump"
+msgstr ""
+
+msgid ":ptj[ump]"
+msgstr ""
+
+msgid ":tjump"
+msgstr ""
+
+msgid "and show tag in preview window"
+msgstr ""
+
+msgid ":ptlast"
+msgstr ""
+
+msgid ":ptl[ast]"
+msgstr ""
+
+msgid ":tlast"
+msgstr ""
+
+msgid "in preview window"
+msgstr ""
+
+msgid ":ptnext"
+msgstr ""
+
+msgid ":ptn[ext]"
+msgstr ""
+
+msgid ":tnext"
+msgstr ""
+
+msgid "in preview window"
+msgstr ""
+
+msgid ":ptprevious"
+msgstr ""
+
+msgid ":ptp[revious]"
+msgstr ""
+
+msgid ":tprevious"
+msgstr ""
+
+msgid "in preview window"
+msgstr ""
+
+msgid ":ptrewind"
+msgstr ""
+
+msgid ":ptr[ewind]"
+msgstr ""
+
+msgid ":trewind"
+msgstr ""
+
+msgid "in preview window"
+msgstr ""
+
+msgid ":ptselect"
+msgstr ""
+
+msgid ":pts[elect]"
+msgstr ""
+
+msgid ":tselect"
+msgstr ""
+
+msgid "and show tag in preview window"
+msgstr ""
+
+msgid ":put"
+msgstr ""
+
+msgid ":pu[t]\t\tinsert contents of register in the text"
+msgstr ""
+
+msgid ":pwd"
+msgstr ""
+
+msgid ":pw[d]\t\tprint current directory"
+msgstr ""
+
+msgid ":py3"
+msgstr ""
+
+msgid ":py3\t\texecute Python 3 command"
+msgstr ""
+
+msgid ":python3"
+msgstr ""
+
+msgid ":python3\tsame as :py3"
+msgstr ""
+
+msgid ":py3do"
+msgstr ""
+
+msgid ":py3d[o]\texecute Python 3 command for each line"
+msgstr ""
+
+msgid ":py3file"
+msgstr ""
+
+msgid ":py3f[ile]\texecute Python 3 script file"
+msgstr ""
+
+msgid ":python"
+msgstr ""
+
+msgid ":py[thon]\texecute Python command"
+msgstr ""
+
+msgid ":pydo"
+msgstr ""
+
+msgid ":pyd[o]\t\texecute Python command for each line"
+msgstr ""
+
+msgid ":pyfile"
+msgstr ""
+
+msgid ":pyf[ile]\texecute Python script file"
+msgstr ""
+
+msgid ":pyx"
+msgstr ""
+
+msgid ":pyx\t\texecute"
+msgstr ""
+
+msgid "python_x"
+msgstr ""
+
+msgid "command"
+msgstr ""
+
+msgid ":pythonx"
+msgstr ""
+
+msgid ":pythonx\tsame as :pyx"
+msgstr ""
+
+msgid ":pyxdo"
+msgstr ""
+
+msgid ":pyxd[o]\texecute"
+msgstr ""
+
+msgid "python_x"
+msgstr ""
+
+msgid "command for each line"
+msgstr ""
+
+msgid ":pyxfile"
+msgstr ""
+
+msgid ":pyxf[ile]\texecute"
+msgstr ""
+
+msgid "python_x"
+msgstr ""
+
+msgid "script file"
+msgstr ""
+
+msgid ":quit"
+msgstr ""
+
+msgid ":q[uit]\t\tquit current window (when one window quit Vim)"
+msgstr ""
+
+msgid ":quitall"
+msgstr ""
+
+msgid ":quita[ll]\tquit Vim"
+msgstr ""
+
+msgid ":qall"
+msgstr ""
+
+msgid ":qa[ll]\t\tquit Vim"
+msgstr ""
+
+msgid ":read"
+msgstr ""
+
+msgid ":r[ead]\t\tread file into the text"
+msgstr ""
+
+msgid ":recover"
+msgstr ""
+
+msgid ":rec[over]\trecover a file from a swap file"
+msgstr ""
+
+msgid ":redo"
+msgstr ""
+
+msgid ":red[o]\t\tredo one undone change"
+msgstr ""
+
+msgid ":redir"
+msgstr ""
+
+msgid ":redi[r]\tredirect messages to a file or register"
+msgstr ""
+
+msgid ":redraw"
+msgstr ""
+
+msgid ":redr[aw]\tforce a redraw of the display"
+msgstr ""
+
+msgid ":redrawstatus"
+msgstr ""
+
+msgid ""
+":redraws[tatus]\tforce a redraw of the status line(s) and\n"
+"\t\t\t\twindow bar(s)"
+msgstr ""
+
+msgid ":redrawtabline"
+msgstr ""
+
+msgid ":redrawt[abline]  force a redraw of the tabline"
+msgstr ""
+
+msgid ":registers"
+msgstr ""
+
+msgid ":reg[isters]\tdisplay the contents of registers"
+msgstr ""
+
+msgid ":resize"
+msgstr ""
+
+msgid ":res[ize]\tchange current window height"
+msgstr ""
+
+msgid ":retab"
+msgstr ""
+
+msgid ":ret[ab]\tchange tab size"
+msgstr ""
+
+msgid ":return"
+msgstr ""
+
+msgid ":retu[rn]\treturn from a user function"
+msgstr ""
+
+msgid ":rewind"
+msgstr ""
+
+msgid ":rew[ind]\tgo to the first file in the argument list"
+msgstr ""
+
+msgid ":right"
+msgstr ""
+
+msgid ":ri[ght]\tright align text"
+msgstr ""
+
+msgid ":rightbelow"
+msgstr ""
+
+msgid ":rightb[elow]\tmake split window appear right or below"
+msgstr ""
+
+msgid ":rshada"
+msgstr ""
+
+msgid ":rsh[ada]\tread from"
+msgstr ""
+
+msgid "shada"
+msgstr ""
+
+msgid "file"
+msgstr ""
+
+msgid ":ruby"
+msgstr ""
+
+msgid ":rub[y]\t\texecute Ruby command"
+msgstr ""
+
+msgid ":rubydo"
+msgstr ""
+
+msgid ":rubyd[o]\texecute Ruby command for each line"
+msgstr ""
+
+msgid ":rubyfile"
+msgstr ""
+
+msgid ":rubyf[ile]\texecute Ruby script file"
+msgstr ""
+
+msgid ":rundo"
+msgstr ""
+
+msgid ":rund[o]\tread undo information from a file"
+msgstr ""
+
+msgid ":runtime"
+msgstr ""
+
+msgid ":ru[ntime]\tsource vim scripts in"
+msgstr ""
+
+msgid "'runtimepath'"
+msgstr ""
+
+msgid ":substitute"
+msgstr ""
+
+msgid ":s[ubstitute]\tfind and replace text"
+msgstr ""
+
+msgid ":sNext"
+msgstr ""
+
+msgid ""
+":sN[ext]\tsplit window and go to previous file in\n"
+"\t\t\t\targument list"
+msgstr ""
+
+msgid ":sandbox"
+msgstr ""
+
+msgid ":san[dbox]\texecute a command in the sandbox"
+msgstr ""
+
+msgid ":sargument"
+msgstr ""
+
+msgid ""
+":sa[rgument]\tsplit window and go to specific file in\n"
+"\t\t\t\targument list"
+msgstr ""
+
+msgid ":sall"
+msgstr ""
+
+msgid ":sal[l]\t\topen a window for each file in argument list"
+msgstr ""
+
+msgid ":saveas"
+msgstr ""
+
+msgid ":sav[eas]\tsave file under another name."
+msgstr ""
+
+msgid ":sbuffer"
+msgstr ""
+
+msgid ""
+":sb[uffer]\tsplit window and go to specific file in the\n"
+"\t\t\t\tbuffer list"
+msgstr ""
+
+msgid ":sbNext"
+msgstr ""
+
+msgid ""
+":sbN[ext]\tsplit window and go to previous file in the\n"
+"\t\t\t\tbuffer list"
+msgstr ""
+
+msgid ":sball"
+msgstr ""
+
+msgid ":sba[ll]\topen a window for each file in the buffer list"
+msgstr ""
+
+msgid ":sbfirst"
+msgstr ""
+
+msgid ""
+":sbf[irst]\tsplit window and go to first file in the\n"
+"\t\t\t\tbuffer list"
+msgstr ""
+
+msgid ":sblast"
+msgstr ""
+
+msgid ""
+":sbl[ast]\tsplit window and go to last file in buffer\n"
+"\t\t\t\tlist"
+msgstr ""
+
+msgid ":sbmodified"
+msgstr ""
+
+msgid ""
+":sbm[odified]\tsplit window and go to modified file in the\n"
+"\t\t\t\tbuffer list"
+msgstr ""
+
+msgid ":sbnext"
+msgstr ""
+
+msgid ""
+":sbn[ext]\tsplit window and go to next file in the buffer\n"
+"\t\t\t\tlist"
+msgstr ""
+
+msgid ":sbprevious"
+msgstr ""
+
+msgid ""
+":sbp[revious]\tsplit window and go to previous file in the\n"
+"\t\t\t\tbuffer list"
+msgstr ""
+
+msgid ":sbrewind"
+msgstr ""
+
+msgid ""
+":sbr[ewind]\tsplit window and go to first file in the\n"
+"\t\t\t\tbuffer list"
+msgstr ""
+
+msgid ":scriptnames"
+msgstr ""
+
+msgid ":scr[iptnames]\tlist names of all sourced Vim scripts"
+msgstr ""
+
+msgid ":scriptencoding"
+msgstr ""
+
+msgid ":scripte[ncoding]  encoding used in sourced Vim script"
+msgstr ""
+
+msgid ":set"
+msgstr ""
+
+msgid ":se[t]\t\tshow or set options"
+msgstr ""
+
+msgid ":setfiletype"
+msgstr ""
+
+msgid ":setf[iletype]\tset"
+msgstr ""
+
+msgid "'filetype'"
+msgstr ""
+
+msgid ", unless it was set already"
+msgstr ""
+
+msgid ":setglobal"
+msgstr ""
+
+msgid ":setg[lobal]\tshow global values of options"
+msgstr ""
+
+msgid ":setlocal"
+msgstr ""
+
+msgid ":setl[ocal]\tshow or set options locally"
+msgstr ""
+
+msgid ":sfind"
+msgstr ""
+
+msgid ":sf[ind]\tsplit current window and edit file in"
+msgstr ""
+
+msgid "'path'"
+msgstr ""
+
+msgid ":sfirst"
+msgstr ""
+
+msgid ""
+":sfir[st]\tsplit window and go to first file in the\n"
+"\t\t\t\targument list"
+msgstr ""
+
+msgid ":sign"
+msgstr ""
+
+msgid ":sig[n]\t\tmanipulate signs"
+msgstr ""
+
+msgid ":silent"
+msgstr ""
+
+msgid ":sil[ent]\trun a command silently"
+msgstr ""
+
+msgid ":sleep"
+msgstr ""
+
+msgid ":sl[eep]\tdo nothing for a few seconds"
+msgstr ""
+
+msgid ":slast"
+msgstr ""
+
+msgid ""
+":sla[st]\tsplit window and go to last file in the\n"
+"\t\t\t\targument list"
+msgstr ""
+
+msgid ":smagic"
+msgstr ""
+
+msgid ":sm[agic]\t:substitute with"
+msgstr ""
+
+msgid "'magic'"
+msgstr ""
+
+msgid ":smap"
+msgstr ""
+
+msgid ":smap\t\tlike \":map\" but for Select mode"
+msgstr ""
+
+msgid ":smapclear"
+msgstr ""
+
+msgid ":smapc[lear]\tremove all mappings for Select mode"
+msgstr ""
+
+msgid ":smenu"
+msgstr ""
+
+msgid ":sme[nu]\tadd menu for Select mode"
+msgstr ""
+
+msgid ":snext"
+msgstr ""
+
+msgid ""
+":sn[ext]\tsplit window and go to next file in the\n"
+"\t\t\t\targument list"
+msgstr ""
+
+msgid ":snomagic"
+msgstr ""
+
+msgid ":sno[magic]\t:substitute with"
+msgstr ""
+
+msgid "'nomagic'"
+msgstr ""
+
+msgid ":snoremap"
+msgstr ""
+
+msgid ":snor[emap]\tlike \":noremap\" but for Select mode"
+msgstr ""
+
+msgid ":snoremenu"
+msgstr ""
+
+msgid ":snoreme[nu]\tlike \":noremenu\" but for Select mode"
+msgstr ""
+
+msgid ":sort"
+msgstr ""
+
+msgid ":sor[t]\t\tsort lines"
+msgstr ""
+
+msgid ":source"
+msgstr ""
+
+msgid ":so[urce]\tread Vim or Ex commands from a file"
+msgstr ""
+
+msgid ":spelldump"
+msgstr ""
+
+msgid ":spelld[ump]\tsplit window and fill with all correct words"
+msgstr ""
+
+msgid ":spellgood"
+msgstr ""
+
+msgid ":spe[llgood]\tadd good word for spelling"
+msgstr ""
+
+msgid ":spellinfo"
+msgstr ""
+
+msgid ":spelli[nfo]\tshow info about loaded spell files"
+msgstr ""
+
+msgid ":spellrare"
+msgstr ""
+
+msgid ":spellra[re]\tadd rare word for spelling"
+msgstr ""
+
+msgid ":spellrepall"
+msgstr ""
+
+msgid ":spellr[epall]\treplace all bad words like last"
+msgstr ""
+
+msgid "z="
+msgstr ""
+
+msgid ":spellundo"
+msgstr ""
+
+msgid ":spellu[ndo]\tremove good or bad word"
+msgstr ""
+
+msgid ":spellwrong"
+msgstr ""
+
+msgid ":spellw[rong]\tadd spelling mistake"
+msgstr ""
+
+msgid ":split"
+msgstr ""
+
+msgid ":sp[lit]\tsplit current window"
+msgstr ""
+
+msgid ":sprevious"
+msgstr ""
+
+msgid ""
+":spr[evious]\tsplit window and go to previous file in the\n"
+"\t\t\t\targument list"
+msgstr ""
+
+msgid ":srewind"
+msgstr ""
+
+msgid ""
+":sre[wind]\tsplit window and go to first file in the\n"
+"\t\t\t\targument list"
+msgstr ""
+
+msgid ":stop"
+msgstr ""
+
+msgid ":st[op]\t\tsuspend the editor or escape to a shell"
+msgstr ""
+
+msgid ":stag"
+msgstr ""
+
+msgid ":sta[g]\t\tsplit window and jump to a tag"
+msgstr ""
+
+msgid ":startinsert"
+msgstr ""
+
+msgid ":star[tinsert]\tstart Insert mode"
+msgstr ""
+
+msgid ":startgreplace"
+msgstr ""
+
+msgid ":startg[replace] start Virtual Replace mode"
+msgstr ""
+
+msgid ":startreplace"
+msgstr ""
+
+msgid ":startr[eplace]\tstart Replace mode"
+msgstr ""
+
+msgid ":stopinsert"
+msgstr ""
+
+msgid ":stopi[nsert]\tstop Insert mode"
+msgstr ""
+
+msgid ":stjump"
+msgstr ""
+
+msgid ":stj[ump]\tdo \":tjump\" and split window"
+msgstr ""
+
+msgid ":stselect"
+msgstr ""
+
+msgid ":sts[elect]\tdo \":tselect\" and split window"
+msgstr ""
+
+msgid ":sunhide"
+msgstr ""
+
+msgid ":sun[hide]\tsame as \":unhide\""
+msgstr ""
+
+msgid ":sunmap"
+msgstr ""
+
+msgid ":sunm[ap]\tlike \":unmap\" but for Select mode"
+msgstr ""
+
+msgid ":sunmenu"
+msgstr ""
+
+msgid ":sunme[nu]\tremove menu for Select mode"
+msgstr ""
+
+msgid ":suspend"
+msgstr ""
+
+msgid ":sus[pend]\tsame as \":stop\""
+msgstr ""
+
+msgid ":sview"
+msgstr ""
+
+msgid ":sv[iew]\tsplit window and edit file read-only"
+msgstr ""
+
+msgid ":swapname"
+msgstr ""
+
+msgid ":sw[apname]\tshow the name of the current swap file"
+msgstr ""
+
+msgid ":syntax"
+msgstr ""
+
+msgid ":sy[ntax]\tsyntax highlighting"
+msgstr ""
+
+msgid ":syntime"
+msgstr ""
+
+msgid ":synti[me]\tmeasure syntax highlighting speed"
+msgstr ""
+
+msgid ":syncbind"
+msgstr ""
+
+msgid ":sync[bind]\tsync scroll binding"
+msgstr ""
+
+msgid ":t"
+msgstr ""
+
+msgid ":t\t\tsame as \":copy\""
+msgstr ""
+
+msgid ":tNext"
+msgstr ""
+
+msgid ":tN[ext]\tjump to previous matching tag"
+msgstr ""
+
+msgid ":tabNext"
+msgstr ""
+
+msgid ":tabN[ext]\tgo to previous tab page"
+msgstr ""
+
+msgid ":tabclose"
+msgstr ""
+
+msgid ":tabc[lose]\tclose current tab page"
+msgstr ""
+
+msgid ":tabdo"
+msgstr ""
+
+msgid ":tabdo\t\texecute command in each tab page"
+msgstr ""
+
+msgid ":tabedit"
+msgstr ""
+
+msgid ":tabe[dit]\tedit a file in a new tab page"
+msgstr ""
+
+msgid ":tabfind"
+msgstr ""
+
+msgid ":tabf[ind]\tfind file in"
+msgstr ""
+
+msgid "'path'"
+msgstr ""
+
+msgid ", edit it in a new tab page"
+msgstr ""
+
+msgid ":tabfirst"
+msgstr ""
+
+msgid ":tabfir[st]\tgo to first tab page"
+msgstr ""
+
+msgid ":tablast"
+msgstr ""
+
+msgid ":tabl[ast]\tgo to last tab page"
+msgstr ""
+
+msgid ":tabmove"
+msgstr ""
+
+msgid ":tabm[ove]\tmove tab page to other position"
+msgstr ""
+
+msgid ":tabnew"
+msgstr ""
+
+msgid ":tabnew\t\tedit a file in a new tab page"
+msgstr ""
+
+msgid ":tabnext"
+msgstr ""
+
+msgid ":tabn[ext]\tgo to next tab page"
+msgstr ""
+
+msgid ":tabonly"
+msgstr ""
+
+msgid ":tabo[nly]\tclose all tab pages except the current one"
+msgstr ""
+
+msgid ":tabprevious"
+msgstr ""
+
+msgid ":tabp[revious]\tgo to previous tab page"
+msgstr ""
+
+msgid ":tabrewind"
+msgstr ""
+
+msgid ":tabr[ewind]\tgo to first tab page"
+msgstr ""
+
+msgid ":tabs"
+msgstr ""
+
+msgid ":tabs\t\tlist the tab pages and what they contain"
+msgstr ""
+
+msgid ":tab"
+msgstr ""
+
+msgid ":tab\t\tcreate new tab when opening new window"
+msgstr ""
+
+msgid ":tag"
+msgstr ""
+
+msgid ":ta[g]\t\tjump to tag"
+msgstr ""
+
+msgid ":tags"
+msgstr ""
+
+msgid ":tags\t\tshow the contents of the tag stack"
+msgstr ""
+
+msgid ":tcd"
+msgstr ""
+
+msgid ":tc[d]\t\tchange directory for tab page"
+msgstr ""
+
+msgid ":tchdir"
+msgstr ""
+
+msgid ":tch[dir]\tchange directory for tab page"
+msgstr ""
+
+msgid ":terminal"
+msgstr ""
+
+msgid ":te[rminal]\topen a terminal buffer"
+msgstr ""
+
+msgid ":tfirst"
+msgstr ""
+
+msgid ":tf[irst]\tjump to first matching tag"
+msgstr ""
+
+msgid ":throw"
+msgstr ""
+
+msgid ":th[row]\tthrow an exception"
+msgstr ""
+
+msgid ":tjump"
+msgstr ""
+
+msgid ""
+":tj[ump]\tlike \":tselect\", but jump directly when there\n"
+"\t\t\t\tis only one match"
+msgstr ""
+
+msgid ":tlast"
+msgstr ""
+
+msgid ":tl[ast]\tjump to last matching tag"
+msgstr ""
+
+msgid ":tlmenu"
+msgstr ""
+
+msgid ":tlm[enu]\tadd menu for"
+msgstr ""
+
+msgid "Terminal-mode"
+msgstr ""
+
+msgid ":tlnoremenu"
+msgstr ""
+
+msgid ":tln[oremenu]\tlike \":noremenu\" but for"
+msgstr ""
+
+msgid "Terminal-mode"
+msgstr ""
+
+msgid ":tlunmenu"
+msgstr ""
+
+msgid ":tlu[nmenu]\tremove menu for"
+msgstr ""
+
+msgid "Terminal-mode"
+msgstr ""
+
+msgid ":tmapclear"
+msgstr ""
+
+msgid ":tmapc[lear]\tremove all mappings for"
+msgstr ""
+
+msgid "Terminal-mode"
+msgstr ""
+
+msgid ":tmap"
+msgstr ""
+
+msgid ":tma[p]\t\tlike \":map\" but for"
+msgstr ""
+
+msgid "Terminal-mode"
+msgstr ""
+
+msgid ":tmenu"
+msgstr ""
+
+msgid ":tm[enu]\tdefine menu tooltip"
+msgstr ""
+
+msgid ":tnext"
+msgstr ""
+
+msgid ":tn[ext]\tjump to next matching tag"
+msgstr ""
+
+msgid ":tnoremap"
+msgstr ""
+
+msgid ":tno[remap]\tlike \":noremap\" but for"
+msgstr ""
+
+msgid "Terminal-mode"
+msgstr ""
+
+msgid ":topleft"
+msgstr ""
+
+msgid ":to[pleft]\tmake split window appear at top or far left"
+msgstr ""
+
+msgid ":tprevious"
+msgstr ""
+
+msgid ":tp[revious]\tjump to previous matching tag"
+msgstr ""
+
+msgid ":trewind"
+msgstr ""
+
+msgid ":tr[ewind]\tjump to first matching tag"
+msgstr ""
+
+msgid ":trust"
+msgstr ""
+
+msgid ":trust\t\tadd or remove file from trust database"
+msgstr ""
+
+msgid ":try"
+msgstr ""
+
+msgid ":try\t\texecute commands, abort on error or exception"
+msgstr ""
+
+msgid ":tselect"
+msgstr ""
+
+msgid ":ts[elect]\tlist matching tags and select one"
+msgstr ""
+
+msgid ":tunmap"
+msgstr ""
+
+msgid ":tunma[p]\tlike \":unmap\" but for"
+msgstr ""
+
+msgid "Terminal-mode"
+msgstr ""
+
+msgid ":tunmenu"
+msgstr ""
+
+msgid ":tu[nmenu]\tremove menu tooltip"
+msgstr ""
+
+msgid ":undo"
+msgstr ""
+
+msgid ":u[ndo]\t\tundo last change(s)"
+msgstr ""
+
+msgid ":undojoin"
+msgstr ""
+
+msgid ":undoj[oin]\tjoin next change with previous undo block"
+msgstr ""
+
+msgid ":undolist"
+msgstr ""
+
+msgid ":undol[ist]\tlist leafs of the undo tree"
+msgstr ""
+
+msgid ":unabbreviate"
+msgstr ""
+
+msgid ":una[bbreviate]\tremove abbreviation"
+msgstr ""
+
+msgid ":unhide"
+msgstr ""
+
+msgid ""
+":unh[ide]\topen a window for each loaded file in the\n"
+"\t\t\t\tbuffer list"
+msgstr ""
+
+msgid ":unlet"
+msgstr ""
+
+msgid ":unl[et]\tdelete variable"
+msgstr ""
+
+msgid ":unlockvar"
+msgstr ""
+
+msgid ":unlo[ckvar]\tunlock variables"
+msgstr ""
+
+msgid ":unmap"
+msgstr ""
+
+msgid ":unm[ap]\tremove mapping"
+msgstr ""
+
+msgid ":unmenu"
+msgstr ""
+
+msgid ":unme[nu]\tremove menu"
+msgstr ""
+
+msgid ":unsilent"
+msgstr ""
+
+msgid ":uns[ilent]\trun a command not silently"
+msgstr ""
+
+msgid ":update"
+msgstr ""
+
+msgid ":up[date]\twrite buffer if modified"
+msgstr ""
+
+msgid ":vglobal"
+msgstr ""
+
+msgid ":v[global]\texecute commands for not matching lines"
+msgstr ""
+
+msgid ":version"
+msgstr ""
+
+msgid ":ve[rsion]\tprint version number and other info"
+msgstr ""
+
+msgid ":verbose"
+msgstr ""
+
+msgid ":verb[ose]\texecute command with"
+msgstr ""
+
+msgid "'verbose'"
+msgstr ""
+
+msgid "set"
+msgstr ""
+
+msgid ":vertical"
+msgstr ""
+
+msgid ":vert[ical]\tmake following command split vertically"
+msgstr ""
+
+msgid ":vimgrep"
+msgstr ""
+
+msgid ":vim[grep]\tsearch for pattern in files"
+msgstr ""
+
+msgid ":vimgrepadd"
+msgstr ""
+
+msgid ":vimgrepa[dd]\tlike :vimgrep, but append to current list"
+msgstr ""
+
+msgid ":visual"
+msgstr ""
+
+msgid ":vi[sual]\tsame as \":edit\", but turns off \"Ex\" mode"
+msgstr ""
+
+msgid ":viusage"
+msgstr ""
+
+msgid ":viu[sage]\toverview of Normal mode commands"
+msgstr ""
+
+msgid ":view"
+msgstr ""
+
+msgid ":vie[w]\t\tedit a file read-only"
+msgstr ""
+
+msgid ":vmap"
+msgstr ""
+
+msgid ":vm[ap]\t\tlike \":map\" but for Visual+Select mode"
+msgstr ""
+
+msgid ":vmapclear"
+msgstr ""
+
+msgid ":vmapc[lear]\tremove all mappings for Visual+Select mode"
+msgstr ""
+
+msgid ":vmenu"
+msgstr ""
+
+msgid ":vme[nu]\tadd menu for Visual+Select mode"
+msgstr ""
+
+msgid ":vnew"
+msgstr ""
+
+msgid ":vne[w]\t\tcreate a new empty window, vertically split"
+msgstr ""
+
+msgid ":vnoremap"
+msgstr ""
+
+msgid ":vn[oremap]\tlike \":noremap\" but for Visual+Select mode"
+msgstr ""
+
+msgid ":vnoremenu"
+msgstr ""
+
+msgid ":vnoreme[nu]\tlike \":noremenu\" but for Visual+Select mode"
+msgstr ""
+
+msgid ":vsplit"
+msgstr ""
+
+msgid ":vs[plit]\tsplit current window vertically"
+msgstr ""
+
+msgid ":vunmap"
+msgstr ""
+
+msgid ":vu[nmap]\tlike \":unmap\" but for Visual+Select mode"
+msgstr ""
+
+msgid ":vunmenu"
+msgstr ""
+
+msgid ":vunme[nu]\tremove menu for Visual+Select mode"
+msgstr ""
+
+msgid ":windo"
+msgstr ""
+
+msgid ":windo\t\texecute command in each window"
+msgstr ""
+
+msgid ":write"
+msgstr ""
+
+msgid ":w[rite]\twrite to a file"
+msgstr ""
+
+msgid ":wNext"
+msgstr ""
+
+msgid ""
+":wN[ext]\twrite to a file and go to previous file in\n"
+"\t\t\t\targument list"
+msgstr ""
+
+msgid ":wall"
+msgstr ""
+
+msgid ":wa[ll]\t\twrite all (changed) buffers"
+msgstr ""
+
+msgid ":while"
+msgstr ""
+
+msgid ":wh[ile]\texecute loop for as long as condition met"
+msgstr ""
+
+msgid ":winsize"
+msgstr ""
+
+msgid ":wi[nsize]\tget or set window size (obsolete)"
+msgstr ""
+
+msgid ":wincmd"
+msgstr ""
+
+msgid ":winc[md]\texecute a Window ("
+msgstr ""
+
+msgid "CTRL-W"
+msgstr ""
+
+msgid ") command"
+msgstr ""
+
+msgid ":winpos"
+msgstr ""
+
+msgid ":winp[os]\tget or set window position"
+msgstr ""
+
+msgid ":wnext"
+msgstr ""
+
+msgid ""
+":wn[ext]\twrite to a file and go to next file in\n"
+"\t\t\t\targument list"
+msgstr ""
+
+msgid ":wprevious"
+msgstr ""
+
+msgid ""
+":wp[revious]\twrite to a file and go to previous file in\n"
+"\t\t\t\targument list"
+msgstr ""
+
+msgid ":wq"
+msgstr ""
+
+msgid ":wq\t\twrite to a file and quit window or Vim"
+msgstr ""
+
+msgid ":wqall"
+msgstr ""
+
+msgid ":wqa[ll]\twrite all changed buffers and quit Vim"
+msgstr ""
+
+msgid ":wshada"
+msgstr ""
+
+msgid ":wsh[ada]\twrite to ShaDa file"
+msgstr ""
+
+msgid ":wundo"
+msgstr ""
+
+msgid ":wu[ndo]\twrite undo information to a file"
+msgstr ""
+
+msgid ":xit"
+msgstr ""
+
+msgid ":x[it]\t\twrite if buffer changed and close window"
+msgstr ""
+
+msgid ":xall"
+msgstr ""
+
+msgid ":xa[ll]\t\tsame as \":wqall\""
+msgstr ""
+
+msgid ":xmapclear"
+msgstr ""
+
+msgid ":xmapc[lear]\tremove all mappings for Visual mode"
+msgstr ""
+
+msgid ":xmap"
+msgstr ""
+
+msgid ":xm[ap]\t\tlike \":map\" but for Visual mode"
+msgstr ""
+
+msgid ":xmenu"
+msgstr ""
+
+msgid ":xme[nu]\tadd menu for Visual mode"
+msgstr ""
+
+msgid ":xnoremap"
+msgstr ""
+
+msgid ":xn[oremap]\tlike \":noremap\" but for Visual mode"
+msgstr ""
+
+msgid ":xnoremenu"
+msgstr ""
+
+msgid ":xnoreme[nu]\tlike \":noremenu\" but for Visual mode"
+msgstr ""
+
+msgid ":xunmap"
+msgstr ""
+
+msgid ":xu[nmap]\tlike \":unmap\" but for Visual mode"
+msgstr ""
+
+msgid ":xunmenu"
+msgstr ""
+
+msgid ":xunme[nu]\tremove menu for Visual mode"
+msgstr ""
+
+msgid ":yank"
+msgstr ""
+
+msgid ":y[ank]\t\tyank lines into a register"
+msgstr ""
+
+msgid ":z"
+msgstr ""
+
+msgid ":z\t\tprint some lines"
+msgstr ""
+
+msgid ":~"
+msgstr ""
+
+msgid ":~\t\trepeat last \":substitute\""
+msgstr ""
+
+msgid "Main"
+msgstr ""
+
+msgid "Commands index"
+msgstr ""
+
+msgid "Quick reference"
+msgstr ""
+
+msgid "1. Insert mode"
+msgstr ""
+
+msgid "2. Normal mode"
+msgstr ""
+
+msgid "2.1 Text objects"
+msgstr ""
+
+msgid "2.2 Window commands"
+msgstr ""
+
+msgid "2.3 Square bracket commands"
+msgstr ""
+
+msgid "2.4 Commands starting with 'g'"
+msgstr ""
+
+msgid "2.5 Commands starting with 'z'"
+msgstr ""
+
+msgid "2.6 Operator-pending mode"
+msgstr ""
+
+msgid "3. Visual mode"
+msgstr ""
+
+msgid "4. Command-line editing"
+msgstr ""
+
+msgid "5. Terminal mode"
+msgstr ""
+
+msgid "6. EX commands"
+msgstr ""
+
+msgid "Generated at 2024-09-13 05:19 from"
+msgstr ""
+
+msgid "deac7df"
+msgstr ""
+
+msgid "parse_errors: 0 ("
+msgstr ""
+
+msgid "report docs bug..."
+msgstr ""
+
+msgid ") |"
+msgstr ""
+
+msgid "noise_lines: 3"
+msgstr ""
+
+msgid "algolia docsearch https://docsearch.algolia.com/docs/docsearch-v3/"
+msgstr ""
+
+msgid ""
+"docsearch({\n"
+"        container: '#docsearch',\n"
+"        appId: 'X185E15FPG',\n"
+"        apiKey: 'b5e6b2f9c636b2b471303205e59832ed',\n"
+"        indexName: 'nvim',\n"
+"      });"
+msgstr ""
